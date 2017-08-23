@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Design Principles",
+        "order": 4,
+        "from": "contributing/DESIGN_PRINCIPLES.md",
+        "to": "learn/design-principles.md",
+        "toc": true
+    },
+    {
+        "title": "Open Source Governance",
+        "order": 5,
+        "from": "GOVERNANCE.md",
+        "to": "docs/contribute/governance.md"
+    },
+    {
+        "title": "AMP HTML Specification",
+        "order": 2,
+        "from": "spec/amp-html-format.md",
+        "to": "docs/reference/spec.md"
+    },
+    {
+        "title": "AMP Boilerplate Code",
+        "order": 3,
+        "from": "spec/amp-boilerplate.md",
+        "to": "docs/reference/spec/amp-boilerplate.md"
+    },
+    {
+        "title": "Debug AMP Cache issues",
+        "order": 1,
+        "from": "spec/amp-cache-debugging.md",
+        "to": "docs/guides/amp-cache-debugging.md",
+        "category": "Debug"
+    },
+    {
+        "title": "CORS in AMP",
+        "order": 10,
+        "from": "spec/amp-cors-requests.md",
+        "to": "docs/guides/amp-cors-requests.md",
+        "category": "Deploy"
+    }
+]

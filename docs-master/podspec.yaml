@@ -1,0 +1,30 @@
+grow_version: ">=0.0.66"
+home: /content/pages/home.html
+
+localization:
+  default_locale: en
+  locales:
+  - en
+  aliases:
+    en_UK: en_GB
+
+static_dirs:
+- static_dir: /assets/
+  serve_at: /static/
+- static_dir: /pwa/
+  serve_at: /
+
+preprocessors:
+- kind: gulp
+
+markdown:
+  extensions:
+  - kind: sourcecode
+    classes: true
+
+deployments:
+  review:
+    destination: webreview
+    server: googwebreview.appspot.com
+    project: search/amp
+    name: amp

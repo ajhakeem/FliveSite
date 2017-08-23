@@ -1,0 +1,61 @@
+hero:
+  title@: Publishing + monetization platform for creators and bloggers.
+  content@: Fan Stories helps artists, content creators and bloggers build beautiful web presence and to make money.
+  cta@: Learn about Fan Stories
+  cta_url: /content/learn/overview.yaml
+  secondary_cta@: Create your Website
+  secondary_cta_url: /content/docs/tutorials/general/create.md
+  phone_img_base: /static/img/home/home_main2
+  carousel_title@: Updates
+
+benefits:
+  title@: What Fan Stories Provides
+  cards:
+    - title@: A beautiful web presence for your content
+      content@: Fan Stories provides beautiful Web presence for your content in the form of automagically generated websites that load instantaneously. No tech skills required.
+      img: /static/img/home/home_icon_performance.svg
+      img_width: 56
+      img_height: 103
+
+    - title@: Monetize with Subscriptions or Ads
+      content@: Fan Stories monetizes your content with subscriptions or ads. 
+      img: /static/img/home/home_icon_flexibility.svg
+      img_width: 77
+      img_height: 92
+
+experience:
+  title@: A Platform built to power Sustainable Media platforms.
+  content@:  Fan Stories is built ground up by addressing the problems that content creators and media platforms have. Fan stories powers subscriptions so that your users can subscribe to the content you post. <br/> <br/>Large content creators are also provided with video ad serving platform, and this provides the highest amount of monetization that ads can provide.
+  phone_img_base: /static/img/home/home_app
+
+
+success_stories:
+  title@: Case studies
+  cards:
+    - quote@: “We're new to technology and built a social-powered media platform in a couple of minutes. Fantastic features, and would definitely recommend.”
+      img: /static/img/home/hollywoodinsider.jpg
+      img_height: 297
+      img_width: 1280
+      url: /content/learn/case-studies/washingtonpost.md
+      class: wapo
+    - quote@: “Fan Stories helped goto market and monetize in no time. Would recommend Fan Stories for anyone building out a media platform.”
+      img_height: 305
+      img_width: 902
+      img: /static/img/home/geekdads.png
+      url: /content/learn/case-studies/wompmobile.md
+      class: wired
+    - quote@: “The Live Streaming to Blog feature of Fan Stories together with subscriptions are the features we're looking forward to, to save ourselves getting killed with low ad revenue.”
+      img_height: 118
+      img_width: 455
+      img: /static/img/home/verifiednews.png
+      url: /content/learn/case-studies/teads.md
+      class: teads
+
+large_cta:
+  title@: Get Started with Fan Stories
+  cta@: Sign up now
+  cta_url: /content/docs/tutorials/general/create.md
+  lines_left_width: 360
+  lines_left_height: 377
+  lines_right_width: 360
+  lines_right_height: 377

@@ -1,0 +1,20 @@
+{
+  "name": "AMPProject.org",
+  "private": true,
+  "dependencies": {
+    "feedparser": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-plumber": "*",
+    "gulp-sass": "*",
+    "gulp-svg-sprite": "*",
+    "moment": "*",
+    "octonode": "*",
+    "request": "*"
+  },
+  "devDependencies": {
+    "workbox-build": "*",
+    "workbox-sw": "*",
+    "amp-by-example": "*"
+  }
+}

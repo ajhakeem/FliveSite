@@ -1,0 +1,17 @@
+*.mo
+.DS_Store
+.sass-cache
+.idea
+node_modules
+
+build
+assets/css/*
+
+content/includes/who.yaml
+content/docs/contribute/governance.md
+content/learn/design-principles.md
+content/docs/reference/spec.md
+content/docs/reference/spec/*.md
+content/docs/reference/components/**/*.md
+content/docs/guides/amp-cors-requests.md
+content/docs/guides/amp-cache-debugging.md

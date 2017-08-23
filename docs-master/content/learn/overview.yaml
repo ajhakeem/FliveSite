@@ -1,0 +1,47 @@
+$title@: Overview
+$titles:
+  breadcrumb@: What is AMP
+$order: 0
+class: about-overview
+$view: /views/about-overview.html
+
+components:
+  - youtube
+
+hero:
+  title@: Fan Stories is a publishing tool for the social web.
+  triangle_img: herobg.svg
+  line1_img: herolines1.svg
+  line2_img: herolines2.svg
+  phone_img_base: /static/img/about/overview/what_phone
+  cta@: Play Video
+  cta_url: '#video'
+
+core:
+  title: Fan Stories provides the following features
+  components:
+    - title: Publishing 
+      subtitle: | 
+        Beautiful websites are automatically published by Fan Stories.
+      description: |
+        ** Beautiful pages are published ** automagically with the content you share. Pages are linked with your Social (Facebook) accounts so that they can be shared there as well. 
+       
+    - title: Auto Publishing to Accelerated Mobile Pages (AMP) and Facebook's Instant articles
+      subtitle: |
+          AMP and Instant articles increase the reach of your content because both these technologies help the pages / articles to load really fast and are favored by Google's and Facebook's algorithms respectively.
+      description: |
+        AMP helps pages load quickly on the Open web and Facebook's instant articles load content really fast within Facebook. Both these formats help in improved reach across your audiences with favoured discovery both within Newsfeed and within Google search results.
+    - title: Messenger Bot for content distribution
+      subtitle: |
+        Fan Stories provides an interactive Messenger bot 
+      description: |
+          Fan Stories provides an interactive messenger bot that helps your Facebook page interact with its users. The bot responds with content from your blog. For those users who subscribe for alerts get notified whenever new content is available.
+video:
+  id: FvaD8E83Mgg
+  line1_img: lines3.svg
+  line2_img: line4.svg
+
+cta:
+  title: See what Fan Stories can do for you
+  link_text: Learn who uses Fan Stories
+  link_url: /content/learn/case-studies.html

@@ -1,0 +1,47 @@
+$title@: How Fan Stories works
+$titles:
+  breadcrumb@: How Fan Stories works
+$order: 1
+class: about-how bg-triangle-secondary bg-triangle-bottom
+$view: /views/about-how.html
+
+components:
+  - youtube
+
+hero:
+  title: How Fan Stories works
+  subtitle: "Fan Stories is simple to understand. Build your website. Publish blogs everyday through Fan stories and these are also shared on your social media. Enable monetization and make money."
+
+video: FvaD8E83Mgg
+
+
+points:
+  pointlist:
+    - title: Step 1 - Connect your Facebook account. 
+      id: execute-js-asynchronously
+      description: |
+        Connecting your Facebook account to Fan Stories enables us to post on your behalf, into your Facebook page. 
+        We don't post anything without your explicit permission.
+
+    - title: Step 2 - Create a blog / page on Fan Stories
+      id: size-all-resources-statically
+      description: |
+        The next step is to create a blog or page on Fan Stories. 
+    - title: Step 3 - Compose a blog post
+      id: dont-block-rendering
+      description: |
+        Create a blog post with your content on Fan Stories. 
+    - title: Step 4 - Post your content on to the blog. Share on Facebook. 
+      id: third-party-js-non-critical
+      description: |
+        Your content can be shared on social media by 
+    
+
+
+video2: WVkE4ZfwoWc
+
+
+cta:
+  title@: See what Fan Stories can do for you
+  link_text@: Learn who uses Fan Stories
+  link_url: /content/learn/who-uses-amp.yaml

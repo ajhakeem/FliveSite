@@ -1,0 +1,47 @@
+menu:
+  - href: /content/learn/overview.html
+    copy@: The Platform
+    collection: learn
+    children:
+      - href: /content/learn/overview.html
+        copy@: "Fan Stories Features"
+      - href: /content/learn/about-how.yaml
+        copy@: "How Fan Stories works"
+      - href: /content/learn/amp-design-principles.yaml
+        copy@: "Design Principles"
+      - href: /content/learn/who-uses-amp.yaml
+        copy@: "Who is Fan Stories for?"
+        collection: learn/who
+      - href: /content/learn/case-studies.html
+        copy@: "Case Studies"
+        collection: learn/case-studies
+  - href: /content/docs/build.md
+    copy@: Docs
+    collection: docs
+    children:
+      - href: /content/docs/getting-started.md
+        copy@: "Getting started"
+      - href: /content/docs/guides/responsive_amp.md
+        copy@: "Guides"
+        collection: docs/guides
+      
+  - href: /content/latest/latest.html
+    copy@: News and Updates
+    collection: latest
+    children:
+      - href: /content/latest/latest.html
+        copy@: "What's New"
+      - href: /content/latest/list-blog.html
+        copy@: "News"
+      - href: /content/latest/list-event.html
+        copy@: "Events"
+      
+  - href: /content/support/support.md
+    copy@: Support
+    collection: support
+    children:
+      - href: /content/support/faqs.md
+        copy@: "FAQ"
+        collection: support/faqs
+    
+      
