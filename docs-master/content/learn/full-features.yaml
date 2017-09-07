@@ -2,29 +2,28 @@ $title@: Features
 $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/design-principles.html
-$parent: /content/learn/overview.yaml
 
-subtitle@: These design principles are meant to guide the ongoing design and development of AMP. They should help us make internally consistent decisions.
+subtitle@: 
 
 principles:
-  - title@: User Experience > Developer Experience > Ease of Implementation.
-    description@: When in doubt, do what’s best for the end user experience, even if it means that it’s harder for the page creator to build or for the library developer to implement.
+  - title@: Powerful editor to author and post content
+    description@: Fan stories supports a really powerful freeform editor that allows content creators to compose beautful articles and post them on their blogs.
     icon: design_icon_ux.svg
-  - title@: Don’t design for a hypothetical faster future browser.
-    description@: "We’ve chosen to build AMP as a library in the spirit of the [extensible web manifesto](https://github.com/extensibleweb/manifesto/blob/master/README.md) to be able to fix the web of today, not the web of tomorrow.
-
-AMP should be fast in today's browsers. When certain optimizations aren't possible with today's platform, AMP developers should participate in standards development to get these added to the web platform."
+  - title@: Integration with Facebook, Youtube, Giphy and News sources.
+    description@: Integration with  Facebook for immediate social sharing, Giphy for sourcing Gifs, Youtube for integrating videos and with News sources to insert snippets of news sources within the blogs.
+  - title@: Support for Instant Articles and Google Amp
+    description@: Fan Stories comes out of the box support for Facebook's instant articles and google amp.
     icon: design_icon_future.svg
-  - title@: Don’t break the web.
-    description@: Ensure that if AMP has outages or problems it doesn’t hurt the rest of the web. That means if the Google AMP Cache, the URL API or the library fails it should be possible for websites and consumption apps to gracefully degrade. If something works with an AMP cache it should also work without a cache.
+  - title@: Live Streaming support
+    description@: Fan Stories supports live streaming for influencers and content creators who would like to livestream right into their blog. An Android app, now available on the play store provides the features to livestream.
     icon: design_icon_break.svg
-  - title@: Solve problems on the right layer.
-    description@: E.g. don’t integrate things on the client side, just because that is easier, when the user experience would be better with a server side integration.
+  - title@: Earn revenue through Subscription platform
+    description@: Fan Stories supports revenue generation of premium content through out of box support for subscriptions. Users can subscribe to premium content and get billed on a monthly basis. Influencers and content creators can create subscription plans ranging from $1 to $10 monthly and offer yearly discounts.
     icon: design_icon_layers.svg
-  - title@: Only do things if they can be made fast.
-    description@: Don’t introduce components or features to AMP that can’t reliably run at 60fps or hinder the instant load experience on today’s most common mobile devices.
+  - title@: Video ad serving for Premium creators
+    description@: Fan Stories provides video ad serving features for premium publishers allowing them to serve video ads within their content.
     icon: design_icon_fast.svg
-  - title@: Prioritise things that improve the user experience – but compromise when needed.
+  - title@: Facebook Messenger bot to distribute, amplify the reach of the content
     description@: Some things can be made fast and are still a terrible user experience. AMPs should deliver a fantastic user experience and speed is just one part of that. Only compromise when lack of support for something would stop AMP from being widely used and deployed.
     icon: design_icon_priorities.svg
   - title@: No whitelists.

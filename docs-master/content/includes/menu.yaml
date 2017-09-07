@@ -1,10 +1,10 @@
 menu:
   - href: /content/learn/overview.html
-    copy@: The Platform
+    copy@: About
     collection: learn
     children:
       - href: /content/learn/overview.html
-        copy@: "Fan Stories Features"
+        copy@: "Overview"
       - href: /content/learn/about-how.yaml
         copy@: "How Fan Stories works"
       - href: /content/learn/full-features.yaml
