@@ -7,8 +7,8 @@ menu:
         copy@: "Fan Stories Features"
       - href: /content/learn/about-how.yaml
         copy@: "How Fan Stories works"
-      - href: /content/learn/amp-design-principles.yaml
-        copy@: "Design Principles"
+      - href: /content/learn/full-features.yaml
+        copy@: "Feature list"
       - href: /content/learn/who-uses-amp.yaml
         copy@: "Who is Fan Stories for?"
         collection: learn/who
