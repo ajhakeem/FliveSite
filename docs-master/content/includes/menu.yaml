@@ -1,6 +1,6 @@
 menu:
   - href: /content/learn/overview.html
-    copy@: About
+    copy@: Platform Overview
     collection: learn
     children:
       - href: /content/learn/overview.html
@@ -16,15 +16,12 @@ menu:
         copy@: "Case Studies"
         collection: learn/case-studies
   - href: /content/docs/build.md
-    copy@: Docs
+    copy@: Getting Started
     collection: docs
     children:
       - href: /content/docs/getting-started.md
-        copy@: "Getting started"
-      - href: /content/docs/guides/responsive_amp.md
-        copy@: "Guides"
-        collection: docs/guides
-      
+        copy@: "Step by step instructions"
+   
   - href: /content/latest/latest.html
     copy@: News and Updates
     collection: latest
@@ -35,13 +32,6 @@ menu:
         copy@: "News"
       - href: /content/latest/list-event.html
         copy@: "Events"
-      
-  - href: /content/support/support.md
-    copy@: Support
-    collection: support
-    children:
-      - href: /content/support/faqs.md
-        copy@: "FAQ"
-        collection: support/faqs
+       
     
       
