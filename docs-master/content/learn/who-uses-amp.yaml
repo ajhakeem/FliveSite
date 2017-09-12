@@ -6,11 +6,9 @@ $parent: /content/learn/overview.yaml
 $path: /learn/who-uses-amp/
 
 hero:
-  title: Who is AMP for?
-  subtitle: Join an ecosystem of 850,000 domains, leading platforms, and 100+ technology providers using  AMP.
+  title: Who is Fan Stories for?
+  subtitle: Fan Stories is build for Publishers, Video Content Creators, Influencers, and Facebook Page. 
   hero_img_base: /static/img/about/who-use-amp/who_phones_hero
-  line_img: who_lines1.svg
-  triangle_img: hero_triangle.png
 
 cards:
   - name: Publishers
@@ -23,13 +21,13 @@ cards:
   #   cta: Learn More
   #   icon: card_smb.svg
 
-  - name: Ad Tech Platforms
-    filename: ad-tech-platforms
+  - name: Video content creators
+    filename: video-content-creators
     cta: Learn More
     icon: who_icon_adtech.svg
 
-  - name: Advertisers
-    filename: advertisers
+  - name: Influencers / Facebook Pages owners.
+    filename: influencers
     cta: Learn More
     icon: who_icon_advertisers.svg
 
@@ -39,6 +37,6 @@ cards:
   #   icon: card_developers.svg
 
 cta:
-  title: Success stories
+  title: Register
   link_text: Read case studies
   link_url: /content/learn/case-studies.html
