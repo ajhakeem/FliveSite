@@ -3,7 +3,7 @@ $order: 1
 class: about-who
 $view: /views/about-who.html
 $parent: /content/learn/overview.yaml
-$path: /learn/who-uses-amp/
+$path: /learn/who-uses-fanstories/
 
 hero:
   title: Who is Fan Stories for?
