@@ -22,7 +22,7 @@ twitter:
   title@: Follow us on Twitter
   icon_twitter: /static/img/latest/icon_twitter.svg
   icon_retweet: /static/img/latest/icon_retweet.png
-  account_id: AMPhtml
-  account_href: https://twitter.com/amphtml
-  follow_cta@: Follow AMP
-  follow_href: https://twitter.com/intent/follow?screen_name=AMPhtml
+  account_id: FanStoriesCo
+  account_href: https://twitter.com/fanstoriesco
+  follow_cta@: Follow Fan Stories
+  follow_href: https://twitter.com/intent/follow?screen_name=FanStoriesCo
