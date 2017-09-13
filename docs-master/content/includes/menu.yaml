@@ -32,6 +32,20 @@ menu:
         copy@: "News"
       - href: /content/latest/list-event.html
         copy@: "Events"
-       
+
+  - href: "http://blog.fanstories.co"
+    copy@: Blog
+    collection: blog
+    children:
+      - href: "http://blog.fanstories.co/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html"
+        copy@: "Latest: Announcing paywall"
+    
+      
+  - href: "http://app.fanstories.co"
+    copy@: Sign up
+    collection: Sign
+    children:
+      - href: "http://app.fanstories.co/#/login"
+        copy@: "Login"
     
       
