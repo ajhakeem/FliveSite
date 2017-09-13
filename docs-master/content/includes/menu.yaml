@@ -9,7 +9,7 @@ menu:
         copy@: "How Fan Stories works"
       - href: /content/learn/full-features.yaml
         copy@: "Feature list"
-      - href: /content/learn/who-uses-amp.yaml
+      - href: /content/learn/who-uses-fanstories.yaml
         copy@: "Who is Fan Stories for?"
         collection: learn/who
       - href: /content/learn/case-studies.html

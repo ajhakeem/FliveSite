@@ -16,7 +16,7 @@ results:
     - stat: 88%
       description: increase in revenue due to ads + subscriptions
     - stat: 1000+
-      description: articles Hollywood insider publishes monthly.
+      description: New likes each month expected on Facebook.
 logo:
   src: "case-studies/hollywoodinsider.jpg"
   width: 260
@@ -35,3 +35,15 @@ logo:
 Hollywood Insider is a hollywood movie previews portal that switched to Fan Stories. Before using Fan stories, Hollywood insider used to get traffic through organic google SEO as well as facebook posted links.
 
 After switching to Fan Stories as well as enabling an Instant Messenger bot, Hollywood Insider was able to increase the reach of the content as well as introduce a payments driven model.
+
+Fan Stories also helped Hollywood Insider find a larger audience thanks to it's social publishing capabilities. Newer audiences were able to discover Hollywood Insider.
+
+
+#### Improved metrics
+
+In the months since Hollywood Insider was built using Fan Stories, traffic and all other engagement metrics have steadily increased.
+
+> “Fan Stories has helped us dramatically to improve Hollywood Insider. All of our engagement metrics are up. We are looking to move the rest of the properties we own onto Fan Stories as well.”
+>
+> CEO of Hollywood Insider.
+

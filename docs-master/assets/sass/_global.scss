@@ -12,6 +12,9 @@ body {
 }
 
 body {
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+
   @extend %text-base;
   @extend %text-body;
   color: $color-black;

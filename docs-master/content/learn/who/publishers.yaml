@@ -1,7 +1,7 @@
-$title@: AMP for Publishers
+$title@: Fan Stories for Publishers.
 class: about-who-vertical
 $order: 0
-$parent: /content/learn/who-uses-amp.yaml
+$parent: /content/learn/who-uses-fanstories.yaml
 components:
   - carousel
 
@@ -65,8 +65,8 @@ why:
 case:
   title@: See publisher case studies with Fan Stories.
   cases:
-    - filename: washingtonpost.md
-    - filename: wired.md
+    - filename: hollywoodinsider.md
+    - filename: verifiednews.md
 
 cta:
   title@: Get Started Building

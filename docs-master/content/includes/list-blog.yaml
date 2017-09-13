@@ -1,5 +1,49 @@
 blogs:
 
+- type: Blog
+  title: "The Why and How of Accelerated Mobile Pages at Condé Nast"
+  id: the-why-and-how-of-accelerated-mobile-pages-at-conde-nast
+  author: amphtml
+  role: 
+  origin: "https://amphtml.wordpress.com/2017/09/08/the-why-and-how-of-accelerated-mobile-pages-at-conde-nast/amp/"
+  excerpt: "Editor&#8217;s note: We found this awesome post on the Condé Nast Technology blog. Send feedback to @oscrperez and for more information about Condé Nast Technology, follow @CondeNastTech. Written by Oscar Perez, Condé Nast What is the Google led AMP Project? Accelerated Mobile Pages are a set of performance focused restrictions and limitations on HTML, CSS, and [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-09-08T06:57:02-07:00
+  date: "September 8, 2017"
+
+- type: Blog
+  title: "Faster AMP ad landing page support from AdWords"
+  id: faster-amp-ad-landing-page-support-from-adwords
+  author: Vamsee Jasti
+  role:  Product Manager, AMP Project
+  origin: "https://amphtml.wordpress.com/2017/09/07/faster-amp-ad-landing-page-support-from-adwords/amp/"
+  excerpt: "Today, AdWords announced support for AMP page delivery from the Google AMP Cache. As a result, advertisers who use AMP pages as ad landing pages in Adwords can expect those landing pages to load near-instantly. This launch, along with all the other recently launched features in AMP like forms, dynamic content and robust analytics support, makes [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-09-07T14:12:49-07:00
+  date: "September 7, 2017"
+
+- type: Blog
+  title: "E-commerce at the speed of AMP"
+  id: e-commerce-at-the-speed-of-amp
+  author: Lisa Wang
+  role:  Product Manager, AMP Project
+  origin: "https://amphtml.wordpress.com/2017/09/06/e-commerce-at-the-speed-of-amp/amp/"
+  excerpt: "Early results for e-commerce companies that are investing in Accelerated Mobile Pages (AMP) are showing that the format is paying off in terms of conversions, speed, bounce rates and mobile acquisition costs. Brazil-based Fastcommerce&#8217;s clients are seeing a 15% lift in conversions on mobile as compared to non-AMP pages across their 2M AMP pages WompMobile [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-09-06T06:21:14-07:00
+  date: "September 6, 2017"
+
+- type: Blog
+  title: "Even Faster Loading Ads in AMP"
+  id: even-faster-loading-ads-in-amp
+  author: Vamsee Jasti
+  role:  Product Manager, AMP Project
+  origin: "https://amphtml.wordpress.com/2017/08/21/even-faster-loading-ads-in-amp/amp/"
+  excerpt: "As we’ve talked about before, we can’t improve the web for all if we don’t address how ads behave on web pages. At Google I/O earlier this year, we hosted a session on ads in AMP where we talked about the journey needed to get from supporting basic functionality of ads on AMP pages to [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-08-21T16:19:21-07:00
+  date: "August 21, 2017"
+
 - type: Video
   title: "How to Validate & Debug AMP Pages"
   id: npum8JsITQE
@@ -28,52 +72,3 @@ Subscribe to the The AMP Project YouTube channel and never miss an Amplify episo
   avatar: http://amphtml.files.wordpress.com/2017/07/featured.png
   datedata: 2017-07-20T15:50:15-07:00
   date: "July 20, 2017"
-
-- type: Blog
-  title: "AMP Roadmap update for end of Q2"
-  id: amp-roadmap-update-for-end-of-q2
-  author: Vamsee Jasti
-  role:  Product Manager, AMP Project
-  origin: "https://amphtml.wordpress.com/2017/07/14/amp-roadmap-update-for-end-of-q2/amp/"
-  excerpt: "We’ve updated the AMP Roadmap to reflect progress on existing priorities as well as several new projects. You can see the highlights below: Format amp-bind, a flexible event binding system supporting more interactivity in AMP is now fully available in production. To find out more about the range of capabilities this feature brings to AMP, [&#8230;]"
-  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-  datedata: 2017-07-14T16:49:34-07:00
-  date: "July 14, 2017"
-
-- type: Video
-  title: "What's Allowed in AMP and What Isn't?"
-  id: Gv8A4CktajQ
-  author: The AMP Channel
-  role: 
-  origin: "https://www.youtube.com/watch?v=Gv8A4CktajQ"
-  excerpt: "AMP HTML is a special flavor of HTML, and AMP keeps you on a fast path by not allowing you to shoot yourself in the foot. Here are the most important differences, limitations, and stuff you are not allowed to use in AMP.
-
-
-
-Subscribe to the The AMP Project YouTube channel and never miss an Amplify episode: https://goo.gl/g2Y8h7"
-  thumbnail: "https://i4.ytimg.com/vi/Gv8A4CktajQ/hqdefault.jpg"
-  avatar: 
-  datedata: 2017-07-13T15:00:23-07:00
-  date: "July 13, 2017"
-
-- type: Blog
-  title: "amp-bind brings flexible interactivity to AMP pages"
-  id: amp-bind-brings-flexible-interactivity-to-amp-pages
-  author: Eric Lindley
-  role:  Product Manager, AMP Project
-  origin: "https://amphtml.wordpress.com/2017/07/12/amp-bind-brings-flexible-interactivity-to-amp-pages/amp/"
-  excerpt: "We invited developers to try out amp-bind in April to experiment with greater AMP page interactivity. Today we’d like to highlight that amp-bind is generally available and take a deeper dive into the feature, in order to give you a sense of just how much this expands AMP support—especially for e-commerce. What is amp-bind? We [&#8230;]"
-  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-  datedata: 2017-07-12T12:02:25-07:00
-  date: "July 12, 2017"
-
-- type: Blog
-  title: "AMP Roadmap Update for Q2"
-  id: amp-roadmap-update-for-q2
-  author: Rudy Galfi
-  role:  Product Manager, AMP Project
-  origin: "https://amphtml.wordpress.com/2017/05/25/amp-roadmap-update-for-q2/amp/"
-  excerpt: "We’ve updated the AMP Roadmap with our new projects and progress on existing priorities. Specifically we are focusing on format, analytics and ads improvements. Highlights from these areas below. Format We’re doubling down on e-commerce, engagement, and developer tools this quarter, with big features in all three targeting completion by the end of June. amp-bind, [&#8230;]"
-  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-  datedata: 2017-05-25T11:11:18-07:00
-  date: "May 25, 2017"

@@ -1,6 +1,6 @@
 $title@: Overview
 $titles:
-  breadcrumb@: What is AMP
+  breadcrumb@: What is Fan Stories
 $order: 0
 class: about-overview
 $view: /views/about-overview.html
@@ -9,10 +9,7 @@ components:
   - youtube
 
 hero:
-  title@: Fan Stories is a publishing tool for the social web.
-  triangle_img: herobg.svg
-  line1_img: herolines1.svg
-  line2_img: herolines2.svg
+  title@: Fan Stories is a publishing and monetization platform.
   phone_img_base: /static/img/about/overview/what_phone
   cta@: Play Video
   cta_url: '#video'
@@ -38,8 +35,7 @@ core:
           Fan Stories provides an interactive messenger bot that helps your Facebook page interact with its users. The bot responds with content from your blog. For those users who subscribe for alerts get notified whenever new content is available.
 video:
   id: FvaD8E83Mgg
-  line1_img: lines3.svg
-  line2_img: line4.svg
+ 
 
 cta:
   title: See what Fan Stories can do for you
