@@ -8,7 +8,7 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/05/18/growing-the-amp-ads-initiative/amp/"
 excerpt: "We launched the AMP Ads Initiative last year with the ambitious goal of fixing ad experiences on the web by bringing the speed and performance of AMP to advertising. AMP Ads are faster, lighter and more secure — loading up to 5 seconds faster than regular ads on AMP pages — making them more viewable [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-05-18T09:12:34-07:00
+date_data: 2017-05-18T21:42:34+05:30
 $date: May 18, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/

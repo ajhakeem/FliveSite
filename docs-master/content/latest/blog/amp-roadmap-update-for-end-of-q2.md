@@ -8,8 +8,8 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/07/14/amp-roadmap-update-for-end-of-q2/amp/"
 excerpt: "We’ve updated the AMP Roadmap to reflect progress on existing priorities as well as several new projects. You can see the highlights below: Format amp-bind, a flexible event binding system supporting more interactivity in AMP is now fully available in production. To find out more about the range of capabilities this feature brings to AMP, [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-07-14T16:49:34-07:00
-$date: July 14, 2017
+date_data: 2017-07-15T05:19:34+05:30
+$date: July 15, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
 $localization:

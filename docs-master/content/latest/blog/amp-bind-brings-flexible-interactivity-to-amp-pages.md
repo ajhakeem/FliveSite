@@ -8,8 +8,8 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/07/12/amp-bind-brings-flexible-interactivity-to-amp-pages/amp/"
 excerpt: "We invited developers to try out amp-bind in April to experiment with greater AMP page interactivity. Today we’d like to highlight that amp-bind is generally available and take a deeper dive into the feature, in order to give you a sense of just how much this expands AMP support—especially for e-commerce. What is amp-bind? We [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-07-12T12:02:25-07:00
-$date: July 12, 2017
+date_data: 2017-07-13T00:32:25+05:30
+$date: July 13, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
 $localization:

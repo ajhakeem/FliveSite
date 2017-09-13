@@ -23525,6 +23525,28 @@ dependencies:
   - /content/support/developer.md
   - /content/support/faqs.md
   - /content/support/support.md
+  /content/learn/case-studies/hollywoodinsider.md:
+  - /assets/css/case-study.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/case-studies/hollywoodinsider.md
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/overview.yaml
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/footer.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
   /content/learn/case-studies/milestone.md:
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
@@ -24894,6 +24916,28 @@ dependencies:
   - /content/support/developer.md
   - /content/support/faqs.md
   - /content/support/support.md
+  /content/learn/full-features.yaml:
+  - /assets/css/design-principles.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/docs/tutorials/create.md
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/footer-cta.html
+  - /views/partials/footer.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
   /content/learn/metrics.html:
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
@@ -25886,6 +25930,7 @@ dependencies:
   - /content/support/faqs.md
   - /content/support/support.md
   /content/learn/who/publishers.yaml:
+  - /assets/css/about-who-vertical.min.css
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
   - /content/docs/build@es.md
@@ -25957,9 +26002,12 @@ dependencies:
   - /content/learn/amp-design-principles@es.yaml
   - /content/learn/amp-design-principles@ko.yaml
   - /content/learn/case-studies.html
+  - /content/learn/case-studies/hollywoodinsider.md
+  - /content/learn/case-studies/verifiednews.md
   - /content/learn/case-studies/washingtonpost.md
   - /content/learn/case-studies/wired.md
   - /content/learn/case-studies@es.html
+  - /content/learn/full-features.yaml
   - /content/learn/overview.html
   - /content/learn/overview.yaml
   - /content/learn/overview@ar.yaml
@@ -25984,11 +26032,43 @@ dependencies:
   - /content/learn/who-uses-amp@ko.yaml
   - /content/learn/who-uses-amp@pt_BR.yaml
   - /content/learn/who-uses-amp@zh_CN.yaml
+  - /content/learn/who-uses-fanstories.yaml
   - /content/learn/who/publishers.yaml
   - /content/pages/home.html
   - /content/support/developer.md
   - /content/support/faqs.md
   - /content/support/support.md
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/footer-cta.html
+  - /views/partials/footer.html
+  - /views/partials/grid-card.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
+  /content/learn/who/video-content.yaml:
+  - /assets/css/about-who-vertical.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/overview.yaml
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/learn/who/video-content.yaml
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/footer.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/large-cta.html
+  - /views/partials/sidebar.html
   /content/pages/404.html:
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
@@ -26081,6 +26161,7 @@ dependencies:
   - /content/support/faqs.md
   - /content/support/support.md
   /content/pages/home.html:
+  - /assets/css/home.min.css
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
   - /content/docs/build@es.md
@@ -26137,7 +26218,11 @@ dependencies:
   - /content/latest/blog/amp-bind-brings-flexible-interactivity-to-amp-pages.md
   - /content/latest/blog/amp-roadmap-update-for-end-of-q2.md
   - /content/latest/blog/amp-roadmap-update-for-q2.md
+  - /content/latest/blog/e-commerce-at-the-speed-of-amp.md
+  - /content/latest/blog/even-faster-loading-ads-in-amp.md
+  - /content/latest/blog/faster-amp-ad-landing-page-support-from-adwords.md
   - /content/latest/blog/putting-the-amp-in-progressive-web-amps-meet-the-shadowreader.md
+  - /content/latest/blog/the-why-and-how-of-accelerated-mobile-pages-at-conde-nast.md
   - /content/latest/latest.html
   - /content/latest/list-blog.html
   - /content/latest/list-event.html
@@ -26164,6 +26249,7 @@ dependencies:
   - /content/learn/case-studies/washingtonpost.md
   - /content/learn/case-studies/wompmobile.md
   - /content/learn/case-studies@es.html
+  - /content/learn/full-features.yaml
   - /content/learn/overview.html
   - /content/learn/overview.yaml
   - /content/learn/overview@ar.yaml
@@ -26188,10 +26274,17 @@ dependencies:
   - /content/learn/who-uses-amp@ko.yaml
   - /content/learn/who-uses-amp@pt_BR.yaml
   - /content/learn/who-uses-amp@zh_CN.yaml
+  - /content/learn/who-uses-fanstories.yaml
   - /content/pages/home.html
   - /content/support/developer.md
   - /content/support/faqs.md
   - /content/support/support.md
+  - /views/partials/footer.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/large-cta.html
+  - /views/partials/sidebar.html
   /content/support/developer.md:
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md

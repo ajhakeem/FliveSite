@@ -13,7 +13,7 @@
     "request": "*"
   },
   "devDependencies": {
-    "workbox-build": "*",
+    "workbox-build": "1.2.0",
     "workbox-sw": "*",
     "amp-by-example": "*"
   }

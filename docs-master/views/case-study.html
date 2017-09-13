@@ -36,15 +36,9 @@
           {% endif %}
 
           <div class="post-sheet">
-            {% include "/views/partials/share.html" %}
             <div class="post-content">
               {{doc.html|render|safe}}
 
-              {% if doc.download %}
-              <p class="post-download">
-                <a class="underlined cta" href="/static/img/{{doc.download}}">{{_('Download PDF Case study')}}</a>
-              </p>
-              {% endif %}
             </div>
           </div>
         </article>

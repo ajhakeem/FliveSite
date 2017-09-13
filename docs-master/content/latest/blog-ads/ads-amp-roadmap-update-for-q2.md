@@ -8,7 +8,7 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/05/25/amp-roadmap-update-for-q2/amp/"
 excerpt: "We’ve updated the AMP Roadmap with our new projects and progress on existing priorities. Specifically we are focusing on format, analytics and ads improvements. Highlights from these areas below. Format We’re doubling down on e-commerce, engagement, and developer tools this quarter, with big features in all three targeting completion by the end of June. amp-bind, [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-05-25T11:11:18-07:00
+date_data: 2017-05-25T23:41:18+05:30
 $date: May 25, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/

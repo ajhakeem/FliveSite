@@ -1,53 +1,74 @@
 blogs:
 
-# - type: Video
-#   title: "How to Validate & Debug AMP Pages"
-#   id: npum8JsITQE
-#   author: The AMP Channel
-#   role: 
-#   origin: "https://www.youtube.com/watch?v=npum8JsITQE"
-#   excerpt: "Learn about the various options available to validate your AMP pages and make sure they're eligible to show up on platforms like Google Search. Get familiar with the built-in AMP validator, the web interface, the browser plugins and the command line tools.
-
-# Reach out with your AMP related questions: https://goo.gl/UxCWfz
-
-
-
-# Subscribe to the The AMP Project YouTube channel and never miss an Amplify episode: https://goo.gl/g2Y8h7"
-#   thumbnail: "https://i3.ytimg.com/vi/npum8JsITQE/hqdefault.jpg"
-#   avatar: 
-#   datedata: 2017-07-27T14:12:56-07:00
-#   date: "July 27, 2017"
+- type: Blog
+  title: "The Why and How of Accelerated Mobile Pages at Condé Nast"
+  id: the-why-and-how-of-accelerated-mobile-pages-at-conde-nast
+  author: amphtml
+  role: 
+  origin: "https://amphtml.wordpress.com/2017/09/08/the-why-and-how-of-accelerated-mobile-pages-at-conde-nast/amp/"
+  excerpt: "Editor&#8217;s note: We found this awesome post on the Condé Nast Technology blog. Send feedback to @oscrperez and for more information about Condé Nast Technology, follow @CondeNastTech. Written by Oscar Perez, Condé Nast What is the Google led AMP Project? Accelerated Mobile Pages are a set of performance focused restrictions and limitations on HTML, CSS, and [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-09-08T19:27:02+05:30
+  date: "September 8, 2017"
 
 - type: Blog
-  title: "Fan Stories announces paywall feature for content creators"
-  id: fan-stories-announces-paywall-feature-for-content-creators-802.html
-  author: Asif Ali
-  role: 
-  origin: "https://www.fanstories.co"
-  excerpt: "Fan Stories announces the launch of a paywall feature for content creators and bloggers. The paywall feature helps content creators, video bloggers, You-tubers amongst others to setup a paywall for their premium content and monetize it."
-  avatar: 
-  datedata: 2017-09-06T15:50:15-07:00
-  date: "September 06, 2017"
+  title: "Faster AMP ad landing page support from AdWords"
+  id: faster-amp-ad-landing-page-support-from-adwords
+  author: Vamsee Jasti
+  role:  Product Manager, AMP Project
+  origin: "https://amphtml.wordpress.com/2017/09/07/faster-amp-ad-landing-page-support-from-adwords/amp/"
+  excerpt: "Today, AdWords announced support for AMP page delivery from the Google AMP Cache. As a result, advertisers who use AMP pages as ad landing pages in Adwords can expect those landing pages to load near-instantly. This launch, along with all the other recently launched features in AMP like forms, dynamic content and robust analytics support, makes [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-09-08T02:42:49+05:30
+  date: "September 8, 2017"
+
+- type: Blog
+  title: "E-commerce at the speed of AMP"
+  id: e-commerce-at-the-speed-of-amp
+  author: Lisa Wang
+  role:  Product Manager, AMP Project
+  origin: "https://amphtml.wordpress.com/2017/09/06/e-commerce-at-the-speed-of-amp/amp/"
+  excerpt: "Early results for e-commerce companies that are investing in Accelerated Mobile Pages (AMP) are showing that the format is paying off in terms of conversions, speed, bounce rates and mobile acquisition costs. Brazil-based Fastcommerce&#8217;s clients are seeing a 15% lift in conversions on mobile as compared to non-AMP pages across their 2M AMP pages WompMobile [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-09-06T18:51:14+05:30
+  date: "September 6, 2017"
+
+- type: Blog
+  title: "Even Faster Loading Ads in AMP"
+  id: even-faster-loading-ads-in-amp
+  author: Vamsee Jasti
+  role:  Product Manager, AMP Project
+  origin: "https://amphtml.wordpress.com/2017/08/21/even-faster-loading-ads-in-amp/amp/"
+  excerpt: "As we’ve talked about before, we can’t improve the web for all if we don’t address how ads behave on web pages. At Google I/O earlier this year, we hosted a session on ads in AMP where we talked about the journey needed to get from supporting basic functionality of ads on AMP pages to [&#8230;]"
+  avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
+  datedata: 2017-08-22T04:49:21+05:30
+  date: "August 22, 2017"
 
 - type: Video
-  title: "How to create a blog on Fan Stories"
-  id: FvaD8E83Mgg
-  author: Asif Ali
+  title: "How to Validate & Debug AMP Pages"
+  id: npum8JsITQE
+  author: The AMP Channel
   role: 
-  origin: "https://youtu.be/FvaD8E83Mgg"
-  excerpt: "Learn how to create a blog on Fan Stories."
-  thumbnail: "http://img.youtube.com/vi/FvaD8E83Mgg/0.jpg"
+  origin: "https://www.youtube.com/watch?v=npum8JsITQE"
+  excerpt: "Learn about the various options available to validate your AMP pages and make sure they're eligible to show up on platforms like Google Search. Get familiar with the built-in AMP validator, the web interface, the browser plugins and the command line tools.
+
+Reach out with your AMP related questions: https://goo.gl/UxCWfz
+
+
+
+Subscribe to the The AMP Project YouTube channel and never miss an Amplify episode: https://goo.gl/g2Y8h7"
+  thumbnail: "https://i3.ytimg.com/vi/npum8JsITQE/hqdefault.jpg"
   avatar: 
-  datedata: 2017-09-06T15:00:23-07:00
-  date: "September 06, 2017"
+  datedata: 2017-07-28T02:42:56+05:30
+  date: "July 28, 2017"
 
 - type: Blog
-  title: "Fan Stories Bot"
-  id: fan-stories-bot-790.html
-  author: Asif Ali
-  role:  Founder
-  origin: 
-  excerpt: "A messenger bot within Fan stories takes less than a minute to setup. Once setup, the bot provides regular updates of your content to users, and allows them to communicate with the bot to look up new content."
-  avatar: http://static.fanadnetwork.com/7d24ada8cabd4d43eb8201284cb4a78f.png
-  datedata: 2017-09-06T15:00:23-07:00
-  date: "September 06, 2017"
+  title: "Putting the AMP in Progressive Web AMPs: Meet the ShadowReader"
+  id: putting-the-amp-in-progressive-web-amps-meet-the-shadowreader
+  author: amphtml
+  role: 
+  origin: "https://amphtml.wordpress.com/2017/07/20/putting-the-amp-in-progressive-web-amps-meet-the-shadowreader/amp/"
+  excerpt: "We’ve previously written plenty about combining AMP &#38; PWA, short for Progressive Web Apps. While the idea of preloading your PWA while the reader is reading your AMP page is fairly straightforward, the other combination pattern, where AMP is used as data-source to power your PWA, is less understood. In my recent Google I/O talk, [&#8230;]"
+  avatar: http://amphtml.files.wordpress.com/2017/07/featured.png
+  datedata: 2017-07-21T04:20:15+05:30
+  date: "July 21, 2017"

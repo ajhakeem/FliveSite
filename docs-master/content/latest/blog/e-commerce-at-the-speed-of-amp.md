@@ -8,7 +8,7 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/09/06/e-commerce-at-the-speed-of-amp/amp/"
 excerpt: "Early results for e-commerce companies that are investing in Accelerated Mobile Pages (AMP) are showing that the format is paying off in terms of conversions, speed, bounce rates and mobile acquisition costs. Brazil-based Fastcommerce&#8217;s clients are seeing a 15% lift in conversions on mobile as compared to non-AMP pages across their 2M AMP pages WompMobile [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-09-06T06:21:14-07:00
+date_data: 2017-09-06T18:51:14+05:30
 $date: September 6, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/

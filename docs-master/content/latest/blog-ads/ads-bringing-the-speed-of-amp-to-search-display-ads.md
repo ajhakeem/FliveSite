@@ -8,7 +8,7 @@ role:  Vice President, Product Management
 origin: "https://amphtml.wordpress.com/2017/05/23/bringing-the-speed-of-amp-to-search-display-ads/amp/"
 excerpt: "The following was posted on Google&#8217;s Inside AdWords Blog by Jerry Dischler, Vice President, Product Management, Google. Succeeding on mobile starts with getting the basics right. People choose brands that meet their needs instantly and seamlessly. That means no matter how great your site looks, if it loads slowly, users will leave and you’ll miss [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-05-23T10:02:55-07:00
+date_data: 2017-05-23T22:32:55+05:30
 $date: May 23, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
