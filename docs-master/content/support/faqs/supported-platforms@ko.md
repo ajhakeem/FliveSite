@@ -16,9 +16,7 @@ cta:
 
 <div class="inline-toc">
   <ul>
-    {% for section in who.tech_companies.sections %}
-      <li><a href="#{{section.title|slug}}">{{_(section.title)}}</a></li>
-    {% endfor %}
+    
   </ul>
 </div>
 
@@ -26,26 +24,6 @@ AMP 프로젝트를 지원하는 플랫폼, 공급 업체 및 파트너가 증�
 
 <div class="who-container">
   <amp-accordion disable-session-states>
-  {% for section in who.tech_companies.sections %}
-    <section id="{{section.title|slug}}" {% if loop.index == 1 %}expanded{% endif %}>
-      <header class="accordion-header">
-        <h4 class="accordion-title">{{_(section.title)}}</h4>
-        {% if section.description %}<p>{{_(section.description)}}</p>{% endif %}
-      </header>
-      <div class="accordion-content">
-        <ol class="item-container">
-        {% for item in section.section_items %}
-          <li class="item">
-            {% if item.link %}
-              <a href="{{item.link}}">{{item.title}}</a>
-            {% else %}
-              {{item.title}}
-            {% endif %}
-          </li>
-        {% endfor %}
-        </ol>
-      </div>
-    </section>
-  {% endfor %}
+  
   </amp-accordion>
 </div>

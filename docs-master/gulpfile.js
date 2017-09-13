@@ -33,15 +33,15 @@ gulp.task('build-examples', function() {
       .pipe(gulp.dest('build/examples/audio/'));
 });
 
-// gulp.task('import-docs', function (cb) {
-//   exec('cd ./scripts && ./import_docs.js', function (err, stdout, stderr) {
-//     if (err instanceof Error) {
-//       cb(err);
-//     }
-//     //console.log(stdout);
-//     cb();
-//   });
-// });
+gulp.task('import-docs', function (cb) {
+  exec('cd ./scripts && ./import_docs.js', function (err, stdout, stderr) {
+    if (err instanceof Error) {
+      cb(err);
+    }
+    //console.log(stdout);
+    cb();
+  });
+});
 
 gulp.task('optimize-images', function (cb) {
   return gulp.src('./assets/img/symbols/*.svg')
@@ -80,14 +80,14 @@ gulp.task('update-tweets', function (cb) {
   });
 });
 
-// gulp.task('update-platforms-page', ['import-docs'], function (cb) {
-//   return exec('cd ./scripts && ./update_platforms_page.js', function (err, stdout, stderr) {
-//     if (err instanceof Error) {
-//       cb(err);
-//     }
-//     cb();
-//   });
-// });
+gulp.task('update-platforms-page', ['import-docs'], function (cb) {
+  return exec('cd ./scripts && ./update_platforms_page.js', function (err, stdout, stderr) {
+    if (err instanceof Error) {
+      cb(err);
+    }
+    cb();
+  });
+});
 
 gulp.task('generate-asset-manifest', function (cb) {
   swBuild.getFileManifestEntries({
@@ -141,7 +141,8 @@ gulp.task('watch', function() {
   ], ['generate-asset-manifest']);
 });
 
-
 // gulp.task('build', [ 'update-blog-links', 'update-tweets', 'import-docs', 'update-platforms-page', 'optimize-images', 'sass', 'build-examples', 'generate-asset-manifest' ]);
-gulp.task('build', [ 'update-blog-links', 'update-tweets', 'optimize-images', 'sass', 'build-examples', 'generate-asset-manifest' ]);
+// gulp.task('default', [ 'update-platforms-page', 'sass', 'generate-asset-manifest', 'watch' ]);
+
+gulp.task('build', [ 'optimize-images', 'sass', 'build-examples', 'generate-asset-manifest' ]);
 gulp.task('default', [ 'sass', 'generate-asset-manifest', 'watch' ]);
