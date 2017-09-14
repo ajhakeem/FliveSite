@@ -9,12 +9,11 @@
   {
     "@context": "http://schema.org",
     "@type": "Webpage",
-    "url": "https://www.fanstories.co/learn/features/",
+    "url": "https://www.fanstories.co/terms/",
     "name": "AMP Project",
-    "headline":"Features",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://www.fanstories.co/learn/features/"
+      "@id": "https://www.fanstories.co/terms/"
     },
     "publisher": {
       "@type": "Organization",
@@ -35,7 +34,7 @@
   }
   </script>
 
-  <title>Features – FanStories</title>
+  <title>FanStories</title>
   <link rel="icon" href="/static/img/logo.svg">
   <link rel="canonical" href="https://www.fanstories.co">
 
@@ -61,7 +60,7 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
 </head>
-<body class="design-principles bg-triangle-primary">
+<body class="">
 
   <amp-analytics type="googleanalytics" id="analytics-ga">
     <script type="application/json">
@@ -83,7 +82,7 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
   <form class="menu-layer primary" action="/" target="_top">
     <button type="reset" class="close-button" id="menu-button" on='tap:sidebar.toggle'></button>
     <div class="items">
-        <label class="menu-item item-layer-1 has-sub-level active"><input type="checkbox">
+        <label class="menu-item item-layer-1 has-sub-level"><input type="checkbox">
         Platform Overview
           <div class="submenu menu-layer secondary">
             <div class="return-button">Back</div>
@@ -117,7 +116,7 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
             </div>
           </div>
         </label>
-        <label class="menu-item item-layer-1 has-sub-level"><input type="checkbox">
+        <label class="menu-item item-layer-1 has-sub-level active"><input type="checkbox">
         Getting Started
           <div class="submenu menu-layer secondary">
             <div class="return-button">Back</div>
@@ -181,7 +180,7 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
         <a href="/" class="tab header-title"><span></span></a>
 
         <div class="tabs">
-          <div class="tab active">
+          <div class="tab">
             <a href="/learn/overview/">Platform Overview</a>
             <div class="list-container">
               <div class="list-shadow"></div>
@@ -220,7 +219,7 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
               </ul>
             </div>
           </div>
-          <div class="tab">
+          <div class="tab active">
             <a href="/docs/">Getting Started</a>
             <div class="list-container">
               <div class="list-shadow"></div>
@@ -285,151 +284,148 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
 
 
   <div class="wrap">
-   <nav class="breadcrumb">
-  <ul>
-    <li><a href="/learn/overview/">What is Fan Stories</a></li>
-    <li>Features</li>
-  </ul>
-</nav>
-
-  <div class="container xl">
-    <div class="title">
-      <h1>Features</h1>
-      <p class="subtitle">These features ..</p>
-    </div>
-
-    <div class="principles">
-      <div class="principles-col">
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_ux.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>User Experience > Developer Experience > Ease of Implementation.</h3>
-              <p><p>When in doubt, do what’s best for the end user experience, even if it means that it’s harder for the page creator to build or for the library developer to implement.</p></p>
-            </div>
-          </div>
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_future.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>Don’t design for a hypothetical faster future browser.</h3>
-              <p><p>We’ve chosen to build AMP as a library in the spirit of the <a href="https://github.com/extensibleweb/manifesto/blob/master/README.md">extensible web manifesto</a> to be able to fix the web of today, not the web of tomorrow.
-AMP should be fast in today's browsers. When certain optimizations aren't possible with today's platform, AMP developers should participate in standards development to get these added to the web platform.</p></p>
-            </div>
-          </div>
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_break.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>Don’t break the web.</h3>
-              <p><p>Ensure that if AMP has outages or problems it doesn’t hurt the rest of the web. That means if the Google AMP Cache, the URL API or the library fails it should be possible for websites and consumption apps to gracefully degrade. If something works with an AMP cache it should also work without a cache.</p></p>
-            </div>
-          </div>
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_layers.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>Solve problems on the right layer.</h3>
-              <p><p>E.g. don’t integrate things on the client side, just because that is easier, when the user experience would be better with a server side integration.</p></p>
-            </div>
-          </div>
-            </div>
-            <div class="principles-col">
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_fast.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>Only do things if they can be made fast.</h3>
-              <p><p>Don’t introduce components or features to AMP that can’t reliably run at 60fps or hinder the instant load experience on today’s most common mobile devices.</p></p>
-            </div>
-          </div>
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_priorities.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>Prioritise things that improve the user experience – but compromise when needed.</h3>
-              <p><p>Some things can be made fast and are still a terrible user experience. AMPs should deliver a fantastic user experience and speed is just one part of that. Only compromise when lack of support for something would stop AMP from being widely used and deployed.</p></p>
-            </div>
-          </div>
-          <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/design_icon_whitelist.svg">
-              </amp-img>
-            </div>
-            <div class="text">
-              <h3>No whitelists.</h3>
-              <p><p>We won’t give any special treatment to specific sites, domains or origins except where needed for security or performance reasons.</p></p>
-            </div>
-          </div>
-      </div>
-    </div>
+	<div id="terms">
+	  <h1>Terms of Use</h1>
+	  <p>
+	    Last updated on Nov 07, 2016
+	  </p>
+	  <div class="row">
+	    <div class="twelve columns">
+	      <p><b>Welcome to Fan Stories! By clicking on “Join Fan Stories”, “Sign Up”, “Sign In”, “Register Now” or similar, or by registering, accessing or using our Services via other means, you agree to become a user of our Services (“User”) and acknowledge that you are entering into a legally binding agreement (even if you are using our Services on behalf of a company).</b></p>
+	      <p>Fan Stories Inc, a California corporation (“Fan Stories,” “we,” “us,” “our”) provides access to its website located at fanstories.co (the “Site”), related services including any new features and applications, mobile apps, third-party integrations, other online and off-line services, and content or information provided as part of these services (collectively “Service(s)”) subject to the following Terms of Service (as amended from time to time, the “Terms of Service”).</p>
+	      <p>We reserve the right, at our sole discretion, to change or modify portions of these Terms of Service at any time without further notice. You should periodically visit this page to review the current Terms of Service so you are aware of any revision to which you are bound. If we do this, we will post the changes to these Terms of Service on this page and will indicate at the top of this page the date these terms were last revised. Your continued use of the Site or Services after any such changes constitutes your acceptance of the new Terms of Service. If you do not agree to abide by these or any future Terms of Service, do not use or access (or continue to use or access) the Service. It is your responsibility to regularly check the Site to determine if there have been changes to these Terms of Service and to review such changes.</p>
+	      <p>In addition, when using certain services, you shall be subject to any additional terms applicable to such services that may be posted on the Service from time to time, including, without limitation, the Privacy Policy. All such terms are hereby incorporated by reference into these Terms of Service.</p>
+	      <h4>Access and Use of the Service</h4>
+	      <h5>Services Description</h5>
+	      <p>Fan Stories’s services primarily help Social Page owners, to share and monetize content. To make this happen, we provide you, our User, the ability to share your personal and professional identity, add information about yourself and authorize your page on Facebook, share content, post ads within your content and use other content posted within the network.</p>
+	      <h5>Your Registration Obligations</h5>
+	      <p>You may be required to register with Fan Stories in order to access and use certain features of the Service. If you choose to register for the Service, you agree to provide and maintain true, accurate, current and complete information about yourself as prompted by the Service’s registration form. Registration data and certain other information about you are governed by our Privacy Policy. If you are under 13 years of age, you are not authorized to use the Service, with or without registering. You will also completely and unequivocally not use this service to serve benefits to under 13 and completely restrict content / information / restrictions that are applicable to minors, to minors.</p>
+	      <h5>Your Account, Password and Security</h5>
+	      <p>You are responsible for maintaining the confidentiality of your password and account, if any, and are fully responsible for any and all activities that occur under your password or account. You agree to (a) immediately notify Fan Stories of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session when accessing the Service. Fan Stories will not be liable for any loss or damage arising from your failure to comply with this Section.</p>
+	      <h5>Modifications to Service</h5>
+	      <p>Fan Stories reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that Fan Stories shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.</p>
+	      <h5>General Practices Regarding Use and Storage</h5>
+	      <p>You acknowledge that Fan Stories may establish general practices and limits concerning use of the Service, including without limitation the maximum period of time that opinions, data or other content will be retained by the Service and the maximum storage space that will be allotted on Fan Stories’s servers on your behalf. You agree that Fan Stories has no responsibility or liability for the deletion or failure to store any opinions, data or other content maintained or transmitted by the Service. You acknowledge that Fan Stories reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that Fan Stories reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice.</p>
+	      <h4>Conditions of Use</h4>
+	      <h5>User Conduct</h5>
+	      <p>You are solely responsible for all opinions, information, data, text, photographs, graphics, video, messages or other materials (“content”) that you upload, post, publish or display (hereinafter, “post”) or email or otherwise transmit or use via the Service. The following are examples of the kind of content and/or use that is illegal or prohibited by Fan Stories. Fan Stories reserves the right to investigate and take appropriate legal action against anyone who, in Fan Stories’s sole discretion, violates this provision, including without limitation, removing the offending content from the Service, suspending or terminating the account of such violators and reporting you to the law enforcement authorities. You agree to not use the Service to:</p>
+	      <ol>
+	        <li>
+	          post, email or otherwise transmit any content, or publish any text that involves content that is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, libelous, invasive of another‘s privacy, hateful racially, ethnically or otherwise objectionable;
+	        </li>
+	        <li>you do not have a right to transmit under any law or under contractual or fiduciary relationships; poses or creates a privacy or security risk to any person;</li>
+	        <li>infringes any intellectual property or other proprietary rights of any party;</li>
+	        <li>constitutes unsolicited or unauthorized advertising, promotional materials, commercial activities and/or sales, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” “contests,” “sweepstakes,” or any other form of solicitation;</li>
+	        <li>contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; or</li>
+	        <li>in the sole judgment of Fan Stories, is objectionable or which restricts or inhibits any other person from using or enjoying the Service, or which may expose Fan Stories or its users to any harm or liability of any type;</li>
+	        <li>further or promote any criminal activity or enterprise or provide instructional information (through your reviews or otherwise) about illegal activities;</li>
+	        <li>impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;</li>
+	        <li>solicit personal information from anyone under the age of 18;</li>
+	        <li>harvest or collect email addresses or other contact information of other users from the Service by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications;</li>
+	        <li>advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorized;</li>
+	        <li>interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service; or</li>
+	        <li>violate any applicable local, state, national or international law, or any regulations having the force of law; or</li>
+	        <li>obtain or attempt to access or otherwise obtain any materials or information through any means not intentionally made available or provided for through the Service.</li>
+	        <li>Violates terms of service of the social network, example Facebook in this case.</li>
+	      </ol>
+	      <p>The content and information on this Site and other Services (including, but not limited to, messages, data, information, text, music, sound, photos, graphics, video, maps, icons, software, code, or other material), as well as the infrastructure used to provide such content and information, is proprietary to us, except as expressly provided in these Terms. You agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any such content or information obtained from or through this Site.</p>
+	      <h5>Additionally, while using the Fan Stories Live video app, you agree not too </h5>
+	      <ol>
+	        <li> Transmit any form of pornography of any age through the app; whether it be to a restricted audience or to a public audience, or any form of pornographic and obscene content</li>
+	        <li> Transmit any form of violence through the app - both recorded or live</li>
+	        <li> Use the videos to spread hate messages to any group, gender, color, caste, creed, religion or organization. </li>
+	        <li> Use the video to promote pornography indirectly </li>
+	        <li> Promote alcoholic, cigarettes, e-cigarettes or cigars, tobacco or any other form of chewable tobacco</li>
+	        <li> Use to record video and stream live discretely without the permission of any individual without explicit consent to do so</li>
+	        <li> Use to record video and stream live discretely of any persons below 18 years of age, with or without consent</li>
+	        <li> That you are atleast 18 years of age, or older</li>
+	        <li> You are recording individuals with explicit permission of the said individuals, except in public places where public broadcasting is allowed</li>
+	        <li> That you will follow the law of the land, where applicable while using the app</li>
+	        <li> That your account may be banned and your access to the app will be revoked upon the first violation of this agreement </li>
+	        <li> For transmitting an advertiser's message without permission of Fan Stories</li>
+	        <li> For transmitting an advertiser's message without explicitly calling it out as a promoted message</li>
+	      </ol>
+	      <h5>Additionally, you agree not to:</h5>
+	      <ol>
+	        <li>use this Site or its contents for any commercial purpose;</li>
+	        <li>access, monitor, or copy any content or information of this Site using any robot, spider, scraper, or other automated means or any manual process for any purpose without our express written permission;</li>
+	        <li>violate the restrictions in any robot exclusion headers on this Site or bypass or circumvent other measures employed to prevent or limit access to this Site;</li>
+	        <li>take any action that imposes, or may impose, in our discretion, an unreasonable or disproportionately large load on our infrastructure;</li>
+	        <li>deep-link to any portion of this Site for any purpose without our express written permission;</li>
+	        <li>“frame”, “mirror”, or otherwise incorporate any part of this Site into any other website or mobile application without our prior written authorization;</li>
+	        <li>attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by Fan Stories in connection with the Site or the Services we provide;</li>
+	        <li>post opinions on products or services offered by your current employer or by direct competitors of your current employer; or</li>
+	        <li>log in using an alias that masks your true identity.</li>
+	      </ol>
+	      <h4>Payments and Fees</h4>
+	      <p>To the extent the Service or any portion thereof is made available for any fee, you will be required to select a payment option for accessing the advertising part of this service using your credit card or other payment instrument. You represent and warrant to Fan Stories that any payment information you provide is true and that you are authorized to use the payment instrument. You will promptly update your account information with any changes (for example, a change in your billing address or credit card expiration date) that may occur. You agree to pay Fan Stories such fees in accordance with the terms set forth in the Service and these Terms of Service. If you subscribe to the Service or any portion thereof, you hereby authorize Fan Stories to bill your payment instrument in advance on a periodic basis in accordance with the terms of the applicable payment plan until you terminate your account, and you further agree to pay any charges so incurred. If you dispute any charges you must let Fan Stories know within sixty (60) days after the date that Fan Stories charges your payment instrument. We reserve the right to change Fan Stories’s prices. If Fan Stories changes such prices, Fan Stories will provide notice of the change on the Site or by email to you, at Fan Stories’s option, at least 30 days before the change is to take effect. Your continued use of the Service after the price change becomes effective constitutes your agreement to pay the changed amount. You will be responsible for all taxes associated with the Service other than U.S. taxes based on Fan Stories’s net income.</p>
+	      <p>You are also expected as a publisher to indicate your true legal entity information together with financial information to receive payments in the US or other global locations. You agree that all payments received by you as a publisher excludes taxes and the onus is on your legal entity or you as a person, if you’re receiving the money to pay the necessary income and other statutory taxes in the US and or the country in which you are recieving the income.</p>
+	      <h5>Commercial Use</h5>
+	      <p>You are only allowed to re-publish content within Fan Ad authorized social pages and blogs setup and maintained by Fan Stories. You agree that such content may work only during the lifetime of your relationship with Fan Stories and Fan Stories makes no warranties of such content availability during or after the business relationship.</p>
+	      <p>Unless otherwise expressly authorized herein or in the Service, you agree not to display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit, transfer or transmit for any commercial purposes, any portion of the Service, use of the Service, or access to the Service. Unless otherwise expressly authorized herein or in the Service, the Service is for your personal use and may not be used for direct commercial endeavors.</p>
+	      <h4>Intellectual Property Rights</h4>
+	      <h5>Service Content, Software and Trademarks</h5>
+	      <p>You acknowledge and agree that the Service may contain content (“Service Content”) that is protected by copyright, patent, trademark, trade secret or other proprietary rights and laws. Except as expressly authorized by Fan Stories, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute or create derivative works based on the Service or the Service Content, in whole or in part, except that the foregoing does not apply to your own User Content (as defined below) that you legally upload to the Service. In connection with your use of the Service you shall not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods. Any use of the Service or the Service Content other than as specifically authorized herein is strictly prohibited. The technology and software underlying the Service or distributed in connection therewith is the property of Fan Stories, our affiliates and our partners (the “Software”). You agree not to copy, modify, create a derivative work of, reverse engineer, reverse assemble or otherwise attempt to discover any source code, sell, assign, sublicense, or otherwise transfer any right in the Software. Any rights not expressly granted herein are reserved by Fan Stories.</p>
+	      <p>The Fan Stories name and logo are trademarks and service marks of Fan Stories (collectively the “Fan Stories Trademarks”). Other company, product, and service names and logos used and displayed via the Service may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to Fan Stories. Nothing in this Terms of Service or the Service should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of Fan Stories Trademarks displayed on the Service, without our prior written permission in each instance. All goodwill generated from the use of Fan Stories Trademarks will inure to our exclusive benefit.</p>
+	      <h5>Third-party Material</h5>
+	      <p>Under no circumstances will Fan Stories be liable in any way for any content (including reviews) posted by third parties or at the direction of users, including, but not limited to, for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any content posted, emailed or otherwise transmitted via the Service. You acknowledge that Fan Stories does not pre-screen content, but that Fan Stories and its designees shall have the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Service. Without limiting the foregoing, Fan Stories and its designees shall have the right to remove any content that violates these Terms of Service or is deemed by Fan Stories, in its sole discretion, to be otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any content, including any reliance on the accuracy, completeness, or usefulness of such content.</p>
+	      <h5>User Content Posted on the Site</h5>
+	      <p>You are solely responsible for the content and other materials you post on or through the Service or transmit to or share with other users or recipients (collectively, “User Content”). You will not post any content that you did not create or that you do not own all right, title and interest in and to, including, without limitation, all copyright and rights of publicity contained therein. By posting any User Content you hereby grant and will grant Fan Stories and its affiliated companies a nonexclusive, worldwide, royalty free, fully paid up, transferable, sub-licensable (through multiple tiers), perpetual, irrevocable license to copy, display, transmit, perform, distribute, store, modify and otherwise use your User Content in connection with the operation of the Service or the promotion, advertising or marketing thereof, in any form, medium or technology now known or later developed. You agree that this license includes the right for Fan Stories to make User Content available to other companies, organizations or individuals who partner with Fan Stories for the syndication, broadcast, distribution or publication of User Content on other media and services.</p>
+	      <p>You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information about the Service (“Submissions”), provided by you to Fan Stories are non-confidential and Fan Stories shall be entitled to the unrestricted use and dissemination of these Submissions for any purpose, commercial or otherwise, without acknowledgment or compensation to you.</p>
+	      <p>You acknowledge and agree that Fan Stories may preserve content and may also disclose content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process, applicable laws or government requests; (b) enforce these Terms of Service; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of Fan Stories, its users and the public. You understand that the technical processing and transmission of the Service, including your content, may involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.</p>
+	      <h5>Copyright Complaints</h5>
+	      <p>Fan Stories respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Fan Stories of your infringement claim in accordance with the procedure set forth below.</p>
+	      <p>Fan Stories will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Fan Stories’s Copyright Agent at <a href="mailto:support@Fan Stories.com" target="_top">support@Fan Stories.com</a>. (Subject line: “DMCA Takedown Request”). You may also contact us by mail at:</p>
+	      <p>Fan Stories Inc. Copyright Agent 539 Bryant St Suite 400 San Francisco, CA 94107</p>
+	      <p>To be effective, the notification must be in writing and contain the following information:</p>
+	      <ol>
+	        <li>an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;</li>
+	        <li>a description of the copyrighted work or other intellectual property that you claim has been infringed;</li>
+	        <li>a description of where the material that you claim is infringing is located on the Service, with enough detail that we may find it on the Service;</li>
+	        <li>your address, telephone number, and email address;</li>
+	        <li>a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law;</li>
+	        <li>a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.</li>
+	      </ol>
+	      <h5>Counter-Notice</h5>
+	      <p>If you believe that your User Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to post and use the content in your User Content, you may send a written counter-notice containing the following information to the Copyright Agent:</p>
+	      <ol>
+	        <li>your physical or electronic signature;</li>
+	        <li>identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;</li>
+	        <li>a statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content; and</li>
+	        <li>your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court located within Colorado and a statement that you will accept service of process from the person who provided notification of the alleged infringement.</li>
+	      </ol>
+	      <p>If a counter-notice is received by the Copyright Agent, Fan Stories will send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at our sole discretion.</p>
+	      <h5>Repeat Infringer Policy</h5>
+	      <p>In accordance with the DMCA and other applicable law, Fan Stories has adopted a policy of terminating, in appropriate circumstances and at Fan Stories's sole discretion, users who are deemed to be repeat infringers. Fan Stories may also at its sole discretion limit access to the Service and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement</p>
+	      <h4>Third-party Websites</h4>
+	      <p>The Service may provide, or third parties may provide, links or other access to other sites and resources on the Internet. Fan Stories has no control over such sites and resources and Fan Stories is not responsible for and does not endorse such sites and resources. You further acknowledge and agree that Fan Stories shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any content, events, goods or services available on or through any such site or resource. Any dealings you have with third parties found while using the Service are between you and the third party, and you agree that Fan Stories is not liable for any loss or claim that you may have against any such third party.</p>
+	      <h4>Integrated Services</h4>
+	      <p>You may enable various online services (such as social networking services) to be directly integrated into your Fan Stories experience (“Integrated Services”). By directly integrating these services into the Service, we make your online experiences richer, and more personalized. To take advantage of these features, we may ask you to register for or log into the Integrated Services on the websites of their respective providers. By enabling Integrated Services within the Service, you are allowing us to pass your log-in information to these Integrated Services for this purpose. For more information about the implications of activating these Integrated Services and Fan Stories’s use, storage and disclosure of information related to you and your use of such services within Fan Stories, please see our <a href="privacy.html">Privacy Policy</a>. However, please remember that the manner in which Integrated Services use, store and disclose your information is governed solely by the policies of such third parties, and Fan Stories shall have no liability or responsibility for the privacy practices or other actions of any third party site or service that may be enabled within the Service.</p>
+	      <p>In addition, Fan Stories is not responsible for the accuracy, availability or reliability of any information, content, goods, data, opinions, advice or statements made available in connection with Integrated Services. As such, Fan Stories is not liable for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Integrated Services. Fan Stories enables these features merely as a convenience and the inclusion of such features does not imply an endorsement or recommendation.</p>
+	      <h4>Indemnity and Release</h4>
+	      <p>You agree to release, indemnify and hold Fan Stories and its affiliates and their officers, employees, directors and agent harmless from any from any and all losses, damages, expenses, including reasonable attorneys’ fees, rights, claims, actions of any kind and injury (including death) arising out of or relating to your use of the Service, any User Content, your connection to the Service, your violation of these Terms of Service or your violation of any rights of another. If you are a California resident, you waive California Civil Code Section 1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor." If you are a resident of another jurisdiction, you waive any comparable statute or doctrine.</p>
+	      <h4>Disclaimer of Warranties</h4>
+	      <p>YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. Fan Stories EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.</p>
+	      <p>Fan Stories MAKES NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, OR (IV) THE QUALITY OF ANY REVIEWS, PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS.</p>
+	      <h4>Limitation of Liability</h4>
+	      <p>YOU EXPRESSLY UNDERSTAND AND AGREE THAT Fan Stories SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF Fan Stories HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE SERVICE; (II) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY REVIEWS, GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES OR IMAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE; (III) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE; OR (V) ANY OTHER MATTER RELATING TO THE SERVICE. IN NO EVENT SHALL Fan Stories’S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES OR CAUSES OF ACTION EXCEED THE AMOUNT YOU HAVE PAID Fan Stories IN THE LAST SIX (6) MONTHS, OR, IF GREATER, ONE HUNDRED DOLLARS ($100).</p>
+	      <p>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SERVICE OR WITH THESE TERMS OF SERVICE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USE OF THE SERVICE.</p>
+	      <h4>Arbitration</h4>
+	      <p>At Fan Stories’s or your election, all disputes, claims, or controversies arising out of or relating to the Terms of Service or the Service that are not resolved by mutual agreement may be resolved by binding arbitration to be conducted before JAMS, or its successor. Unless otherwise agreed by the parties, arbitration will be held in San Francisco, California. The arbitration must commence within forty-five (45) days of the date on which a written demand for arbitration is filed by either party. The arbitrator’s decision and award shall be made and delivered within sixty (60) days of the conclusion of the arbitration and within six (6) months of the selection of the arbitrator. The arbitrator will not have the power to award damages in excess of the limitation on actual compensatory, direct damages set forth in the Terms of Service and may not multiply actual damages or award punitive damages or any other damages that are specifically excluded under the Terms of Service, and each party hereby irrevocably waives any claim to such damages. The arbitrator may, in his or her discretion, assess costs and expenses (including the reasonable legal fees and expenses of the prevailing part) against any party to a proceeding. Any party refusing to comply with an order of the arbitrators will be liable for costs and expenses, including attorneys’ fees, incurred by the other party in enforcing the award. Notwithstanding the foregoing, in the case of temporary or preliminary injunctive relief, any party may proceed in court without prior arbitration for the purpose of avoiding immediate and irreparable harm. The provisions of this arbitration section will be enforceable in any court of competent jurisdiction.</p>
+	      <h4>Termination</h4>
+	      <p>You agree that Fan Stories, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Service and remove and discard any content within the Service, for any reason, including, without limitation, for lack of use or if Fan Stories believes that you have violated or acted inconsistently with the letter or spirit of these Terms of Service. Any suspected fraudulent, abusive or illegal activity that may be grounds for termination of your use of Service, may be referred to appropriate law enforcement authorities. Fan Stories may also in its sole discretion and at any time discontinue providing the Service, or any part thereof, with or without notice. You agree that any termination of your access to the Service under any provision of this Terms of Service may be effected without prior notice, and acknowledge and agree that Fan Stories may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service. Further, you agree that Fan Stories shall not be liable to you or any third party for any termination of your access to the Service.</p>
+	      <h4>User Disputes</h4>
+	      <p>You agree that you are solely responsible for your interactions with any other user in connection with the Service and Fan Stories will have no liability or responsibility with respect thereto. Fan Stories reserves the right, but has no obligation, to become involved in any way with disputes between you and any other user of the Service.</p>
+	      <h4>General</h4>
+	      <p>These Terms of Service constitute the entire agreement between you and Fan Stories and govern your use of the Service, superseding any prior agreements between you and Fan Stories with respect to the Service. You also may be subject to additional terms and conditions that may apply when you use affiliate or third-party services, third-party content or third-party software. These Terms of Service shall be governed by the laws of the State of California without regard to its conflict of law provisions. With respect to any disputes or claims not subject to arbitration, as set forth above, you and Fan Stories agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within San Francisco, California. The failure of Fan Stories to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision. If any provision of these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of these Terms of Service remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or these Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred. A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. The section titles in these Terms of Service are for convenience only and have no legal or contractual effect. Notices to you may be made via either email or regular mail. The Service may also provide notices to you of changes to these Terms of Service or other matters by displaying notices or links to notices generally on the Service.</p>
+	      <h4>Your Privacy</h4>
+	      <p>At Fan Stories, we respect the privacy of our users. For details please see our Privacy Policy. By using the Service, you consent to our collection and use of personal data as outlined therein.</p>
+	      <h4>Questions?</h4>
+	      <p>Please contact us at <a href="mailto:legal@fanstories.co" target="_top">legal@fanstories.co</a>legal@fanstories.co to report any violations of these Terms of Service or if you have any questions or concerns regarding these Terms of Service.</p>
+	    </div>
+	  </div>
+	</div>
   </div>
-
-<a href="/docs/create/" class="footer-cta">
- 
-  <div class="inner">
-    <h2>Get started building</h2>
-    <div class="link-text">Tutorials</div>
-  </div>
-</a><footer>
- <div class="container">
-     
-    <div class="row">
-      <div class="twelve columns footer-icons">
-        <a class="footer-privacy" href="#">Privacy</a>
-      </div>
-    </div>
-  </div>
-</footer>
-
-<amp-install-serviceworker src="/service-worker.js?v2" layout="nodisplay"></amp-install-serviceworker>  </div>
 
 </body>
 </html>
