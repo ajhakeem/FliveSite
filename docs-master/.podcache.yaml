@@ -7712,6 +7712,26 @@ dependencies:
   - /content/support/developer.md
   - /content/support/faqs.md
   - /content/support/support.md
+  /content/docs/privacy.html:
+  - /assets/css/main.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/docs/privacy.html
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
   /content/docs/reference.md:
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
@@ -15170,6 +15190,26 @@ dependencies:
   - /content/support/developer.md
   - /content/support/faqs.md
   - /content/support/support.md
+  /content/docs/terms.html:
+  - /assets/css/main.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/docs/terms.html
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
   /content/docs/tutorials.md:
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
