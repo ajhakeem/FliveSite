@@ -27593,6 +27593,46 @@ dependencies:
   - /views/partials/lang_switcher.html
   - /views/partials/large-cta.html
   - /views/partials/sidebar.html
+  /content/legal/privacy.html:
+  - /assets/css/main.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/legal/privacy.html
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
+  /content/legal/terms.html:
+  - /assets/css/main.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/legal/terms.html
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
+  - /views/partials/sidebar.html
   /content/pages/404.html:
   - /assets/css/main.min.css
   - /assets/css/pages/404.css
