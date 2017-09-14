@@ -27081,6 +27081,7 @@ dependencies:
   - /content/learn/who/influencers.yaml
   - /content/learn/who/publishers.yaml
   - /content/learn/who/video-content-creators.yaml
+  - /content/learn/who/video-content.yaml
   - /content/pages/home.html
   - /views/partials/breadcrumb-nav.html
   - /views/partials/footer-cta.html

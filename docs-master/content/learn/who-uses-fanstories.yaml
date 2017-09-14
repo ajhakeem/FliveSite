@@ -22,7 +22,7 @@ cards:
   #   icon: card_smb.svg
 
   - name: Video content creators
-    filename: video-content-creators
+    filename: video-content
     cta: Learn More
     icon: who_icon_adtech.svg
 
