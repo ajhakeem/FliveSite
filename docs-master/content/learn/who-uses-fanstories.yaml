@@ -26,10 +26,10 @@ cards:
     cta: Learn More
     icon: who_icon_adtech.svg
 
-  - name: Influencers / Facebook Pages owners.
-    filename: influencers
-    cta: Learn More
-    icon: who_icon_advertisers.svg
+  # - name: Influencers / Facebook Pages owners.
+  #   filename: influencers
+  #   cta: Learn More
+  #   icon: who_icon_advertisers.svg
 
   # - name: Developers
   #   filename: developers
