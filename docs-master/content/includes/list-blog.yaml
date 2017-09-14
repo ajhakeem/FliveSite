@@ -1,5 +1,17 @@
 blogs:
 
+- type: Video
+  title: "Getting started with Fan Stories"
+  id: uf5K6M4AN5U
+  author: Asif Ali
+  role: 
+  origin: "https://www.youtube.com/watch?v=uf5K6M4AN5U"
+  excerpt: "Learn how to get started with Fan Stories"
+  thumbnail: "http://i3.ytimg.com/vi/uf5K6M4AN5U/hqdefault.jpg"
+  avatar: 
+  datedata: 2017-09-13T02:42:56+05:30
+  date: "September 13, 2017"
+
 - type: Blog
   title: "Fan Stories announces paywall feature for content creators"
   url: http://blog.fanstories.co/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html
