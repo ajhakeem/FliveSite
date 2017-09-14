@@ -2,6 +2,7 @@ footer {
   background-color: $color-white;
   padding: 30px 0;
   position: relative;
+  text-align: center;
 
   .footer-image {
     margin: 0 10px;
@@ -24,9 +25,19 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    display: inline-block;
   }
 
   .footer-privacy {
+    color: #727272;
+    font-size: 12px;
+    font-weight: 400;
+    justify-content: center;
+    text-transform: none;
+    padding-top: 15px;
+  }
+
+  .footer-terms {
     color: #727272;
     font-size: 12px;
     font-weight: 400;
