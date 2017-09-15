@@ -27846,7 +27846,9 @@ dependencies:
   - /content/learn/amp-design-principles@es.yaml
   - /content/learn/amp-design-principles@ko.yaml
   - /content/learn/case-studies.html
+  - /content/learn/case-studies/hollywoodinsider.md
   - /content/learn/case-studies/teads.md
+  - /content/learn/case-studies/verified.md
   - /content/learn/case-studies/washingtonpost.md
   - /content/learn/case-studies/wompmobile.md
   - /content/learn/case-studies@es.html

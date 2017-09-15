@@ -4,7 +4,7 @@ hero:
   cta@: Learn about Fan Stories
   cta_url: /content/learn/overview.yaml
   secondary_cta@: Create your publication
-  secondary_cta_url: /content/docs/tutorials/general/create.md
+  secondary_cta_url: https://app.fanstories.co
   phone_img_base: /static/img/home/home_main2
   carousel_title@: Updates
 
