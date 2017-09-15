@@ -8,8 +8,8 @@ role:
 origin: "https://amphtml.wordpress.com/2017/05/16/see-amp-live-at-io-2017/amp/"
 excerpt: "We’re just days away from the start of Google I/O 2017, Google’s annual developer conference. Join us live or on the live stream!"
 avatar: http://0.gravatar.com/avatar/9fb120a88c85d93be416ed62b8ab5e16?s=96&d=identicon&r=G
-date_data: 2017-05-15T17:39:53-07:00
-$date: May 15, 2017
+date_data: 2017-05-16T06:09:53+05:30
+$date: May 16, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
 $localization:

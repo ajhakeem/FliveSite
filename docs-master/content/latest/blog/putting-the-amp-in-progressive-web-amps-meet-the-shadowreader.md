@@ -8,8 +8,8 @@ role:
 origin: "https://amphtml.wordpress.com/2017/07/20/putting-the-amp-in-progressive-web-amps-meet-the-shadowreader/amp/"
 excerpt: "We’ve previously written plenty about combining AMP &#38; PWA, short for Progressive Web Apps. While the idea of preloading your PWA while the reader is reading your AMP page is fairly straightforward, the other combination pattern, where AMP is used as data-source to power your PWA, is less understood. In my recent Google I/O talk, [&#8230;]"
 avatar: http://amphtml.files.wordpress.com/2017/07/featured.png
-date_data: 2017-07-20T15:50:15-07:00
-$date: July 20, 2017
+date_data: 2017-07-21T04:20:15+05:30
+$date: July 21, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
 $localization:

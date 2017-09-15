@@ -8,7 +8,7 @@ role:
 origin: "https://amphtml.wordpress.com/2017/09/08/the-why-and-how-of-accelerated-mobile-pages-at-conde-nast/amp/"
 excerpt: "Editor&#8217;s note: We found this awesome post on the Condé Nast Technology blog. Send feedback to @oscrperez and for more information about Condé Nast Technology, follow @CondeNastTech. Written by Oscar Perez, Condé Nast What is the Google led AMP Project? Accelerated Mobile Pages are a set of performance focused restrictions and limitations on HTML, CSS, and [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-09-08T06:57:02-07:00
+date_data: 2017-09-08T19:27:02+05:30
 $date: September 8, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/

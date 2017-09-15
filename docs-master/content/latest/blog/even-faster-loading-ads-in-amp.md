@@ -8,8 +8,8 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/08/21/even-faster-loading-ads-in-amp/amp/"
 excerpt: "As we’ve talked about before, we can’t improve the web for all if we don’t address how ads behave on web pages. At Google I/O earlier this year, we hosted a session on ads in AMP where we talked about the journey needed to get from supporting basic functionality of ads on AMP pages to [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-08-21T16:19:21-07:00
-$date: August 21, 2017
+date_data: 2017-08-22T04:49:21+05:30
+$date: August 22, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
 $localization:

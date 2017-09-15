@@ -33,52 +33,7 @@ components:
           </ul>
         </div>
       </div>
-      {% for sectionId, section in roadmap.sections|dictsort %}
-        <div class="workstream">
-          <div class="workstream-title"><h4>{{ section.title }}</h4><p class="small">{{ section.description }}</p></div>
-          <div class="workstream-flex workstream-headings">
-            <div class="description">
-              <h4>{{ roadmap.quarter }} Themes</h4>
-            </div>
-            <div class="plan">
-              <h4>{{ roadmap.quarter }} Status</h4>
-            </div>
-          </div>
-          <div class="workstream-flex">
-            <div class="description">
-              <div class="themes">
-                <ul>
-                  {% for theme in section.themes %}
-                    <li>{{ theme|markdown|safe }}</li>
-                  {% endfor %}
-                </ul>
-              </div>
-            </div>
-            <div class="plan">
-              <h4>{{ roadmap.quarter }} Status</h4>
-              <ul class="stages">
-                {% for key, value in section.quarter|dictsort %}
-                  <li class="stage-{{ key }}" data-description="Stage {{ key }}: {{ roadmap.stages[key] }}">
-                    <ul>
-                      {% for item in value %}
-                        <li>{{ item|markdown|safe }}</li>
-                      {% endfor %}
-                    </ul>
-                  </li>
-                {% endfor %}
-              </ul>
-            </div>
-          </div>
-          <div class="forecast">
-            <h4>{{ roadmap.outlook or "" }} Outlook</h4>
-            <ul>
-              {% for forecast in section.forecast %}
-                <li>{{ forecast|markdown|safe }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-      {% endfor %}
+      
 
       <div class="about">
         <div><p><strong>Stay informed:</strong></p>

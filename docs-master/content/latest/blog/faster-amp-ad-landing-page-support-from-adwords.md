@@ -8,8 +8,8 @@ role:  Product Manager, AMP Project
 origin: "https://amphtml.wordpress.com/2017/09/07/faster-amp-ad-landing-page-support-from-adwords/amp/"
 excerpt: "Today, AdWords announced support for AMP page delivery from the Google AMP Cache. As a result, advertisers who use AMP pages as ad landing pages in Adwords can expect those landing pages to load near-instantly. This launch, along with all the other recently launched features in AMP like forms, dynamic content and robust analytics support, makes [&#8230;]"
 avatar: http://1.gravatar.com/avatar/42ecb1ea497ca9d0ffe1e406cae70e27?s=96&d=identicon&r=G
-date_data: 2017-09-07T14:12:49-07:00
-$date: September 7, 2017
+date_data: 2017-09-08T02:42:49+05:30
+$date: September 8, 2017
 $parent: /content/latest/list-blog.html
 $path: /latest/blog/{base}/
 $localization:

@@ -95,7 +95,6 @@ gulp.task('generate-asset-manifest', function (cb) {
     staticFileGlobs: [
       'img/*.{svg,png,jpg}',
       'img/nav/*.{svg,png,jpg}',
-      'img/footer/*.{svg,png,jpg}'
     ]
   }).then(entries => {
 
@@ -142,6 +141,8 @@ gulp.task('watch', function() {
   ], ['generate-asset-manifest']);
 });
 
+// gulp.task('build', [ 'update-blog-links', 'update-tweets', 'import-docs', 'update-platforms-page', 'optimize-images', 'sass', 'build-examples', 'generate-asset-manifest' ]);
+// gulp.task('default', [ 'update-platforms-page', 'sass', 'generate-asset-manifest', 'watch' ]);
 
-gulp.task('build', [ 'update-blog-links', 'update-tweets', 'import-docs', 'update-platforms-page', 'optimize-images', 'sass', 'build-examples', 'generate-asset-manifest' ]);
-gulp.task('default', [ 'update-platforms-page', 'sass', 'generate-asset-manifest', 'watch' ]);
+gulp.task('build', [ 'optimize-images', 'sass', 'build-examples', 'generate-asset-manifest' ]);
+gulp.task('default', [ 'sass', 'generate-asset-manifest', 'watch' ]);
