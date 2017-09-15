@@ -28,8 +28,8 @@ start_cards:
 
 video_cards:
   - name: Setting up your page on Fan Stories and making your first blog post. 
-    link: https://www.youtube.com/watch?v=FvaD8E83Mgg&t=1s
-    videoid: FvaD8E83Mgg
+    link: https://www.youtube.com/watch?v=uf5K6M4AN5U&t=1s
+    videoid: uf5K6M4AN5U
 
   - name: Using Content Editor & Discover / Share to post articles on your blog.
     link: https://www.youtube.com/watch?v=Zsp7rvJ2Hs8&t=1s

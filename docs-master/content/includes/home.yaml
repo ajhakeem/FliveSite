@@ -1,9 +1,9 @@
 hero:
   title@: Publishing + monetization platform for creators and bloggers.
-  content@: Fan Stories helps artists, content creators and bloggers build beautiful web presence and to make money.
+  content@: Fan Stories helps content & media creators, influencers and facebook page owners build a beautiful web presence and make money.
   cta@: Learn about Fan Stories
   cta_url: /content/learn/overview.yaml
-  secondary_cta@: Create your Website
+  secondary_cta@: Create your publication
   secondary_cta_url: /content/docs/tutorials/general/create.md
   phone_img_base: /static/img/home/home_main2
   carousel_title@: Updates
