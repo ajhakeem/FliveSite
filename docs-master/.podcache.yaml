@@ -20314,6 +20314,7 @@ dependencies:
   - /content/latest/blog/ads-on-the-web-will-get-better-with-amp-heres-how.md
   - /content/latest/blog/amp-bind-brings-flexible-interactivity-to-amp-pages.md
   - /content/latest/latest.html
+  - /content/latest/list-.html
   - /content/latest/list-blog.html
   - /content/latest/list-event.html
   - /content/latest/roadmap.html
@@ -23417,6 +23418,7 @@ dependencies:
   - /views/partials/sidebar.html
   /content/latest/roadmap.html:
   - /assets/css/blog.min.css
+  - /assets/css/list.min.css
   - /assets/img/brand-guidelines.pdf
   - /content/docs/build.md
   - /content/docs/build@es.md
