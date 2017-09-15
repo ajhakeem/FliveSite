@@ -1,5 +1,5 @@
 hero:
-  title@: Publishing + monetization platform for creators and bloggers.
+  title@: Publishing + monetization platform for content creators 
   content@: Fan Stories helps content & media creators, influencers and facebook page owners build a beautiful web presence and make money.
   cta@: Learn about Fan Stories
   cta_url: /content/learn/overview.yaml
@@ -36,19 +36,13 @@ success_stories:
       img: /static/img/home/hollywoodinsider.jpg
       img_height: 297
       img_width: 1280
-      url: /content/learn/case-studies/washingtonpost.md
+      url: /content/learn/case-studies/hollywoodinsider.md
       class: wapo
-    - quote@: “Fan Stories helped goto market and monetize in no time. Would recommend Fan Stories for anyone building out a media platform.”
-      img_height: 305
-      img_width: 902
-      img: /static/img/home/geekdads.png
-      url: /content/learn/case-studies/wompmobile.md
-      class: wired
     - quote@: “The Live Streaming to Blog feature of Fan Stories together with subscriptions are the features we're looking forward to, to save ourselves getting killed with low ad revenue.”
       img_height: 118
       img_width: 455
       img: /static/img/home/verifiednews.png
-      url: /content/learn/case-studies/teads.md
+      url: /content/learn/case-studies/verified.md
       class: teads
 
 large_cta:
