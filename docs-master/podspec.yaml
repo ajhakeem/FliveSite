@@ -21,3 +21,8 @@ markdown:
   extensions:
   - kind: sourcecode
     classes: true
+sitemap:
+  enabled: yes
+  path: /sitemap.xml
+  collections:
+  - pages
