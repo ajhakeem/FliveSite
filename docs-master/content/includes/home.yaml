@@ -1,6 +1,6 @@
 hero:
-  title@: Publishing + monetization platform for content creators 
-  content@: Fan Stories helps content & media creators, influencers and facebook page owners build a beautiful web presence and make money.
+  title@: Publishing + Monetization for Content Creators
+  content@: Fan Stories helps content & content creators, youtubers and influencers build a beautiful web presence and make money.
   cta@: Learn about Fan Stories
   cta_url: /content/learn/overview.yaml
   secondary_cta@: Create your publication
@@ -11,13 +11,13 @@ hero:
 benefits:
   title@: What Fan Stories Provides
   cards:
-    - title@: A beautiful web presence for your content
-      content@: Fan Stories provides beautiful Web presence for your content in the form of automagically generated websites that load instantaneously. No tech skills required.
+    - title@: A beautiful web presence that is truly yours.
+      content@: Fan Stories provides beautiful Web presence for your content in the form of automagically generated websites that load instantaneously. All content hosted is owned by you unlike your content on social media platforms.
       img: /static/img/home/home_icon_performance.svg
       img_width: 56
       img_height: 103
 
-    - title@: Monetize with Subscriptions or Ads
+    - title@: Ability to monetize content with Subscriptions and ads.
       content@: Fan Stories monetizes your content with subscriptions or ads. 
       img: /static/img/home/home_icon_flexibility.svg
       img_width: 77

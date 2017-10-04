@@ -3,7 +3,7 @@ $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/design-principles.html
 
-subtitle@: 
+subtitle@: Fan Stories supports a pleathora of features that help content owners make money
 
 principles:
   - title@: Powerful editor to author and post content

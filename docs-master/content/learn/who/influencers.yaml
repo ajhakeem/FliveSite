@@ -1,0 +1,40 @@
+$title@: Fan Stories for Influencers
+class: about-who-vertical
+$order: 2 
+$parent: /content/learn/who-uses-fanstories.yaml
+components:
+  - carousel
+
+vertical_class: advertisers
+
+hero:
+  title@: Generate revenue using your traffic.
+  paragraph@: "Fan Stories helps Influeners to build a sustainable platform outside of Facebook / Instagram amd Youtube to monetize their content. "
+  hero_icon: advertisers/advertisers_icon_intro.svg
+  hero_icon_width: 64
+  hero_icon_height: 58
+  hero_img_base: /static/img/about/who-use-amp/advertisers/influencers
+  hero_img_width: 1742
+  hero_img_height: 1622
+
+why:
+  title@: Why Fan Stories is a perfect match for Influencers
+  reasons:
+    - title@: Ad revenues through natively hosted video ads 
+      paragraph@: Video interstitial ads are natively hosted by Fan Stories, which also gives you the power of a Video advertising platform technology that is normally reserved for very large video content players. 
+      icon: advertisers/advertisers_icon_audience.svg
+
+    - title@: Facebook Messenger Bot Amplifies content
+      paragraph@: Influencers can leverage our Facebook Messenger bot to automate responses as well as promote content
+      icon: advertisers/advertisers_icon_everywhere.svg
+
+    - title@: Host Live Video Instantly
+      paragraph@: Fan Stories helps Influencers to setup a live video feed outside of Facebook / Youtube in a matter of seconds.  
+      icon: advertisers/advertisers_icon_ROI.svg
+
+
+large_cta:
+  title@: Get started with Fan Stories
+  subtitle@: Create an account and host your video site instantly.
+  cta@: Learn More
+  cta_url: "http://app.fanstories.co"
