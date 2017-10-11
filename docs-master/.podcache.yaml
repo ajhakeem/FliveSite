@@ -27124,6 +27124,7 @@ dependencies:
   - /content/learn/who/publishers.yaml
   - /content/learn/who/video-content-creators.yaml
   - /content/learn/who/video-content.yaml
+  - /content/learn/who/youtube-toy-unboxers.yaml
   - /content/pages/home.html
   - /views/partials/breadcrumb-nav.html
   - /views/partials/footer-cta.html
@@ -27594,6 +27595,33 @@ dependencies:
   - /views/partials/header.html
   - /views/partials/lang_switcher.html
   - /views/partials/large-cta.html
+  - /views/partials/sidebar.html
+  /content/learn/who/youtube-toy-unboxers.yaml:
+  - /assets/css/about-who-vertical.min.css
+  - /content/docs/build.md
+  - /content/docs/getting-started.md
+  - /content/docs/tutorials/create.md
+  - /content/includes/menu.yaml
+  - /content/latest/latest.html
+  - /content/latest/list-blog.html
+  - /content/latest/list-event.html
+  - /content/learn/about-how.yaml
+  - /content/learn/case-studies.html
+  - /content/learn/case-studies/hollywoodinsider.md
+  - /content/learn/case-studies/verifiednews.md
+  - /content/learn/full-features.yaml
+  - /content/learn/overview.html
+  - /content/learn/overview.yaml
+  - /content/learn/who-uses-fanstories.yaml
+  - /content/learn/who/youtube-toy-unboxers.yaml
+  - /content/pages/home.html
+  - /views/partials/breadcrumb-nav.html
+  - /views/partials/footer-cta.html
+  - /views/partials/footer.html
+  - /views/partials/grid-card.html
+  - /views/partials/head.html
+  - /views/partials/header.html
+  - /views/partials/lang_switcher.html
   - /views/partials/sidebar.html
   /content/legal/privacy.html:
   - /assets/css/main.min.css

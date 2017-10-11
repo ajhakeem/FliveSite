@@ -1,0 +1,79 @@
+cta:
+  link_text@: Tutorials
+  title@: Get Started Building
+  link_url: /content/docs/tutorials/create.md
+components:
+- carousel
+faqs:
+- answer: Book Writers can get started by Fan Stories by simply registering at https://fanstories.co.
+    Subsequently, they can setup a Fan Stories blog or (site) with their custom domain
+    in a few minutes.
+  question: How do I get started?
+- answer: Fan Stories leverages your social media presence to connect and distribute
+    your content through your Facebook page. We take authorization to collect your
+    FB Page list. We do not publish anything without your permission and all content
+    shared on Facebook is content that you will explicitly choose to share.
+  question: Why do I need to share my Facebook Authentication while registering for
+    Fan Stories?
+- answer: At the moment of time, we make monthly payments to Book Writers. We anticipate
+    to make changes, to make these payments sooner. Payments are paid using PayPal,
+    and wire transfers.
+  question: How frequently do I get paid and how do I get paid?
+- answer: Yes. We support Book Writers from all countries, as long as we are able
+    to make payments to you.
+  question: Can International Publishers sign up on Fan Stories
+- answer: We recommend Book Writers who can bring a minimum thresh-hold of monetizable
+    visitors. For example, for a news site 100k visitors would work great if you're
+    monetizing via paid subscriptions. But for ads, these numbers are too small.
+  question: What is the requirement to get started?
+$order: 2
+$parent: /content/learn/who-uses-fanstories.yaml
+why:
+  reasons:
+  - title@: Why should Book Writers Publish on Fan Stories?
+    icon: publishers/publisher_icon_fast.svg
+    paragraph@: while there are many of platforms available for publishers like Book
+      writers to publish their work, Fan Stories is an exceptional platform from others
+      and it provide the featuresList of social integrations like, publishing using
+      own domain, publishing on instant articles as well as Google amps, Publishing
+      to Facebook and through a bot, providing an huge amount of additional traffic
+      comparatively on a self-hosted alternative like word-press or a regular website.
+  - title@: How would Book Writers benefit from Fan Stories
+    icon: publishers/publisher_icon_simple.svg
+    paragraph@: Fan stories will help Book Writers/Publishers in getting exceptionally
+      higher traffic, higher organic reach on Google search, and instantly can start
+      publishing their works without having to wait to build out the technology.
+  - title@: Features on Fan Stories that will help Book Writers
+    icon: publishers/publisher_icon_business.svg
+    paragraph@: 'Live Streaming by the writers  ~Instantly post Blogs ~Distribution
+      via Google Search ~ Social publishing on Facebook ~ Instant launch of subscriptions
+      for paid users '
+  - title@: How can Book Writers monetize on Fan Stories
+    icon: publishers/publisher_icon_business.svg
+    paragraph@: 'The best suggested way of monetization for comic book publishers
+      is subscriptions. '
+  title@: How Fan Stories can helpbook writers
+hero:
+  triangle_img_width: 1424
+  triangle_img_height: 2095
+  hero_icon_height: 60
+  hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  hero_icon_width: 76
+  title@: Publish content, amplify reach and monetizeList content with Fan Stories.
+  hero_img_width: 1079
+  paragraph@: Fan stories help the Book writers to publish their writings using their
+    own portal and can publish their work under subscriptions. As a Book writer, you
+    will have a wide varieties of your works with different categories like horror,
+    fiction, non- fiction etc, Fan Stories helps you with the technology to help you
+    to publish your works, establish your own presence and monetizeList your writings
+    in no time.
+  hero_img_height: 1316
+  hero_icon: publishers/publisher_icon_intro.svg
+vertical_class: ''
+$title@: Fan Stories for Book Writers
+class: about-who-vertical
+case:
+  cases:
+  - filename: hollywoodinsider.md
+  - filename: verifiednews.md
+  title@: See case studies with Fan Stories

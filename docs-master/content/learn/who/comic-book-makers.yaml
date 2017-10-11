@@ -1,0 +1,78 @@
+cta:
+  link_text@: Tutorials
+  title@: Get Started Building
+  link_url: /content/docs/tutorials/create.md
+components:
+- carousel
+faqs:
+- answer: Comic book makers can get started by Fan Stories by simply registering at
+    https://fanstories.co. Subsequently, they can setup a Fan Stories blog or (site)
+    with their custom domain in a few minutes.
+  question: How do I get started?
+- answer: Fan Stories leverages your social media presence to connect and distribute
+    your content through your Facebook page. We take authorization to collect your
+    FB Page list. We do not publish anything without your permission and all content
+    shared on Facebook is content that you will explicitly choose to share.
+  question: Why do I need to share my Facebook Authentication while registering for
+    Fan Stories?
+- answer: At the moment of time, we make monthly payments to Comic book makers. We
+    anticipate to make changes, to make these payments sooner. Payments are paid using
+    PayPal, and wire transfers.
+  question: How frequently do I get paid and how do I get paid?
+- answer: Yes. We support Comic book makers from all countries, as long as we are
+    able to make payments to you.
+  question: Can International Publishers sign up on Fan Stories
+- answer: We recommend Comic book makerscan bring a minimum thresh-hold of monetizable
+    visitors. For example, for a news site 100k visitors would work great if you're
+    monetizing via paid subscriptions. But for ads, these numbers are too small
+  question: What is the requirement to get started?
+$order: 2
+$parent: /content/learn/who-uses-fanstories.yaml
+why:
+  reasons:
+  - title@: Why should Comic book makers Publish on Fan Stories?
+    icon: publishers/publisher_icon_fast.svg
+    paragraph@: While there are an abundance of options out there for comic makers
+      to setup, Fan Stories provides an exceptional platform on the full suite of
+      social integration like, publishing on own domain, publishing on Instant Articles
+      as well as Google amp, Publishing to Facebook and through a bot, providing an
+      exceptional amount of additional traffic than one would get if they were to
+      be published on a self-hosted alternative like WordPress or a regular website.
+  - title@: How would Comic book makers benefit from Fan Stories
+    icon: publishers/publisher_icon_simple.svg
+    paragraph@: Fan stories help Comic book makers in getting exceptionally higher
+      traffic, higher organic reach on Google search, and instant start to launching
+      a news publication without having to wait to build the technology.
+  - title@: Features on Fan Stories that will help Comic book makers
+    icon: publishers/publisher_icon_business.svg
+    paragraph@: '~ Publish Instant Blogs for your comics ~Distribution via Google
+      Search ~ Social publishing on Facebook ~ Instant launch of subscriptions for
+      paid users '
+  - title@: How can Comic book makers monetize on Fan Stories
+    icon: publishers/publisher_icon_business.svg
+    paragraph@: 'The best suggested way of monetization for comic book makers is subscriptions. '
+  title@: How Fan Stories can helpcomic book makers
+hero:
+  triangle_img_width: 1424
+  triangle_img_height: 2095
+  hero_icon_height: 60
+  hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  hero_icon_width: 76
+  title@: Publish content, amplify reach and monetizeList content with Fan Stories.
+  hero_img_width: 1079
+  paragraph@: Fan Stories helps Comic Book makers by helping them to publish their
+    own online comic magazine which operates with a paywall or with ads. As a Comic
+    Book Publishers, you might want to concentrate on building your comics instead
+    of focusing on technology. Fan Stories helps you build out your publication instantly.
+    Fan Stories provides you with the technology to help you publish, establish your
+    own presence and monetizeList it in no time.
+  hero_img_height: 1316
+  hero_icon: publishers/publisher_icon_intro.svg
+vertical_class: comic-book-makers
+$title@: Fan Stories for Comic book makers
+class: about-who-vertical
+case:
+  cases:
+  - filename: hollywoodinsider.md
+  - filename: verifiednews.md
+  title@: See case studies with Fan Stories

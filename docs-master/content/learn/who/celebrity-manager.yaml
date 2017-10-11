@@ -1,0 +1,78 @@
+cta:
+  link_text@: Tutorials
+  title@: Get Started Building
+  link_url: /content/docs/tutorials/create.md
+components:
+- carousel
+faqs:
+- answer: Celebrity Manager can get started by Fan Stories by simply registering at
+    https://fanstories.co. Subsequently, they can setup a Fan Stories blog or (site)
+    with their custom domain in a few minutes.
+  question: How do I get started?
+- answer: Celebrity Manager can get started by Fan Stories by simply registering at
+    https://fanstories.co. Subsequently, they can setup a Fan Stories blog or (site)
+    with their custom domain in a few minutes.
+  question: Why do I need to share my Facebook Authentication while registering for
+    Fan Stories?
+- answer: At the moment of time, we make monthly payments to Celebrity Manager. We
+    anticipate to make changes, to make these payments sooner. Payments are paid using
+    PayPal, and wire transfers.
+  question: How frequently do I get paid and how do I get paid?
+- answer: Yes. We support Celebrity Manager from all countries, as long as we are
+    able to make payments to you.
+  question: Can International Publishers sign up on Fan Stories
+- answer: We recommend Celebrity Manager bring a minimum thresh-hold of monetizable
+    visitors. For example, for a news site 100k visitors would work great if you're
+    monetizing via paid subscriptions. But for ads, these numbers are too small
+  question: What is the requirement to get started?
+$order: 2
+$parent: /content/learn/who-uses-fanstories.yaml
+why:
+  reasons:
+  - title@: Why should Celebrity Manager Publish on Fan Stories?
+    icon: publishers/publisher_icon_fast.svg
+    paragraph@: While there are abundance of platforms available for celebrity Manager
+      to publish their articles, Fan Stories is an exceptional platform from others.
+      It provide the featuresList of social integrations like, publishing using own
+      domain, publishing on instant articles as well as Google amps, Publishing to
+      Facebook and through a bot, providing an huge amount of additional traffic comparatively
+      on a self-hosted alternative like word-press or a regular website.
+  - title@: How would Celebrity Manager benefit from Fan Stories
+    icon: publishers/publisher_icon_simple.svg
+    paragraph@: Fan stories will help Celebrity Managers in getting exceptionally
+      higher traffic, higher organic reach on Google search, and instantly can start
+      publishing their compositions without having to wait to build out the technology
+  - title@: Features on Fan Stories that will help Celebrity Manager
+    icon: publishers/publisher_icon_business.svg
+    paragraph@: ~ Live Streaming by the artist ~instantly share blogs ~Distribution
+      via Google Search ~ Social publishing on Facebook ~ Instant launch of subscriptions
+      for paid users
+  - title@: How can Celebrity Manager monetize on Fan Stories
+    icon: publishers/publisher_icon_business.svg
+    paragraph@: For large artist- publish video ads on our video ad server OR enable
+      third party ads. OR monetizeList with subscriptions. You can launch subscriptions
+      ($1-10 monthly) using Fan Stories.
+  title@: How Fan Stories can helpcelebrity manager
+hero:
+  triangle_img_width: 1424
+  triangle_img_height: 2095
+  hero_icon_height: 60
+  hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  hero_icon_width: 76
+  title@: Publish content, amplify reach and monetizeList content with Fan Stories.
+  hero_img_width: 1079
+  paragraph@: Fan stories help the celebrity Managers to publish the celebrity’s works
+    using their own portal and can publish their works under subscriptions. As a Celebrity
+    Manager, you will have a wide varieties of your collections on different genres,
+    Fan Stories helps you with the technology to help you to publish your compositions,
+    establish your own presence and monetizeList your writings in no time.
+  hero_img_height: 1316
+  hero_icon: publishers/publisher_icon_intro.svg
+vertical_class: celebrity
+$title@: Fan Stories for Celebrity Manager
+class: about-who-vertical
+case:
+  cases:
+  - filename: hollywoodinsider.md
+  - filename: verifiednews.md
+  title@: See case studies with Fan Stories

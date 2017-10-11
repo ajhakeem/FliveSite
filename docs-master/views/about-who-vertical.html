@@ -134,6 +134,25 @@
         {% endwith %}
       {% endif %}
 
+      {% if doc.faqs %}
+        <section class="core">
+          <h2 class="h1">FAQs</h2>
+          <amp-accordion disable-session-states>
+            {% for faq in doc.faqs %}
+              <section>
+                <header>
+                  <h4>{{_(faq.question)}}</h4>
+                  <div class="subtitle">{{_(faq.answer)|markdown|safe}}</div>
+                </header>
+                <div class="core-content">
+                  <div class="description">{{_(faq.answer)|markdown|safe}}</div>
+                </div>
+              </section>
+            {% endfor %}
+          </amp-accordion>
+        </section>
+      {% endif %}
+
       {% if doc.case %}
         <section class="case-study">
           <h3>{{_(doc.case.title)}}</h3>

@@ -19,32 +19,6 @@ hero:
   hero_icon_height: 60
   hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
 
-
-  users:
-    - name: The New York Times
-      logo: publishers/nyt_logo.svg
-      logo_width: 306
-      logo_height: 40
-      class: nyt
-
-    - name: Globo
-      logo: publishers/globo_logo.svg
-      logo_width: 57
-      logo_height: 33
-      class: globo
-
-    - name: Washington Post
-      logo: publishers/wapo_logo.png
-      logo_width: 1280
-      logo_height: 197
-      class: wapo
-
-    - name: Wired
-      logo: publishers/wired_logo.png
-      logo_width: 1298
-      logo_height: 263
-      class: wired
-
 why:
   title@: How Fan Stories can help publishers
   reasons:
