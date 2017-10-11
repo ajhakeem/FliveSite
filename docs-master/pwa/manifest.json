@@ -1,11 +1,11 @@
 {
-  "name": "AMPProject.org",
-  "short_name": "AMP",
+  "name": "Fanstories.co",
+  "short_name": "FAN",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#0379C4",
-  "description": "The official website and documentation for the Accelerated Mobile Pages project.",
+  "description": "Fan Stories - Content creator - publishing and monetization.",
   "icons": [{
     "src": "/static/img/icons/48.png",
     "sizes": "48x48",

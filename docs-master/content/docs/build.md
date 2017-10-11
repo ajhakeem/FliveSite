@@ -46,9 +46,10 @@ video_cards:
     videoid: Zsp7rvJ2Hs8x
 
 doc_cards:
-  - name: Facebook Messenger bot
+  - name: How messenger bot helps in increasing reach?
     desc: Learn how to setup up Facebook Messenger bot for your page
-    link: https://ampbyexample.com/introduction/amp_for_e-commerce_getting_started/
+    link: http://blog.fanstories.co/2017/09/29/how-messenger-bot-helps-in-increasing-reach-972.html
+
 
   - name: Subscription services 
     desc: Learn how to setup subscription services for your page to monetize your content
