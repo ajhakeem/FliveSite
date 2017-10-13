@@ -1,7 +1,7 @@
 cta:
-  link_text@: Tutorials
-  title@: Get Started Building
-  link_url: /content/docs/tutorials/create.md
+  link_text@: Sign Up
+  title@: Get Started
+  link_url: https://app.fanstories.co
 components:
 - carousel
 faqs:

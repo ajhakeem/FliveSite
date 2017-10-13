@@ -1,286 +1,249 @@
-$title: Who is Fan Stories for?
-$order: 1
-class: about-who
-$view: /views/about-who.html
-$parent: /content/learn/overview.yaml
-$path: /learn/who-uses-fanstories/
-
-hero:
-  title: Who is Fan Stories for?
-  subtitle: Fan Stories is built for publishers, video content creators and Facebook Influencers. Fan Stories generally works for anyone who has great content and or has a good reach to distrubute content.
-  hero_img_base: /static/img/about/who-use-amp/who_phones_hero
-
-cards:
-  - name: Publishers
-    filename: publishers
-    cta: Learn More
-    icon: who_icon_publishers.svg
-
-  # - name: SMB
-  #   filename: smb
-  #   cta: Learn More
-  #   icon: card_smb.svg
-
-  - name: Video content creators
-    filename: video-content
-    cta: Learn More
-    icon: who_icon_adtech.svg
-
-  - cta: Learn More
-    filename: news-publishers
-    name: News Publishers
-    icon: who_icon_adtech.svg
-
-  - cta: Learn More
-    filename: comic-book-publishers
-    name: Comic book publishers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: magazine
-    name: Magazine
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: writers
-    name: Writers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: authors
-    name: Authors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: book-writers
-    name: Book Writers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: bloggers
-    name: Bloggers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: comic-book-makers
-    name: Comic book makers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: video-creators
-    name: Video creators
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: musicians
-    name: Musicians
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: vloggers
-    name: Vloggers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: news-reporters
-    name: News reporters
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: sports-reporters
-    name: Sports Reporters
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: movie-actors
-    name: Movie actors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: tamil-movie-actors
-    name: Tamil Movie actors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: hindi-movie-actors
-    name: Hindi Movie actors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: bhojpuri-actors
-    name: Bhojpuri Actors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: telegu-actors
-    name: Telegu Actors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: malayalam-actors
-    name: Malayalam Actors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: sports-commentators-sports-casters
-    name: Sports commentators/ Sports Casters
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: cricket-reviewers
-    name: Cricket reviewers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: movie-reviewers
-    name: Movie reviewers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: movie-commentators
-    name: Movie commentators
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: standup-comedians
-    name: Standup comedians
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: movie-comedians
-    name: Movie comedians
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: tv-comedians
-    name: TV comedians
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: youtube-toy-unboxers
-    name: Youtube toy unboxers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: youtube-artists
-    name: Youtube artists
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: youtube-comedians
-    name: Youtube comedians
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: youtube-indie-movie-makers
-    name: Youtube Indie Movie Makers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: livestreamers
-    name: Livestreamers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: influencers
-    name: Influencers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: instagrammers
-    name: Instagrammers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: facebook-page-owners
-    name: Facebook Page owners
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: fb-pages
-    name: FB Pages
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: snapchat-influencers
-    name: Snapchat Influencers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: twitch-livestreamers
-    name: Twitch Livestreamers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: pop-artists
-    name: Pop Artists
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: indie-artists
-    name: Indie Artists
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: radio-commentators
-    name: Radio Commentators
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: celebrity-manager
-    name: Celebrity Manager
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: celebrities
-    name: Celebrities
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: tv-celebrity
-    name: TV Celebrity
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: influencer-managers
-    name: Influencer managers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: influencer-agencies
-    name: Influencer agencies
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: patreon-alternative
-    name: Patreon alternative
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: video-jockeys
-    name: Video Jockeys
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: radio-jockeys
-    name: Radio Jockeys
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: composer-music-directors
-    name: Composer/ Music Directors
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: divas
-    name: Divas
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: virtuosi
-    name: Virtuosi
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: vocalist
-    name: Vocalist
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: annotators
-    name: Annotators
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: orators-dictator
-    name: Orators/Dictator
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: expositor-critics
-    name: Expositor/ Critics
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: science-experiments
-    name: Science & experiments
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: technomancers
-    name: Technomancers
-    icon: who_icon_adtech.svg
-  - cta: Learn More
-    filename: game-reviewers
-    name: Game reviewers
-    icon: who_icon_adtech.svg
-  
-  - name: Youtube Toy Unboxers
-    filename: youtube-toy-unboxers
-    cta: Learn More
-    icon: who_icon_adtech.svg
-
-  - name: Influencers
-    filename: influencers
-    cta: Learn More
-    icon: card_smb.svg
-
-  # - name: Influencers / Facebook Pages owners.
-  #   filename: influencers
-  #   cta: Learn More
-  #   icon: who_icon_advertisers.svg
-
-  # - name: Developers
-  #   filename: developers
-  #   cta: Learn More
-  #   icon: card_developers.svg
-
 cta:
+  link_url: /content/learn/case-studies.html
   title: Register
   link_text: Read case studies
-  link_url: /content/learn/case-studies.html
+cards:
+- cta: Learn More
+  filename: news-publishers
+  name: News Publishers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: comic-book-publishers
+  name: Comic book publishers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: magazine
+  name: Magazine
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: writers
+  name: Writers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: authors
+  name: Authors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: book-writers
+  name: Book Writers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: bloggers
+  name: Bloggers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: comic-book-makers
+  name: Comic book makers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: video-creators
+  name: Video creators
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: musicians
+  name: Musicians
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: vloggers
+  name: Vloggers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: news-reporters
+  name: News reporters
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: sports-reporters
+  name: Sports Reporters
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: movie-actors
+  name: Movie actors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: tamil-movie-actors
+  name: Tamil Movie actors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: hindi-movie-actors
+  name: Hindi Movie actors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: bhojpuri-actors
+  name: Bhojpuri Actors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: telegu-actors
+  name: Telegu Actors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: malayalam-actors
+  name: Malayalam Actors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: sports-commentators-sports-casters
+  name: Sports commentators/ Sports Casters
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: cricket-reviewers
+  name: Cricket reviewers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: movie-reviewers
+  name: Movie reviewers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: movie-commentators
+  name: Movie commentators
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: standup-comedians
+  name: Standup comedians
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: movie-comedians
+  name: Movie comedians
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: tv-comedians
+  name: TV comedians
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: youtube-toy-unboxers
+  name: Youtube toy unboxers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: youtube-artists
+  name: Youtube artists
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: youtube-comedians
+  name: Youtube comedians
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: youtube-indie-movie-makers
+  name: Youtube Indie Movie Makers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: livestreamers
+  name: Livestreamers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: influencers
+  name: Influencers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: instagrammers
+  name: Instagrammers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: facebook-page-owners
+  name: Facebook Page owners
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: fb-pages
+  name: FB Pages
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: snapchat-influencers
+  name: Snapchat Influencers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: twitch-livestreamers
+  name: Twitch Livestreamers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: pop-artists
+  name: Pop Artists
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: indie-artists
+  name: Indie Artists
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: radio-commentators
+  name: Radio Commentators
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: celebrity-manager
+  name: Celebrity Manager
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: celebrities
+  name: Celebrities
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: tv-celebrity
+  name: TV Celebrity
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: influencer-managers
+  name: Influencer managers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: influencer-agencies
+  name: Influencer agencies
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: patreon-alternative
+  name: Patreon alternative
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: video-jockeys
+  name: Video Jockeys
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: radio-jockeys
+  name: Radio Jockeys
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: composer-music-directors
+  name: Composer/ Music Directors
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: divas
+  name: Divas
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: virtuosi
+  name: Virtuosi
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: vocalist
+  name: Vocalist
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: annotators
+  name: Annotators
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: orators-dictator
+  name: Orators/Dictator
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: expositor-critics
+  name: Expositor/ Critics
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: science-experiments
+  name: Science & experiments
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: technomancers
+  name: Technomancers
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: game-reviewers
+  name: Game reviewers
+  icon: who_icon_adtech.svg
+$order: 1
+$parent: /content/learn/overview.yaml
+$title: Who is Fan Stories for?
+$path: /learn/who-uses-fanstories/
+hero:
+  hero_img_base: /static/img/about/who-use-amp/who_phones_hero
+  subtitle: Fan Stories is built for publishers, video content creators and Facebook
+    Influencers. Fan Stories generally works for anyone who has great content and
+    or has a good reach to distrubute content.
+  title: Who is Fan Stories for?
+$view: /views/about-who.html
+class: about-who
