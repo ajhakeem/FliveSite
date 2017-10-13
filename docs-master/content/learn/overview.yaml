@@ -1,6 +1,6 @@
 $title@: Overview
 $titles:
-  breadcrumb@: What is Fan Stories
+  breadcrumb@: Fan Stories Platform Overview
 $order: 0
 class: about-overview
 $view: /views/about-overview.html
@@ -9,24 +9,24 @@ components:
   - youtube
 
 hero:
-  title@: Fan Stories is a publishing and monetization platform.
+  title@: Fan Stories was built to solve monetization for content creators.
   phone_img_base: /static/img/about/overview/what_phone
-  cta@: Play Video
+  cta@: Play video to learn more.
   cta_url: '#video'
 
 core:
-  title: Fan Stories provides the following features
+  title: Fan Stories Platform provides the following features
   components:
-    - title: Publishing 
+    - title: Build a simple web presence using your custom domain and activate monetization in just a few minutes
       subtitle: | 
-        Beautiful websites are automatically published by Fan Stories.
+         Fan Stories allows you to setup a Web presence (blog, publication, video site), with different themes suited for each different types of use case. 
       description: |
-        ** Beautiful pages are published ** automagically with the content you share. Pages are linked with your Social (Facebook) accounts so that they can be shared there as well. 
-       
-    - title: Auto Publishing to Accelerated Mobile Pages (AMP) and Facebook's Instant articles
+        These themes can then be enabled monetization either with ads, or with subscriptions instantly allowing creators to monetize. 
+    - title: Increased traffic through your site through of content via optimized Social media and Search engine friendly web presence. 
       subtitle: |
-          AMP and Instant articles increase the reach of your content because both these technologies help the pages / articles to load really fast and are favored by Google's and Facebook's algorithms respectively.
+          Fan Stories publishesh content on a website that is optimized for AMP and Instant articles
       description: |
+        Both  AMP and Instant Articles increase the reach of your content because both these technologies help the pages / articles to load really fast and are favored by Google's and Facebook's algorithms respectively.
         AMP helps pages load quickly on the Open web and Facebook's instant articles load content really fast within Facebook. Both these formats help in improved reach across your audiences with favoured discovery both within Newsfeed and within Google search results.
     - title: Messenger Bot for content distribution
       subtitle: |

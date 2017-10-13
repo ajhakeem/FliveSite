@@ -3,7 +3,7 @@ $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/design-principles.html
 
-subtitle@: 
+subtitle@: Fan Stories supports a pleathora of features that help content owners make money
 
 principles:
   - title@: Powerful editor to author and post content
@@ -18,16 +18,16 @@ principles:
     description@: Fan Stories supports live streaming for influencers and content creators who would like to livestream right into their blog. An Android app, now available on the play store provides the features to livestream.
     icon: design_icon_break.svg
   - title@: Earn revenue through Subscription platform
-    description@: Fan Stories supports revenue generation of premium content through out of box support for subscriptions. Users can subscribe to premium content and get billed on a monthly basis. Influencers and content creators can create subscription plans ranging from $1 to $10 monthly and offer yearly discounts.
+    description@: Fan Stories supports revenue generation of premium content through out of box support for subscriptions. Content creators can enable between $1-10 subscriptions on their properties instantly. They can choose to publish free, or paid content. Users can subscribe to premium content and get billed on a monthly basis. 
     icon: design_icon_layers.svg
   - title@: Video ad serving for Premium creators
     description@: Fan Stories provides video ad serving features for premium publishers allowing them to serve video ads within their content.
     icon: design_icon_fast.svg
-  - title@: Facebook Messenger bot to distribute, amplify the reach of the content
-    description@: Some things can be made fast and are still a terrible user experience. AMPs should deliver a fantastic user experience and speed is just one part of that. Only compromise when lack of support for something would stop AMP from being widely used and deployed.
+  - title@: Facebook Messenger bot to distribute, amplify the reach of the content and increase traffic to your page.
+    description@: Fan Stories provides an instant Facebook messenger bot to help increase traffic to your blog / page. Users can subscribe to content or use a conversational bot to discover content. All content links are redirected to your blog.
     icon: design_icon_priorities.svg
-  - title@: No whitelists.
-    description@: We won’t give any special treatment to specific sites, domains or origins except where needed for security or performance reasons.
+  - title@: Video upload / encoding
+    description@: Fan Stories provides a video uploading / encoding capability for enabling content creators to upload, encode and publish videos directly from Fan Stories.
     icon: design_icon_whitelist.svg
 
 cta:
