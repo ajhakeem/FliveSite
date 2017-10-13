@@ -150,6 +150,14 @@ body.about-who-vertical {
       margin-bottom: 45px;
     }
 
+    .reasons {
+      ul {
+        li {
+          list-style: none;
+        }
+      }
+    }
+
     .reasons.desktop {
       display: flex;
       justify-content: space-between;

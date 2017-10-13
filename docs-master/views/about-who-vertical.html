@@ -69,7 +69,18 @@
                   src="/static/img/about/who-use-amp/{{reason.icon}}">
               </amp-img>
               <h4>{{_(reason.title)}}</h4>
-              <p class="small">{{_(reason.paragraph)}}</p>
+              {% if reason.paragraph %}
+                <div>
+                  <p class="small">{{_(reason.paragraph)}}</p>
+                </div>
+              {% endif %}
+              {% if reason.features %}
+                <ul>
+                  {% for feature in reason.features %}
+                    <li class="small">{{_(feature)}}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
             </div>
           {% endfor %}
         </div>
@@ -89,7 +100,16 @@
                     src="/static/img/about/who-use-amp/{{reason.icon}}">
                 </amp-img>
                 <h4>{{_(reason.title)}}</h4>
-                <div><p class="small">{{_(reason.paragraph)}}</p></div>
+                <div>
+                  <p class="small">{{_(reason.paragraph)}}</p>
+                </div>
+                {% if reason.features %}
+                  <ul>
+                    {% for feature in reason.features %}
+                      <li class="small">{{_(feature)}}</li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
               </div>
               {% if loop.last and loop.index is not divisibleby 2 %}
                 {% for number in range(0, 2 - loop.index % 2) %}
@@ -121,6 +141,13 @@
                 </amp-img>
                 <h4>{{_(reason.title)}}</h4>
                 <div><p class="small">{{_(reason.paragraph)}}</p></div>
+                {% if reason.features %}
+                  <ul>
+                    {% for feature in reason.features %}
+                      <li class="small">{{_(feature)}}</li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -142,7 +169,6 @@
               <section>
                 <header>
                   <h4>{{_(faq.question)}}</h4>
-                  <div class="subtitle">{{_(faq.answer)|markdown|safe}}</div>
                 </header>
                 <div class="core-content">
                   <div class="description">{{_(faq.answer)|markdown|safe}}</div>

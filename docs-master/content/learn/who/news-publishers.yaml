@@ -9,63 +9,69 @@ faqs:
     https://fanstories.co. Subsequently, they can setup a Fan Stories blog Or (site)
     with their custom domain in a few minutes.
   question: How do I get started?
-- answer: ''
+- answer: ~Paid subscriptions work best for News Publishers who have limited traffic.
+    A paywall will prompt users to subscribe and pay. ~ Ads - Google AdWords for monetization
+    (works best for sites with very large traffic) ~ Video ad serving, works best
+    for News Publishers with very high video content.
+  question: What kind of monetization options works best for News Publishers?
+- answer: Fan Stories leverages your social media presence to connect and distribute
+    your content through your Facebook page. We take authorization to collect your
+    FaceBook Page list. We do not publish anything without your permission and all
+    content shared on Facebook is content that you will explicitly choose to share.
   question: Why do I need to share my Facebook Authentication while registering for
     Fan Stories?
-- answer: At the moment of time, we make monthly payments to X. We anticipate to make
-    changes, to make these payments sooner. Payments are paid using Paypal, and wire
-    transfers.
+- answer: At the moment of time, we make monthly payments to News Publishers. We anticipate
+    to make changes, to make these payments sooner. Payments are paid using Paypal,
+    and wire transfers.
   question: How frequently do I get paid and how do I get paid?
-- answer: Yes. We support X from all countries, as long as we are able to make payments
-    to you.
-  question: Can International Publishers sign up on Fan Stories
-- answer: We recommend X who can bring a minimum thresh-hold of monetizable visitors.  For
-    example, for a news site 100k visitors would work great if you're monetizing via
-    paid subscriptions. But for ads, these numbers are too small.
+- answer: We recommend News Publishers who can bring a minimum thresh-hold of monetizable
+    visitors.  For example, for a news site, 100k visitors would work great if you're
+    monetizing via paid subscriptions. But for ads, these numbers are too small.
   question: What is the requirement to get started?
 $order: 2
 $parent: /content/learn/who-uses-fanstories.yaml
 why:
   reasons:
-  - title@: Why should News Publishers Publish on Fan Stories?
+  - title@: Why should News Publishers publish on Fan Stories?
     icon: publishers/publisher_icon_fast.svg
-    paragraph@: While there are a pleathora of options out there for news publications
-      to setup their news publication on, Fan Stories provides an exceptional platform
-      in being able to do so.  Fan stories provides the full suite of social integration,
-      publishing on custom domain, publishing on Instant Articles as well as Google
-      amp, Publishing to Facebook and through a bot, providing an exceptional amount
-      of additional traffic than one would get if they were to be published on a self
-      hosted alternative like wordpress or a regular website. Fan Stories also provides
-      a Live streaming platform to enable Newscasters to directly livecast into their
-      blog.
-  - title@: How would News Publishers benefit from Fan Stories
-    icon: publishers/publisher_icon_simple.svg
-    paragraph@: Fan stories will help News Publishers in getting exceptionally higher
-      traffic, higher organic reach on Google search, and instant start to launching
-      a news publication without having to wait to build out the technology.
+    paragraph@: While there are a plethora of options out there for news publications
+      to set up their news publication on, Fan Stories provides an exceptional platform
+      in being able to do so.  Fan stories provide a powerful editor, the full suite
+      of social integration, publishing on the custom domain, publishing on Instant
+      Articles as well as amp powered articles, publishing to a social feed, and publishing
+      an interactive Facebook Messenger bot for increasing traffic. Fan Stories provides
+      video hosting, encoding, and publishing facility along with a powerful Livestreaming
+      solution that is particularly useful for News Publishers.
   - title@: Features on Fan Stories that will help News Publishers
     icon: publishers/publisher_icon_business.svg
-    paragraph@: '~ Live Streaming ~Instant Blogs ~Distribution via Google Search ~
-      Social publishing on Facebook ~ Instant launch of subscriptions for paid users '
-  - title@: How can News Publishers monetize on Fan Stories
-    icon: publishers/publisher_icon_business.svg
-    paragraph@: '~ Launch paid subscriptions to your users ~ Install google adwords
-      for monetization (works best for sites with very large traffic) ~ '
-  title@: How Fan Stories can helpnews publishers
+    features@:
+    - Live Streaming
+    - Instant website setup
+    - Additional traffic via Google optimized website
+    - Social publishing on Facebook
+    - Instant launch of subscriptions for paid users
+    - Mobile app for publishing content on the go.
+  - title@: How Fan Stories help News Publishers in getting to meaningful revenues?
+    icon: publishers/publisher_icon_simple.svg
+    paragraph@: Fan stories help News Publishers in getting meaningful revenues through
+      ads (Display ads, Video ads) as well as through providing a paid subscriptions
+      platform.
+  title@: How Fan Stories can help News publishers
 hero:
   triangle_img_width: 1424
   triangle_img_height: 2095
   hero_icon_height: 60
   hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
   hero_icon_width: 76
-  title@: Publish content, amplify reach and monetizeList content with Fan Stories.
+  title@: News Publishers - Meaningful revenue and building a credible web presence
+    using Fan Stories
   hero_img_width: 1079
-  paragraph@: Fan Stories helps News Publishers by helping them to build their own
-    news portal which operates with WSJ style paywall or with ads. As a News Publishers,
+  paragraph@: Fan Stories helps News Publishers by providing a platform to build their
+    own news portal which operates with a paywall or with ads. As a News Publishers,
     you might want to concentrate on building a credible news organization instead
-    of focussing on technology. Fan Stories helps you bulid you build out your publication.
+    of focussing on technology. Fan Stories helps you build out your publication.
     Fan Stories provides you with the technology to help you publish, establish your
-    own presence and monetizeList it in no time.
+    online presence and help monetize it with subscriptions paywall, or through ads.
   hero_img_height: 1316
   hero_icon: publishers/publisher_icon_intro.svg
 vertical_class: publishers

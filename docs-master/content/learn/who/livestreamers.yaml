@@ -9,19 +9,23 @@ faqs:
     Subsequently, they can setup a Fan Stories blog or (site) with their custom domain
     in a few minutes.
   question: How do I get started?
+- answer: For Large live streamers - publish video ads on our video ad server OR enable
+    third party ads.  OR monetize with subscriptions. You can launch subscriptions
+    ($1-10 monthly) using Fan Stories. ~Paid subscriptions work best for youtube artist
+    who have limited traffic. A paywall will prompt users to subscribe and pay. ~
+    Ads - Google AdWords for monetization (works best for sites with very large traffic)
+    ~ Video ad serving, works best for with very high video content.
+  question: What kind of monetization options works best for Livestreamers?
 - answer: Fan Stories leverages your social media presence to connect and distribute
     your content through your Facebook page. We take authorization to collect your
-    FB Page list. We do not publish anything without your permission and all content
-    shared on Facebook is content that you will explicitly choose to share.
+    Facebook Page list. We do not publish anything without your permission and all
+    content shared on Facebook is content that you will explicitly choose to share.
   question: Why do I need to share my Facebook Authentication while registering for
     Fan Stories?
 - answer: At the moment of time, we make monthly payments to live streamers. We anticipate
     to make changes, to make these payments sooner. Payments are paid using PayPal,
     and wire transfers.
   question: How frequently do I get paid and how do I get paid?
-- answer: Yes. We support live streamers from all countries, as long as we are able
-    to make payments to you.
-  question: Can International Publishers sign up on Fan Stories
 - answer: We recommend live streamers bring a minimum thresh-hold of monetizable visitors.
     For example, for a news site 100k visitors would work great if you're monetizing
     via paid subscriptions. But for ads, these numbers are too small
@@ -30,7 +34,7 @@ $order: 2
 $parent: /content/learn/who-uses-fanstories.yaml
 why:
   reasons:
-  - title@: Why should Livestreamers Publish on Fan Stories?
+  - title@: Why should Livestreamers publish on Fan Stories?
     icon: publishers/publisher_icon_fast.svg
     paragraph@: While there are a plenty of platforms out there for live streamers
       to setup, Fan Stories provides an exceptional platform with the full suite of
@@ -38,34 +42,34 @@ why:
       as well as Google amp, Publishing to Facebook and through a bot, providing an
       exceptional amount of additional traffic than one would get if they were to
       be published on a self-hosted alternative like WordPress or a regular website
-  - title@: How would Livestreamers benefit from Fan Stories
+  - title@: Features on Fan Stories that will help Livestreamers
+    icon: publishers/publisher_icon_business.svg
+    features@:
+    - Live streaming on social media
+    - Instant Blogs
+    - Distribution via Google Search
+    - Social publishing on Facebook
+    - Instant launch of subscriptions for paid users.
+  - title@: How Fan Stories help Livestreamers in getting to meaningful revenues?
     icon: publishers/publisher_icon_simple.svg
     paragraph@: Fan stories will help live streamers in getting exceptionally higher
       traffic, higher organic reach on Google search, and instant start to launching
       a news publication without having to wait to build out the technology
-  - title@: Features on Fan Stories that will help Livestreamers
-    icon: publishers/publisher_icon_business.svg
-    paragraph@: ~ Live streaming on social media ~Instant Blogs ~Distribution via
-      Google Search ~ Social publishing on Facebook ~ Instant launch of subscriptions
-      for paid users.
-  - title@: How can Livestreamers monetize on Fan Stories
-    icon: publishers/publisher_icon_business.svg
-    paragraph@: ~ Launch paid subscriptions to your users ~ install google AdWords
-      for monetization (works best for sites with very large traffic)
-  title@: How Fan Stories can helplivestreamers
+  title@: How Fan Stories can help Livestreamers
 hero:
   triangle_img_width: 1424
   triangle_img_height: 2095
   hero_icon_height: 60
   hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
   hero_icon_width: 76
-  title@: Publish content, amplify reach and monetizeList content with Fan Stories.
+  title@: Livestreamers - Meaningful revenue and building a credible web presence
+    using Fan Stories
   hero_img_width: 1079
   paragraph@: Fan Stories helps Live streamers by helping them to build their own
     video portal which operates with Netflix style subscriptions or with ads. As an
     artist, you might have a large captive audience on. But the monetization area
-    is too low to make a living. Fan stories provides the tools and the technology
-    to help you publish, establish your own presence and monetizeList it in no time.
+    is too low to make a living. Fan stories provide the tools and the technology
+    to help you publish, establish your own presence and monetize it in no time.
   hero_img_height: 1316
   hero_icon: publishers/publisher_icon_intro.svg
 vertical_class: ''
