@@ -28,6 +28,8 @@ experience:
   content@:  Fan Stories is built ground up by addressing the problems that content creators and media platforms have. Fan stories powers subscriptions so that your users can subscribe to the content you post. <br/> <br/>Large content creators are also provided with video ad serving platform, and this provides the highest amount of monetization that ads can provide.
 
   phone_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  bg_img: /static/img/bg_img.png
+  lines_img: /static/img/lines_img.png
 
 
 success_stories:
