@@ -1,0 +1,30 @@
+{
+  "/content/pages/home.html": [
+    "/assets/css/home.min.css",
+    "/content/docs/build.md",
+    "/content/docs/getting-started.md",
+    "/content/docs/tutorials/general/create.md",
+    "/content/includes/case-studies.yaml",
+    "/content/includes/home.yaml",
+    "/content/includes/list-blog.yaml",
+    "/content/includes/menu.yaml",
+    "/content/latest/latest.html",
+    "/content/latest/list-blog.html",
+    "/content/latest/list-event.html",
+    "/content/learn/about-how.yaml",
+    "/content/learn/case-studies.html",
+    "/content/learn/case-studies/hollywoodinsider.md",
+    "/content/learn/case-studies/verified.md",
+    "/content/learn/full-features.yaml",
+    "/content/learn/overview.html",
+    "/content/learn/overview.yaml",
+    "/content/learn/who-uses-fanstories.yaml",
+    "/content/pages/home.html",
+    "/views/partials/footer.html",
+    "/views/partials/head.html",
+    "/views/partials/header.html",
+    "/views/partials/lang_switcher.html",
+    "/views/partials/large-cta.html",
+    "/views/partials/sidebar.html"
+  ]
+}
