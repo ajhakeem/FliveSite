@@ -1,6 +1,6 @@
 $title@: Overview
 $titles:
-  breadcrumb@: Fan Stories Platform Overview
+  breadcrumb@: Xedflix Platform Overview
 $order: 0
 class: about-overview
 $view: /views/about-overview.html
@@ -9,35 +9,35 @@ components:
   - youtube
 
 hero:
-  title@: Fan Stories was built to solve monetization for content creators.
+  title@: Xedflix was built to solve monetization for content creators.
   phone_img_base: /static/img/about/overview/what_phone
   cta@: Play video to learn more.
   cta_url: '#video'
 
 core:
-  title: Fan Stories Platform provides the following features
+  title: Xedflix Platform provides the following features
   components:
     - title: Build a simple web presence using your custom domain and activate monetization in just a few minutes
       subtitle: | 
-         Fan Stories allows you to setup a Web presence (blog, publication, video site), with different themes suited for each different types of use case. 
+         Xedflix allows you to setup a Web presence (blog, publication, video site), with different themes suited for each different types of use case. 
       description: |
         These themes can then be enabled monetization either with ads, or with subscriptions instantly allowing creators to monetize. 
     - title: Increased traffic through your site through of content via optimized Social media and Search engine friendly web presence. 
       subtitle: |
-          Fan Stories publishesh content on a website that is optimized for AMP and Instant articles
+          Xedflix publishesh content on a website that is optimized for AMP and Instant articles
       description: |
         Both  AMP and Instant Articles increase the reach of your content because both these technologies help the pages / articles to load really fast and are favored by Google's and Facebook's algorithms respectively.
         AMP helps pages load quickly on the Open web and Facebook's instant articles load content really fast within Facebook. Both these formats help in improved reach across your audiences with favoured discovery both within Newsfeed and within Google search results.
     - title: Messenger Bot for content distribution
       subtitle: |
-        Fan Stories provides an interactive Messenger bot 
+        Xedflix provides an interactive Messenger bot 
       description: |
-          Fan Stories provides an interactive messenger bot that helps your Facebook page interact with its users. The bot responds with content from your blog. For those users who subscribe for alerts get notified whenever new content is available.
+          Xedflix provides an interactive messenger bot that helps your Facebook page interact with its users. The bot responds with content from your blog. For those users who subscribe for alerts get notified whenever new content is available.
 video:
   id: uf5K6M4AN5U
  
 
 cta:
-  title: See what Fan Stories can do for you
-  link_text: Learn who uses Fan Stories
+  title: See what Xedflix can do for you
+  link_text: Learn who uses Xedflix
   link_url: /content/learn/case-studies.html
