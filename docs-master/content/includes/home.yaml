@@ -1,31 +1,31 @@
 hero:
-  title@: Fan Stories is a platform for content creators to make money
-  content@: Fan Stories helps content creators - Youtubers, News Publishers, Instagrammers, FB Influencers to monetize their content.
+  title@: Xedflix is a linear internet TV platform.
+  content@: Xedflix helps content creators - Youtubers, News Publishers, educational content creators and influencers to publish a live internet TV channel and make money.
   cta@: Learn More
   cta_url: /content/learn/overview.yaml
-  secondary_cta@: Sign up with Fan Stories
-  secondary_cta_url: https://app.fanstories.co
+  secondary_cta@: Sign up with Xedflix
+  secondary_cta_url: https://app.xedflix.co
   phone_img_base: /static/img/home/home_main2
   carousel_title@: Updates
 
 benefits:
-  title@: What Fan Stories Provides
+  title@: What Xedflix Provides
   cards:
     - title@: A platform to publish and get to revenue, really quickly.
-      content@: Fan Stories provides beautiful Web presence for your content in the form of automagically generated websites that load instantaneously. All content hosted is owned by you unlike your content on social media platforms.
+      content@: Xedflix provides beautiful Web presence for your content in the form of automagically generated websites that load instantaneously. All content hosted is owned by you unlike your content on social media platforms.
       img: /static/img/home/home_icon_performance.svg
       img_width: 56
       img_height: 103
 
     - title@: Ability to monetize content with Subscriptions and ads.
-      content@: Fan Stories monetizes your content with subscriptions or ads. 
+      content@: Xedflix monetizes your content with subscriptions or ads. 
       img: /static/img/home/home_icon_flexibility.svg
       img_width: 77
       img_height: 92
 
 experience:
   title@: A Platform built to drive media revenue.
-  content@:  Fan Stories is built ground up by addressing the problems that content creators and media platforms have. Fan stories powers subscriptions so that your users can subscribe to the content you post. <br/> <br/>Large content creators are also provided with video ad serving platform, and this provides the highest amount of monetization that ads can provide.
+  content@:  Xedflix is built ground up by addressing the problems that content creators and media platforms have. Xedflix powers subscriptions so that your users can subscribe to the content you post. <br/> <br/>Large content creators are also provided with video ad serving platform, and this provides the highest amount of monetization that ads can provide.
 
   phone_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
   bg_img: /static/img/bg_img.png
@@ -41,7 +41,7 @@ success_stories:
       img_width: 1280
       url: /content/learn/case-studies/hollywoodinsider.md
       class: wapo
-    - quote@: “The Live Streaming to Blog feature of Fan Stories together with subscriptions are the features we're looking forward to, to save ourselves getting killed with low ad revenue.”
+    - quote@: “The Live Streaming to Blog feature of Xedflix together with subscriptions are the features we're looking forward to, to save ourselves getting killed with low ad revenue.”
       img_height: 118
       img_width: 455
       img: /static/img/home/verifiednews.png
@@ -49,7 +49,7 @@ success_stories:
       class: teads
 
 large_cta:
-  title@: Monetize your content with Fan Stories
+  title@: Monetize your content with Xedflix
   cta@: Sign up now
   cta_url: /content/docs/tutorials/general/create.md
   lines_left_width: 360
