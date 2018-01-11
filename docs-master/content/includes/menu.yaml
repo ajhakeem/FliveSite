@@ -6,11 +6,11 @@ menu:
       - href: /content/learn/overview.html
         copy@: "Overview"
       - href: /content/learn/about-how.yaml
-        copy@: "How Fan Stories works"
+        copy@: "How Xedflix works"
       - href: /content/learn/full-features.yaml
         copy@: "Feature list"
       - href: /content/learn/who-uses-fanstories.yaml
-        copy@: "Who is Fan Stories for?"
+        copy@: "Who is Xedflix for?"
         collection: learn/who
       - href: /content/learn/case-studies.html
         copy@: "Case Studies"
