@@ -1,6 +1,6 @@
-$title@: How Fan Stories works
+$title@: How Xedflix works
 $titles:
-  breadcrumb@: How Fan Stories works
+  breadcrumb@: How Xedflix works
 $order: 1
 class: about-how bg-triangle-secondary bg-triangle-bottom
 $view: /views/about-how.html
@@ -9,32 +9,31 @@ components:
   - youtube
 
 hero:
-  title: How Fan Stories works
-  subtitle: "Fan Stories is simple to understand. Build your website. Publish blogs everyday through Fan stories and these are also shared on your social media. Enable monetization and make money."
+  title: How Xedflix works
+  subtitle: "Xedflix is simple to understand. Build your website. Publish blogs everyday through Xedflix and these are also shared on your social media. Enable monetization and make money."
 
 video: uf5K6M4AN5U
 
 
 points:
   pointlist:
-    - title: Step 1 - Connect your Facebook account. 
+    - title: Step 1 - Setup your account.
       id: execute-js-asynchronously
       description: |
-        Connecting your Facebook account to Fan Stories enables us to post on your behalf, into your Facebook page. 
-        We don't post anything without your explicit permission.
+        Setup your account at https://app.xedflix.com
 
-    - title: Step 2 - Create a blog / page on Fan Stories
+    - title: Step 2 - Upload your videos
       id: size-all-resources-statically
       description: |
-        The next step is to create a blog or page on Fan Stories. 
-    - title: Step 3 - Compose a blog post
+        The next step is to upload your videos.
+    - title: Step 3 - Wait for videos to process
       id: dont-block-rendering
       description: |
-        Create a blog post with your content on Fan Stories. 
-    - title: Step 4 - Post your content on to the blog. Share on Facebook. 
+        Large videos take time. It might be hours before your videos are ready. Come back and check for updates.
+    - title: Step 4 - Configure your channel and publish.
       id: third-party-js-non-critical
       description: |
-        Your content can be shared on social media by 
+        Next step is really easy. Configure and publish channel.
     
 
 
@@ -42,6 +41,6 @@ video2: uf5K6M4AN5U
 
 
 cta:
-  title@: See what Fan Stories can do for you
-  link_text@: Learn who uses Fan Stories
+  title@: See what Xedflix can do for you
+  link_text@: Learn who uses Xedflix
   link_url: /content/learn/who-uses-amp.yaml
