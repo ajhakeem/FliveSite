@@ -1,11 +1,11 @@
 {
-  "name": "Fanstories.co",
-  "short_name": "FAN",
+  "name": "Xedflix",
+  "short_name": "XED",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#0379C4",
-  "description": "Fan Stories - Content creator - publishing and monetization.",
+  "description": "Xedflix - Xedflix is a linear internet TV platform.",
   "icons": [{
     "src": "/static/img/icons/48.png",
     "sizes": "48x48",
