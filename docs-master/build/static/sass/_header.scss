@@ -89,13 +89,13 @@
     margin-left: 0;
 
     .header-title {
+      width: 30px;
       background: url('/static/img/logo-blue.svg') no-repeat center left / 100%;
       color: $color-midblue;
       margin: 0;
       padding: $header-padding $header-padding $header-padding ($header-padding + 20px);
       text-transform: none;
       white-space: nowrap;
-      width: auto;
 
       &::after, &::before {
         display: none;
