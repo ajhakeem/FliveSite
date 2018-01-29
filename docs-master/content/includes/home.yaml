@@ -48,7 +48,7 @@ success_stories:
       class: teads
 
 large_cta:
-  title@: scale your cloud projects with KloudOne.
+  title@: Scale your cloud projects with KloudOne.
   cta@: Sign up now
   cta_url: /content/docs/tutorials/general/create.md
   lines_left_width: 360
