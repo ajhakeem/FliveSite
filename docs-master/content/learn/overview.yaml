@@ -1,6 +1,6 @@
-$title@: Overview
+$title@: Cloud migration
 $titles:
-  breadcrumb@: Xedflix Platform Overview
+  breadcrumb@: Cloud migration
 $order: 0
 class: about-overview
 $view: /views/about-overview.html
@@ -9,35 +9,38 @@ components:
   - youtube
 
 hero:
-  title@: Xedflix was built to solve monetization for content creators.
-  phone_img_base: /static/img/about/overview/what_phone
+  title@: KloudOne, an Amazon Web Services (AWS) Premier Consulting Partner, implements complex, scalable architectures on the AWS Cloud.
+  phone_img_base: /static/img/about/overview/herolines2
   cta@: Play video to learn more.
   cta_url: '#video'
 
 core:
-  title: Xedflix Platform provides the following features
+  title: KloudOne Platform provides the following features
   components:
-    - title: Build a simple web presence using your custom domain and activate monetization in just a few minutes
-      subtitle: | 
-         Xedflix allows you to setup a Web presence (blog, publication, video site), with different themes suited for each different types of use case. 
-      description: |
-        These themes can then be enabled monetization either with ads, or with subscriptions instantly allowing creators to monetize. 
-    - title: Increased traffic through your site through of content via optimized Social media and Search engine friendly web presence. 
+    - title: Ease cloud migration.
       subtitle: |
-          Xedflix publishesh content on a website that is optimized for AMP and Instant articles
+         KloudOne can help you get the full benefit of cloud, quickly and without disruption.Cloud migrations are often very complicated.
+
       description: |
-        Both  AMP and Instant Articles increase the reach of your content because both these technologies help the pages / articles to load really fast and are favored by Google's and Facebook's algorithms respectively.
-        AMP helps pages load quickly on the Open web and Facebook's instant articles load content really fast within Facebook. Both these formats help in improved reach across your audiences with favoured discovery both within Newsfeed and within Google search results.
-    - title: Messenger Bot for content distribution
+         You may be dealing with massive data volumes, many data pipelines or very complex environments. Or, your business-critical applications and databases may require re-platforming, refactoring or re-architecting.
+    - title: Well experienced team members on cloud.
       subtitle: |
-        Xedflix provides an interactive Messenger bot 
+          Our team has experience in migrating many critical workloads into public or hybrid clouds.
+
+
       description: |
-          Xedflix provides an interactive messenger bot that helps your Facebook page interact with its users. The bot responds with content from your blog. For those users who subscribe for alerts get notified whenever new content is available.
+         When you work with KloudOne on your cloud projects, you work with a team that has a strong combination of DevOps, industry, security and compliance, IT architecture, and cloud computing expertise.
+
+    - title: is cloud migration right for you?
+      subtitle: |
+        KloudOne’s cloud migration services includes readiness assessments, proof of concepts and roadmaps to help you understand if migrating to the cloud is right for your business.
+      description: |
+         Once we help you define the real benefits of migrating to the cloud, our team will manage your migration projects to reduce costs and minimize disruption to your business.
 video:
   id: uf5K6M4AN5U
- 
+
 
 cta:
-  title: See what Xedflix can do for you
-  link_text: Learn who uses Xedflix
+  title: See what KloudOne can do for you
+  link_text: Learn who uses KloudOne
   link_url: /content/learn/case-studies.html

@@ -1,27 +1,32 @@
 menu:
   - href: /content/learn/overview.html
-    copy@: Platform Overview
+    copy@: Kloud One Services
     collection: learn
     children:
       - href: /content/learn/overview.html
-        copy@: "Overview"
+        copy@: "Cloud migration"
       - href: /content/learn/about-how.yaml
-        copy@: "How Xedflix works"
+        copy@: "ETL in the cloud"
       - href: /content/learn/full-features.yaml
-        copy@: "Feature list"
-      - href: /content/learn/who-uses-fanstories.yaml
-        copy@: "Who is Xedflix for?"
-        collection: learn/who
+        copy@: "Storage"
+      - href: /content/learn/pricing.yaml
+        copy@: "Pricing"
       - href: /content/learn/case-studies.html
         copy@: "Case Studies"
         collection: learn/case-studies
+      - href: /content/learn/about-us.yaml
+        copy@: "About us"
+      - href: /content/learn/contact-us.yaml
+        copy@: "Contact us"
+
+
   - href: /content/docs/build.md
     copy@: Getting Started
     collection: docs
     children:
       - href: /content/docs/getting-started.md
         copy@: "Step by step instructions"
-   
+
   - href: /content/latest/latest.html
     copy@: News and Updates
     collection: latest
@@ -39,13 +44,11 @@ menu:
     children:
       - href: "http://blog.fanstories.co/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html"
         copy@: "Latest: Announcing paywall"
-    
-      
+
+
   - href: "http://app.fanstories.co"
     copy@: Sign up
     collection: Sign
     children:
       - href: "http://app.fanstories.co/#/login"
         copy@: "Login"
-    
-      

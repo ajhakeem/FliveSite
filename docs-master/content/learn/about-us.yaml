@@ -1,0 +1,17 @@
+$title@: About us
+$order: 1
+class: design-principles bg-triangle-primary
+$view: /views/design-principles.html
+
+
+principles:
+  - title@: About us
+    description@: Kloud one is a premier Kloud Computing services provider based out of El Dorado Hills, CA. We pride ourselves in providing simple and effective services for customers to help transformation to the cloud.
+
+
+
+
+cta:
+  title@: Get started building
+  link_text@: Tutorials
+  link_url: /content/docs/tutorials/create.md

@@ -9,8 +9,8 @@ components:
   - youtube
 
 hero:
-  title: How Xedflix works
-  subtitle: "Xedflix is simple to understand. Build your website. Publish blogs everyday through Xedflix and these are also shared on your social media. Enable monetization and make money."
+  title: ETL in the cloud
+  subtitle: "Cloud data warehousing saves time and money compared to traditional on-premises data warehousing.. Cloud ETL includes extracting data from diverse source systems, transforming it to a common format, and loading the consolidated data into the data warehouse platform to best serve the needs of enterprise business intelligence, reporting and analytics. "
 
 video: uf5K6M4AN5U
 
@@ -34,7 +34,7 @@ points:
       id: third-party-js-non-critical
       description: |
         Next step is really easy. Configure and publish channel.
-    
+
 
 
 video2: uf5K6M4AN5U

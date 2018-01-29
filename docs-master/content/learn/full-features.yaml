@@ -1,34 +1,19 @@
-$title@: Features 
+$title@: Storage
 $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/design-principles.html
 
-subtitle@: Fan Stories supports a pleathora of features that help content owners make money
+subtitle@: KloudOne will help you safely migrate and backup your applications to the AWS cloud. Save costs by tapping into the economics of cloud.Efficiently Backup your data to durable cloud data stores. We recommend multiple partners for cloud storage solutions including solutions from Amazon.
+
 
 principles:
-  - title@: Powerful editor to author and post content
-    description@: Fan stories supports a really powerful freeform editor that allows content creators to compose beautful articles and post them on their blogs.
-    icon: design_icon_ux.svg
-  - title@: Integration with Facebook, Youtube, Giphy and News sources.
-    description@: Integration with  Facebook for immediate social sharing, Giphy for sourcing Gifs, Youtube for integrating videos and with News sources to insert snippets of news sources within the blogs.
-  - title@: Support for Instant Articles and Google Amp
-    description@: Fan Stories comes out of the box support for Facebook's instant articles and google amp.
-    icon: design_icon_future.svg
-  - title@: Live Streaming support
-    description@: Fan Stories supports live streaming for influencers and content creators who would like to livestream right into their blog. An Android app, now available on the play store provides the features to livestream.
-    icon: design_icon_break.svg
-  - title@: Earn revenue through Subscription platform
-    description@: Fan Stories supports revenue generation of premium content through out of box support for subscriptions. Content creators can enable between $1-10 subscriptions on their properties instantly. They can choose to publish free, or paid content. Users can subscribe to premium content and get billed on a monthly basis. 
-    icon: design_icon_layers.svg
-  - title@: Video ad serving for Premium creators
-    description@: Fan Stories provides video ad serving features for premium publishers allowing them to serve video ads within their content.
-    icon: design_icon_fast.svg
-  - title@: Facebook Messenger bot to distribute, amplify the reach of the content and increase traffic to your page.
-    description@: Fan Stories provides an instant Facebook messenger bot to help increase traffic to your blog / page. Users can subscribe to content or use a conversational bot to discover content. All content links are redirected to your blog.
-    icon: design_icon_priorities.svg
-  - title@: Video upload / encoding
-    description@: Fan Stories provides a video uploading / encoding capability for enabling content creators to upload, encode and publish videos directly from Fan Stories.
-    icon: design_icon_whitelist.svg
+  - title@: Archives
+    description@: Leverage Amazon Glacier for durable and cost-effective long-term data backup. Replace tape with low-cost storage for infrequently accessed data. Amazon Glacier is compliant and can be used in highly regulated industries like healthcare, life sciences, and financial services.
+  - title@: Backup replicas in the cloud.
+    description@: Create exact up-to-date replica for any source workload in the cloud using Amazon EC2.
+  - title@: AWS Snowball for Large Scale Data Migrations
+    description@: A leading provider of Internet of Things (IoT) Solutions wanted to minimize their data center footprint, improve efficiency, and reduce operating costs by moving these resources to the Amazon Web Services (AWS) Cloud. REAN Cloud helped the customer migrate large volumes of critical data seamlessly to the AWS Cloud with minimal disruption to their current business operations.
+  
 
 cta:
   title@: Get started building

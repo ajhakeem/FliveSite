@@ -1,33 +1,32 @@
 hero:
-  title@: Xedflix is a linear internet TV platform.
-  content@: Xedflix helps content creators - Youtubers, News Publishers, educational content creators and influencers to publish a live internet TV channel and make money.
+  title@: KloudOne is a AWS premier consulting partner.
+  content@: Kloudone is your full-service provider for transformation in the cloud. As an AWS Premier Consulting Partner, we put our cloud-native expertise to work for your organization; delivering end-to-end enterprise IT infrastructures and applications.
   cta@: Learn More
   cta_url: /content/learn/overview.yaml
-  secondary_cta@: Sign up with Xedflix
-  secondary_cta_url: https://app.xedflix.co
-  phone_img_base: /static/img/home/home_main2
+  phone_img_base:  /static/img/banner
   carousel_title@: Updates
 
 benefits:
-  title@: What Xedflix Provides
+  title@: What KloudOne Provides
   cards:
-    - title@: A platform to publish and get to revenue, really quickly.
-      content@: Xedflix provides beautiful Web presence for your content in the form of automagically generated websites that load instantaneously. All content hosted is owned by you unlike your content on social media platforms.
+    - title@: A platform to scale your projects on cloud.
+      content@: KloudOne, an Amazon Web Services (AWS) Premier Consulting Partner, implements complex, scalable architectures on the AWS Cloud.
+
       img: /static/img/home/home_icon_performance.svg
       img_width: 56
       img_height: 103
 
-    - title@: Ability to monetize content with Subscriptions and ads.
-      content@: Xedflix monetizes your content with subscriptions or ads. 
+    - title@: Cloud-native expertise.
+      content@: We provide cloud-native expertise to work for your organization.
       img: /static/img/home/home_icon_flexibility.svg
       img_width: 77
       img_height: 92
 
 experience:
-  title@: A Platform built to drive media revenue.
-  content@:  Xedflix is built ground up by addressing the problems that content creators and media platforms have. Xedflix powers subscriptions so that your users can subscribe to the content you post. <br/> <br/>Large content creators are also provided with video ad serving platform, and this provides the highest amount of monetization that ads can provide.
+  title@: A Platform for your cloud projects.
+  content@: KloudOne’s mission is to become the best AWS Consulting Partner. When you work with KloudOne on your cloud projects, you work with a team that has a strong combination of DevOps, industry, security and compliance, IT architecture, and cloud computing expertise.
 
-  phone_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  phone_img_base: /static/img/banner
   bg_img: /static/img/bg_img.png
   lines_img: /static/img/lines_img.png
 
@@ -49,7 +48,7 @@ success_stories:
       class: teads
 
 large_cta:
-  title@: Monetize your content with Xedflix
+  title@: scale your cloud projects with KloudOne.
   cta@: Sign up now
   cta_url: /content/docs/tutorials/general/create.md
   lines_left_width: 360

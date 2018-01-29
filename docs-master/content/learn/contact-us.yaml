@@ -1,0 +1,21 @@
+$title@: Contact us
+$order: 1
+class: design-principles bg-triangle-primary
+$view: /views/design-principles.html
+
+
+principles:
+  - title@: US HQ
+    description@: "1730 Brandywood Way,
+                            El Dorado Hills,
+                            CA 95762"
+  - title@: INDIA
+    description@: "IIT Madras Research Park,
+                    Kanagam Road, Taramani,
+                    Chennai-600113.
+                    ph, 044-45410191."
+
+cta:
+  title@: Get started building
+  link_text@: Tutorials
+  link_url: /content/docs/tutorials/create.md
