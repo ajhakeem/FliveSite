@@ -1,15 +1,12 @@
 $title@: Pricing
 $order: 1
 class: design-principles bg-triangle-primary
-$view: /views/design-principles.html
+$view: /views/pricing.html
 
 
 principles:
   - title@: pricing
     description@: We provide cloud based experienced folks on a consulting basis on two models.
-
-  - title@: pricing
-    description: We provide cloud based experienced folks on a consulting basis on two models.
 
 
 cta:

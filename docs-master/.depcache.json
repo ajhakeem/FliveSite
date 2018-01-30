@@ -211,6 +211,7 @@
   ],
   "/content/learn/contact-us.yaml": [
     "/assets/css/design-principles.min.css",
+    "/assets/css/main.min.css",
     "/content/docs/build.md",
     "/content/docs/getting-started.md",
     "/content/docs/tutorials/create.md",
