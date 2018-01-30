@@ -1,7 +1,7 @@
 $title@: Contact us
 $order: 1
 class: design-principles bg-triangle-primary
-$view: /views/design-principles.html
+$view: /views/contact_us.html
 
 
 principles:
@@ -14,9 +14,6 @@ principles:
                     Kanagam Road, Taramani,
                     Chennai-600113.
                     ph, 044-45410191."
-
-
-
 cta:
   title@: Get started building
   link_text@: Tutorials

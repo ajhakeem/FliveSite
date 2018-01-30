@@ -5,8 +5,7 @@ $order: 0
 class: about-overview
 $view: /views/about-overview.html
 
-components:
-  - youtube
+
 
 hero:
   title@: KloudOne, an Amazon Web Services (AWS) Premier Consulting Partner, implements complex, scalable architectures on the AWS Cloud.
@@ -36,8 +35,7 @@ core:
         KloudOne’s cloud migration services includes readiness assessments, proof of concepts and roadmaps to help you understand if migrating to the cloud is right for your business.
       description: |
          Once we help you define the real benefits of migrating to the cloud, our team will manage your migration projects to reduce costs and minimize disruption to your business.
-video:
-  id: uf5K6M4AN5U
+
 
 
 cta:

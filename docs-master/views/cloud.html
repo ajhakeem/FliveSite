@@ -7,12 +7,14 @@
 {% block main %}
   {{ navmarkup|safe }}
 
-  <div style="text-align:center; margin-bottom:0;" class="xl about-overview-block">
-    <section  class="hero">
+  <div class="container xl about-overview-block">
+    <section class="hero">
 
-      <div  class="text">
-        <h1 style="font-size:16">{{_(doc.hero.title)}}</h1>
-
+      <div class="text">
+        <h1>{{_(doc.hero.title)}}</h1>
+        <a class="button" href="{{doc.hero.cta_url}}">
+          {{_(doc.hero.cta)}}
+          <span class="arrow"></span>
         </a>
 
       </div>
@@ -45,7 +47,8 @@
   </div>
 
 
-  {% with cta = doc.cta %}
+
+
 
   {% endwith %}
   {% include "/views/partials/footer.html" %}

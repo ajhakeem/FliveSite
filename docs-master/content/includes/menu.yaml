@@ -1,13 +1,13 @@
 menu:
   - href: /content/learn/overview.html
-    copy@: Kloud One Services
+    copy@: KloudOne Services
     collection: learn
     children:
-      - href: /content/learn/overview.html
+      - href: /content/learn/cloud-migration.yaml
         copy@: "Cloud migration"
-      - href: /content/learn/about-how.yaml
+      - href: /content/learn/elt.yaml
         copy@: "ETL in the cloud"
-      - href: /content/learn/full-features.yaml
+      - href: /content/learn/storage.yaml
         copy@: "Storage"
       - href: /content/learn/pricing.yaml
         copy@: "Pricing"
@@ -20,12 +20,6 @@ menu:
         copy@: "Contact us"
 
 
-  - href: /content/docs/build.md
-    copy@: Getting Started
-    collection: docs
-    children:
-      - href: /content/docs/getting-started.md
-        copy@: "Step by step instructions"
 
   - href: /content/latest/latest.html
     copy@: News and Updates

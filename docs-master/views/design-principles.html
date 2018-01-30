@@ -14,42 +14,6 @@
     </div>
 
     <div class="principles">
-      <div class="form">
-        <form method="post"
- class="p2"
- action-xhr="/components/amp-form/submit-form-input-text-xhr"
- target="_top">
- <div class="ampstart-input inline-block relative m0 p0 mb3">
-   <input type="text"
-     class="block border-none p0 m0"
-     name="name"
-     placeholder="Name..."
-     required>
-   <input type="email"
-     class="block border-none p0 m0"
-     name="email"
-     placeholder="Email..."
-     required>
- </div>
- <input type="submit"
-   value="Subscribe"
-   class="ampstart-btn caps">
- <div submit-success>
-   <template type="amp-mustache">
-     Success! Thanks {{name}} for trying the
-     <code>amp-form</code> demo! Try to insert the word "error" as a name input in the form to see how
-     <code>amp-form</code> handles errors.
-   </template>
- </div>
- <div submit-error>
-   <template type="amp-mustache">
-     Error! Thanks {{name}} for trying the
-     <code>amp-form</code> demo with an error response.
-   </template>
- </div>
-</form>
-      </div>
-
       <div class="principles-col">
         {% for principle in doc.principles %}
           <div class="principle">
@@ -62,12 +26,10 @@
                   src="/static/img/about/design-principles/{{principle.icon}}">
               </amp-img>
             </div>
-
             <div class="text">
               <h3>{{_(principle.title)}}</h3>
               <p>{{_(principle.description)|markdown|safe}}</p>
             </div>
-
           </div>
           {% if loop.index0 == 3 %}
             </div>
@@ -79,7 +41,7 @@
   </div>
 
   {% with cta = doc.cta %}
-    {% include "/views/partials/footer-cta.html" %}
+    
   {% endwith %}
   {% include "/views/partials/footer.html" %}
 {% endblock %}
