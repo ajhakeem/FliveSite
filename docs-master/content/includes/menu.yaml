@@ -11,9 +11,9 @@ menu:
         copy@: "Storage"
       - href: /content/learn/pricing.yaml
         copy@: "Pricing"
-      - href: /content/learn/case-studies.html
-        copy@: "Case Studies"
-        collection: learn/case-studies
+      # - href: /content/learn/case-studies.html
+      #   copy@: "Case Studies"
+      #   collection: learn/case-studies
       - href: /content/learn/about-us.yaml
         copy@: "About us"
       - href: /content/learn/contact-us.yaml
