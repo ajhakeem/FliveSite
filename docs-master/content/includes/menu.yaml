@@ -1,5 +1,5 @@
 menu:
-  - href: /content/learn/overview.html
+  - href: /content/learn/cloud-migration.yaml
     copy@: KloudOne Services
     collection: learn
     children:
