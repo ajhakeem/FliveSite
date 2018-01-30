@@ -5,7 +5,7 @@ menu:
     children:
       - href: /content/learn/cloud-migration.yaml
         copy@: "Cloud migration"
-      - href: /content/learn/elt.yaml
+      - href: /content/learn/etl.yaml
         copy@: "ETL in the cloud"
       - href: /content/learn/storage.yaml
         copy@: "Storage"
