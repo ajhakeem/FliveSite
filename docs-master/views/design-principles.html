@@ -17,15 +17,7 @@
       <div class="principles-col">
         {% for principle in doc.principles %}
           <div class="principle">
-            <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/{{principle.icon}}">
-              </amp-img>
-            </div>
+            
             <div class="text">
               <h3>{{_(principle.title)}}</h3>
               <p>{{_(principle.description)|markdown|safe}}</p>
@@ -41,7 +33,7 @@
   </div>
 
   {% with cta = doc.cta %}
-    
+
   {% endwith %}
   {% include "/views/partials/footer.html" %}
 {% endblock %}

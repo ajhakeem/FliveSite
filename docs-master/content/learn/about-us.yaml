@@ -1,4 +1,4 @@
-$title@: About us
+$title@: KloudOne-About us
 $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/design-principles.html

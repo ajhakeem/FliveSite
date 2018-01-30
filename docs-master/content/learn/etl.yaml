@@ -1,6 +1,6 @@
-$title@: How Xedflix works
+$title@: KloudOne-Etl
 $titles:
-  breadcrumb@: How Xedflix works
+  breadcrumb@: Etl
 $order: 1
 class: about-how bg-triangle-secondary bg-triangle-bottom
 $view: /views/about-how.html

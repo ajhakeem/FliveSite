@@ -1,4 +1,4 @@
-$title@: Contact us
+$title@: KloudOne-Contact us
 $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/contact_us.html

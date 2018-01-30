@@ -1,4 +1,4 @@
-$title@: Storage
+$title@: KloudOne-Storage
 $order: 1
 class: design-principles bg-triangle-primary
 $view: /views/design-principles.html
@@ -13,7 +13,7 @@ principles:
     description@: Create exact up-to-date replica for any source workload in the cloud using Amazon EC2.
   - title@: AWS Snowball for Large Scale Data Migrations
     description@: A leading provider of Internet of Things (IoT) Solutions wanted to minimize their data center footprint, improve efficiency, and reduce operating costs by moving these resources to the Amazon Web Services (AWS) Cloud. REAN Cloud helped the customer migrate large volumes of critical data seamlessly to the AWS Cloud with minimal disruption to their current business operations.
-  
+
 
 cta:
   title@: Get started building
