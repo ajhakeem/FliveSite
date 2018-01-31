@@ -149,16 +149,6 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
             </div>
           </div>
         </label>
-        <label class="menu-item item-layer-1 has-sub-level"><input type="checkbox">
-        Sign up
-          <div class="submenu menu-layer secondary">
-            <div class="return-button">Back</div>
-            <button type="reset" class="close-button" id="menu-button" on='tap:sidebar.toggle'></button>
-            <div class="items">
-                <a class="menu-item item-layer-2 external" href="http://app.fanstories.co/#/login">Login</a>
-            </div>
-          </div>
-        </label>
     </div>
 <div class="language desktop">
   <amp-accordion disable-session-states>
@@ -231,17 +221,6 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
               <ul>
                 <li class="external" >
                   <a href="http://blog.fanstories.co/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html"  target="_blank" >Latest: Announcing paywall</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="tab">
-            <a class="external" href="http://app.fanstories.co">Sign up</a>
-            <div class="list-container">
-              <div class="list-shadow"></div>
-              <ul>
-                <li class="external" >
-                  <a href="http://app.fanstories.co/#/login"  target="_blank" >Login</a>
                 </li>
               </ul>
             </div>
@@ -376,10 +355,17 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
              height: 34px;
              width: 268px;
           }
+          #address {
+            -moz-box-shadow:    inset 0 0 10px #000000;
+            -webkit-box-shadow: inset 0 0 10px #000000;
+             box-shadow:         inset 0 0 10px #000000;
+             padding: 10px;
+             margin: 15px;
+          }
       </style>
       <div style="background-color:white;padding:80px;" class="form">
         <div class="form-style-8">
-           <h2>submit us your query</h2>
+           <h2 style="color:white">submit us your query</h2>
            <form
              name="queryForm"
             method="post"
@@ -389,7 +375,7 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
              <input type="text" name="name" placeholder="Name" required/>
              <input type="number" name="phone" placeholder="Phone" required/>
              <input type="email" name="email" placeholder="Email" required/>
-             <input type="text" name="companyName" placeholder="Companey Name"  required/>
+             <input type="text" name="companyName" placeholder="Company Name"  required/>
              <input type="text" name="industryName" placeholder="Industry Name" required/>
              <input type="number" name="numberOfPeople" placeholder="How many people do you need" required/>
               <h6 style="text-aling:left;color:gray;"> How soon before you kick start your project </h6>
@@ -409,34 +395,18 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
 
       <div  style="background-color:white;padding:80px;"  class="principles-col">
           <div class="principle">
-            <!-- <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/">
-              </amp-img>
-            </div> -->
-
-            <div class="text">
+            <div class="image">
+             
+            <div id="address" class="text">
               <h3>US HQ</h3>
               <p><p>1730 Brandywood Way, El Dorado Hills, CA 95762</p></p>
             </div>
 
           </div>
           <div class="principle">
-            <!-- <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/">
-              </amp-img>
-            </div> -->
-
-            <div class="text">
+            <div class="image">
+             
+            <div id="address" class="text">
               <h3>INDIA</h3>
               <p><p>IIT Madras Research Park, Kanagam Road, Taramani, Chennai-600113. ph, 044-45410191.</p></p>
             </div>
