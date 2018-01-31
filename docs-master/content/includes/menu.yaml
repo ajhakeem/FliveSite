@@ -40,9 +40,4 @@ menu:
         copy@: "Latest: Announcing paywall"
 
 
-  - href: "http://app.fanstories.co"
-    copy@: Sign up
-    collection: Sign
-    children:
-      - href: "http://app.fanstories.co/#/login"
-        copy@: "Login"
+
