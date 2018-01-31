@@ -116,10 +116,17 @@
              height: 34px;
              width: 268px;
           }
+          #address {
+            -moz-box-shadow:    inset 0 0 10px #000000;
+            -webkit-box-shadow: inset 0 0 10px #000000;
+             box-shadow:         inset 0 0 10px #000000;
+             padding: 10px;
+             margin: 15px;
+          }
       </style>
       <div style="background-color:white;padding:80px;" class="form">
         <div class="form-style-8">
-           <h2>submit us your query</h2>
+           <h2 style="color:white">submit us your query</h2>
            <form
              name="queryForm"
             method="post"
@@ -129,7 +136,7 @@
              <input type="text" name="name" placeholder="Name" required/>
              <input type="number" name="phone" placeholder="Phone" required/>
              <input type="email" name="email" placeholder="Email" required/>
-             <input type="text" name="companyName" placeholder="Companey Name"  required/>
+             <input type="text" name="companyName" placeholder="Company Name"  required/>
              <input type="text" name="industryName" placeholder="Industry Name" required/>
              <input type="number" name="numberOfPeople" placeholder="How many people do you need" required/>
               <h6 style="text-aling:left;color:gray;"> How soon before you kick start your project </h6>
@@ -150,17 +157,9 @@
       <div  style="background-color:white;padding:80px;"  class="principles-col">
         {% for principle in doc.principles %}
           <div class="principle">
-            <!-- <div class="image">
-              <amp-img
-                  noloading
-                  width=150
-                  height=150
-                  layout=responsive
-                  src="/static/img/about/design-principles/{{principle.icon}}">
-              </amp-img>
-            </div> -->
-
-            <div class="text">
+            <div class="image">
+             
+            <div id="address" class="text">
               <h3>{{_(principle.title)}}</h3>
               <p>{{_(principle.description)|markdown|safe}}</p>
             </div>
