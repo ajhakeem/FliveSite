@@ -4,33 +4,24 @@ cta:
   link_text: Read case studies
 cards:
 - cta: Learn More
-  filename: news-publishers-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
-  name: News Publishers - Meaningful revenue and building a credible web presence
-    using Xedflix
+  filename: news-publishers
+  name: News Publishers
   icon: who_icon_adtech.svg
 - cta: Learn More
-  filename: video-creators-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
-  name: Video creators - Meaningful revenue and building a credible web presence using
-    Xedflix
+  filename: news-reporters
+  name: News reporters
   icon: who_icon_adtech.svg
 - cta: Learn More
-  filename: news-reporters-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
-  name: News reporters - Meaningful revenue and building a credible web presence using
-    Xedflix
+  filename: sports-reporters
+  name: Sports Reporters
   icon: who_icon_adtech.svg
 - cta: Learn More
-  filename: sports-reporters-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
-  name: Sports Reporters - Meaningful revenue and building a credible web presence
-    using Xedflix
+  filename: movie-production-houses
+  name: Movie production houses
   icon: who_icon_adtech.svg
 - cta: Learn More
-  filename: xedflix-enables-movie-production-houses-to-build-meaningful-revenue-outside-of-the-large-video-publisher-network-
-  name: Xedflix enables movie production houses to build meaningful revenue outside
-    of the large video publisher network.
-  icon: who_icon_adtech.svg
-- cta: Learn More
-  filename: youtube-mcns-can-build-an-alternative-revenue-stream
-  name: Youtube MCNS can build an alternative revenue stream
+  filename: youtube-mcn
+  name: Youtube MCN
   icon: who_icon_adtech.svg
 $order: 1
 $parent: /content/learn/overview.yaml

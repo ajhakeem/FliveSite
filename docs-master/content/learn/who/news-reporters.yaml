@@ -1,0 +1,57 @@
+cta:
+  link_text@: Sign Up
+  title@: Get Started
+  link_url: https://app.xedflix.com
+components:
+- carousel
+faqs:
+- answer: News Reporters can get started by Xedflix by simply registering at https://xedflix.com.
+    Subsequently, they can setup a Xedflix channelor (site) with their custom domain
+    in a few minutes.
+  question: How do I get started?
+- answer: At the moment of time, we make monthly payments to News Reporters. We anticipate
+    to make changes, to make these payments sooner. Payments are paid using PayPal,
+    and wire transfers.
+  question: How frequently do I get paid and how do I get paid?
+$order: 2
+$parent: /content/learn/who-uses-xedflix.yaml
+why:
+  reasons:
+  - title@: Why choose Xedflix to publish and monetize content
+    icon: publishers/publisher_icon_fast.svg
+    paragraph@: Xedflix provides an exceptional platform which not only allows News
+      reporters to create a live streaming channel on our public feed, but also setup
+      a private hosted domained news service powered by video.  Additionally, Xedflix
+      provides different monetization abilities including through ads and through
+      subscriptions.
+  - title@: How Xedflix help News reporters in getting to meaningful revenues?
+    icon: publishers/publisher_icon_simple.svg
+    paragraph@: Xedflix will help News reporters in getting exceptionally higher traffic,
+      higher organic reach on Google search, and instant start to launching a news
+      publication without having to wait to build out the technology.
+  title@: How Xedflix can help News reporters
+hero:
+  triangle_img_width: 1424
+  triangle_img_height: 2095
+  hero_icon_height: 60
+  hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  hero_icon_width: 76
+  title@: News reporters - Meaningful revenue and building a credible web presence
+    using Xedflix
+  hero_img_width: 1079
+  paragraph@: Xedflix helps Video creators by providing a platform to build their
+    own live internet TV channel with zero investment. This is monetized with  a paywall
+    or with ads. As a News Publisher, you might want to concentrate on building a
+    credible news organization instead of focussing on technology. Xedflix provides
+    you with the technology to help you publish, establish your online presence and
+    help you to build an audience.
+  hero_img_height: 1316
+  hero_icon: publishers/publisher_icon_intro.svg
+vertical_class: ''
+$title@: Xedflix for News reporters
+class: about-who-vertical
+case:
+  cases:
+  - filename: hollywoodinsider.md
+  - filename: verifiednews.md
+  title@: See case studies with Xedflix

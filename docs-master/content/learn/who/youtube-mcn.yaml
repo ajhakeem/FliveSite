@@ -1,0 +1,52 @@
+cta:
+  link_text@: Sign Up
+  title@: Get Started
+  link_url: https://app.xedflix.com
+components:
+- carousel
+faqs:
+- answer: Sports commentators/ Sports Casters can get started by Xedflix by simply
+    registering at https://xedflix.com. Subsequently, they can setup a Xedflix channelor
+    (site) with their custom domain in a few minutes.
+  question: How do I get started?
+- answer: At the moment of time, we make monthly payments to Sports commentators/
+    Sports Casters. We anticipate to make changes, to make these payments sooner.
+    Payments are paid using PayPal, and wire transfers.
+  question: How frequently do I get paid and how do I get paid?
+$order: 2
+$parent: /content/learn/who-uses-xedflix.yaml
+why:
+  reasons:
+  - title@: Why choose Xedflix to publish and monetize content
+    icon: publishers/publisher_icon_fast.svg
+    paragraph@: Xedflix provides an exceptional platform which not only allows Youtube
+      MCNs to create a live TV channel on our public feed, but also setup a private
+      hosted domained news service powered by video.  Additionally, Xedflix provides
+      different monetization abilities including through ads and through subscriptions.
+  - title@: How Xedflix help Youtube MCN in getting to meaningful revenues?
+    icon: publishers/publisher_icon_simple.svg
+    paragraph@: Xedflix will help Youtube MCNs in getting exceptionally higher traffic,
+      higher organic reach on Google search, and instantly can start publishing without
+      owning or investing in technology.
+  title@: How Xedflix can help Youtube mcn
+hero:
+  triangle_img_width: 1424
+  triangle_img_height: 2095
+  hero_icon_height: 60
+  hero_img_base: /static/img/about/who-use-amp/publishers/publisher_phone_cnn
+  hero_icon_width: 76
+  title@: Youtube MCNS can build an alternative revenue stream
+  hero_img_width: 1079
+  paragraph@: Xedflix helpsYoutube MCNs by helping them an alternative revenue stream
+    which operates with Netflix style subscriptions or with ads. Content is published
+    as a live channel.
+  hero_img_height: 1316
+  hero_icon: publishers/publisher_icon_intro.svg
+vertical_class: ''
+$title@: Xedflix for Youtube MCN
+class: about-who-vertical
+case:
+  cases:
+  - filename: hollywoodinsider.md
+  - filename: verifiednews.md
+  title@: See case studies with Xedflix

@@ -1,31 +1,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-  <meta property="og:description" content="{% if doc.description %}{{doc.description}} – {% endif %}Fan Stories">
+  <meta property="og:description" content="{% if doc.description %}{{doc.description}} – {% endif %}Xedflix">
   {% if doc.description %}<meta name="description" content="{{doc.description}} ">{% endif %}
   <meta name="amp-experiments-opt-in" content="">
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "Webpage",
-    "url": "https://www.fanstories.co{{doc.url.path}}",
-    "name": "Fan Stories",
+    "url": "https://www.xedflix.com{{doc.url.path}}",
+    "name": "Xedflix",
     {% if doc.title %}    "headline":"{{_(doc.title)}}",
     {% endif %}
     {% if doc.description %}    "description":"{{doc.description}}",
     {% endif %}
     "sameAs": [
-      "https://www.facebook.com/fanstories.co/",
+      "https://www.facebook.com/xedflix.com/",
       "https://twitter.com/fanstoriesco",
       "https://in.linkedin.com/company/fanstories"
     ],
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://www.fanstories.co{{doc.url.path}}"
+      "@id": "https://www.xedflix.com{{doc.url.path}}"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Fan Stories",
+      "name": "Xedflix",
       "logo": {
           "url": "/static/img/logo.svg",
           "width": 175,
@@ -49,17 +49,17 @@
         {
           "@type":"ListItem",
           "position":1,
-          "url":"http://blog.fanstories.co/2017/09/19/live-stream-directly-on-your-blog-using-fan-stories-app-900.html"
+          "url":"http://blog.xedflix.com/2017/09/19/live-stream-directly-on-your-blog-using-fan-stories-app-900.html"
         },
         {
           "@type":"ListItem",
           "position":2,
-          "url":"http://blog.fanstories.co/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html"
+          "url":"http://blog.xedflix.com/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html"
         },
         {
           "@type":"ListItem",
           "position":3,
-          "url":"http://blog.fanstories.co/2017/09/06/fan-stories-bot-790.html"
+          "url":"http://blog.xedflix.com/2017/09/06/fan-stories-bot-790.html"
         }
       ]
     }
@@ -67,7 +67,7 @@
 
   <title>{% if doc.title %}{{_(doc.title)}} – {% endif %}FanStories</title>
   <link rel="icon" href="/static/img/logo.svg">
-  <link rel="canonical" href="https://www.fanstories.co">
+  <link rel="canonical" href="https://www.xedflix.com{{doc.url.path}}">
 
   <link rel="manifest" href="/manifest.json">
   <meta name="apple-mobile-web-app-capable" content="yes">

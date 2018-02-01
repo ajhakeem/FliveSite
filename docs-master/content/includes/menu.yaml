@@ -9,7 +9,7 @@ menu:
         copy@: "How Xedflix works"
       - href: /content/learn/full-features.yaml
         copy@: "Feature list"
-      - href: /content/learn/who-uses-fanstories.yaml
+      - href: /content/learn/who-uses-xedflix.yaml
         copy@: "Who is Xedflix for?"
         collection: learn/who
       - href: /content/learn/case-studies.html

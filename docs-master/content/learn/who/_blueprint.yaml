@@ -1,0 +1,5 @@
+$title@: Who Uses AMP
+$path: /learn/who-uses-xedflix/{base}/
+$view: /views/about-who-vertical.html
+$localization:
+  path: /{locale}/learn/who-uses-xedflix/{base}/
