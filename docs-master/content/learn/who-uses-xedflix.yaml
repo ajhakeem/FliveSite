@@ -1,0 +1,46 @@
+cta:
+  link_url: /content/learn/case-studies.html
+  title: Register
+  link_text: Read case studies
+cards:
+- cta: Learn More
+  filename: news-publishers-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
+  name: News Publishers - Meaningful revenue and building a credible web presence
+    using Xedflix
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: video-creators-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
+  name: Video creators - Meaningful revenue and building a credible web presence using
+    Xedflix
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: news-reporters-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
+  name: News reporters - Meaningful revenue and building a credible web presence using
+    Xedflix
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: sports-reporters-meaningful-revenue-and-building-a-credible-web-presence-using-xedflix
+  name: Sports Reporters - Meaningful revenue and building a credible web presence
+    using Xedflix
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: xedflix-enables-movie-production-houses-to-build-meaningful-revenue-outside-of-the-large-video-publisher-network-
+  name: Xedflix enables movie production houses to build meaningful revenue outside
+    of the large video publisher network.
+  icon: who_icon_adtech.svg
+- cta: Learn More
+  filename: youtube-mcns-can-build-an-alternative-revenue-stream
+  name: Youtube MCNS can build an alternative revenue stream
+  icon: who_icon_adtech.svg
+$order: 1
+$parent: /content/learn/overview.yaml
+$title: Who is Xedflix for?
+$path: /learn/who-uses-xedflix/
+hero:
+  hero_img_base: /static/img/about/who-use-amp/who_phones_hero
+  subtitle: Xedflix is built for video content creators, video creators, video producers,
+    movie distribution studios, video educators and more. Xedflix enables video creators
+    to quickly setup a live internet TV platform and monetize it.
+  title: Who is Xedflix for?
+$view: /views/about-who.html
+class: about-who
