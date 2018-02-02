@@ -7,15 +7,37 @@
 {% block main %}
   {{ navmarkup|safe }}
 
+  <style amp-custom>
+      /* any custom styles go here. */
+    .cloudMigrationBanner {
+      display: -webkit-flex; /* Safari */
+      display: flex;
+
+    }
+    .titleItem {
+      flex: 5;
+    }
+    .imgItem {
+      flex: 1;
+    }
+    #cloudBannerSection {
+      margin-top: 0px;
+      margin-Bottom: 0px;
+
+    }
+
+    </style>
+
   <div style="text-align:center; margin-bottom:0;" class="xl about-overview-block">
-    <section  class="hero">
-
-      <div  class="text">
+    <section id="cloudBannerSection" class="hero">
+     <div class='cloudMigrationBanner'>
+      <div  class="text titleItem">
         <h1 style="font-size:16">{{_(doc.hero.title)}}</h1>
-
-        </a>
-
       </div>
+      <div class="imgItem">
+        <amp-img src="/static/img/cloud-migration.png" alt="Welcome" height="500" width="600"></amp-img>
+      </div>
+    </div>
     </section>
 
     <section class="core">
