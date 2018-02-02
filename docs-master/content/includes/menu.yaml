@@ -1,23 +1,15 @@
 menu:
-  - href: /content/learn/cloud-migration.yaml
+  - href: /content/services/all-services.yaml
     copy@: KloudOne Services
-    collection: learn
+    collection: services
     children:
-      - href: /content/learn/cloud-migration.yaml
+      - href: /content/services/cloud-migration.yaml
         copy@: "Cloud migration"
-      - href: /content/learn/etl.yaml
+      - href: /content/services/etl.yaml
         copy@: "ETL in the cloud"
-      - href: /content/learn/storage.yaml
+      - href: /content/services/storage.yaml
         copy@: "Storage"
-      - href: /content/learn/pricing.yaml
-        copy@: "Pricing"
-      # - href: /content/learn/case-studies.html
-      #   copy@: "Case Studies"
-      #   collection: learn/case-studies
-      - href: /content/learn/about-us.yaml
-        copy@: "About us"
-      - href: /content/learn/contact-us.yaml
-        copy@: "Contact us"
+
 
 
 
@@ -32,12 +24,14 @@ menu:
       - href: /content/latest/list-event.html
         copy@: "Events"
 
-  - href: "http://blog.fanstories.co"
-    copy@: Blog
-    collection: blog
-    children:
-      - href: "http://blog.fanstories.co/2017/09/06/fan-stories-announces-paywall-feature-for-content-creators-802.html"
-        copy@: "Latest: Announcing paywall"
+  - href: /content/pricing/pricing.yaml
+    copy@: Pricing
+    collection: pricing
 
+  - href: /content/about/about-us.yaml
+    copy@: About
+    collection: about
 
-
+  - href: /content/contact/contact-us.yaml
+    copy@: Contact
+    collection: contact

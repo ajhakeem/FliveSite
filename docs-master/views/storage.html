@@ -1,0 +1,40 @@
+{% extends "/views/base.html" %}
+
+{% set navmarkup %}
+{% include "/views/partials/breadcrumb-nav.html" %}
+{% endset %}
+
+{% block main %}
+  {{ navmarkup|safe }}
+
+  <div class="container xl">
+    <div class="title">
+      <h1>{{_(doc.title)}}</h1>
+      <p class="subtitle">{{_(doc.subtitle)}}</p>
+    </div>
+    <div style="text-align:right">
+      <amp-img src="/static/img/storage.jpg" alt="Welcome" height="300" width="600"></amp-img>
+    </div>
+    <div class="principles">
+      <div class="principles-col">
+        {% for principle in doc.principles %}
+          <div class="principle">
+        <div class="text">
+              <h3>{{_(principle.title)}}</h3>
+              <p>{{_(principle.description)|markdown|safe}}</p>
+            </div>
+          </div>
+          {% if loop.index0 == 3 %}
+            </div>
+            <div class="principles-col">
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% with cta = doc.cta %}
+
+  {% endwith %}
+  {% include "/views/partials/footer.html" %}
+{% endblock %}

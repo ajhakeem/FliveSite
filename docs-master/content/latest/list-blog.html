@@ -11,7 +11,7 @@ class: list
 {% set lists = g.doc('/content/includes/lists.yaml', locale=doc.locale) %}
 {% set blogs = g.doc('/content/includes/list-blog.yaml', locale=doc.locale) %}
 
-<h1 class="title">{{_(lists.blog.title)}}</h1>
+<h1  class="title">{{_(lists.blog.title)}}</h1>
 <section class="post-list">
   {% for post in blogs.blogs if not post.type == "Video" %}
     {% with past = false, meta = false %}
@@ -19,4 +19,3 @@ class: list
     {% endwith %}
   {% endfor %}
 </section>
-<a href="https://amphtml.wordpress.com/" class="underlined cta">{{_('See all posts')}}</a>

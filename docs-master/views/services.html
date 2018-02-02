@@ -1,0 +1,28 @@
+{% extends "/views/base.html" %}
+{% set navmarkup %}
+  {% include "/views/partials/breadcrumb-nav.html" %}
+{% endset %}
+{% block main %}
+<style>
+
+</style>
+<div style="text-align:center;" id="privacy">
+  <h1 style="color:white;font">All Services </h1>
+  <div class="row">
+    <div  style="background-color:white;padding:50px;" class="twelve columns">
+
+       <div class="services">
+        <a href="/services/cloud-migration/"> <p>Cloud Migration</p></a>
+       </div>
+       <div class="services">
+        <a href="/services/etl/"> <p>ETL</p></a>
+       </div>
+       <div class="services">
+        <a href="/services/storage/"> <p>Storage</p></a>
+       </div>
+
+    </div>
+</div>
+</div>
+{% include "/views/partials/footer.html" %}
+{% endblock %}

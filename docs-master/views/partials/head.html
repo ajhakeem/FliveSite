@@ -4,11 +4,12 @@
   <meta property="og:description" content="{% if doc.description %}{{doc.description}} – {% endif %}Fan Stories">
   {% if doc.description %}<meta name="description" content="{{doc.description}} ">{% endif %}
   <meta name="amp-experiments-opt-in" content="">
+  <link rel="icon" href="/static/img/favicon.ico">
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "Webpage",
-    "url": "https://www.fanstories.co{{doc.url.path}}",
+    "url": "https://www.kloudone.com{{doc.url.path}}",
     "name": "KloudOne",
     {% if doc.title %}    "headline":"{{_(doc.title)}}",
     {% endif %}
@@ -21,7 +22,7 @@
     ],
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://www.fanstories.co{{doc.url.path}}"
+      "@id": "https://www.kloudone.com{{doc.url.path}}"
     },
     "publisher": {
       "@type": "Organization",
@@ -66,8 +67,8 @@
   </script>
 
   <title>{% if doc.title %}{{_(doc.title)}}  {% endif %}</title>
-  <link rel="icon" href="/static/img/logo.svg">
-  <link rel="canonical" href="https://www.fanstories.co">
+
+  <link rel="canonical" href="https://www.kloudone.com{{doc.url.path}}">
 
   <link rel="manifest" href="/manifest.json">
   <meta name="apple-mobile-web-app-capable" content="yes">

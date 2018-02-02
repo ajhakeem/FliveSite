@@ -1,0 +1,5 @@
+$title@: Services
+$path: /services/{base}/
+$view: /views/section_page.html
+$localization:
+  path: /{locale}/services/{base}/

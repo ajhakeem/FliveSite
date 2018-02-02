@@ -35,7 +35,7 @@
     <a href="{{g.doc('/content/latest/roadmap.html', locale=doc.locale).url.path}}" class="post-title">
     <h4>{{post.current}}</h4>
   {% else %}
-    <h4>{{post.title|truncate(80, False)}}</h4>
+    <h4 >{{post.title|truncate(80, False)}}</h4>
   {% endif %}
   </a>
   {% if isVideo %}

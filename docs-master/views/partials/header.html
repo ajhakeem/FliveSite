@@ -32,15 +32,6 @@
                   {% endif %}
                 </li>
                 {% endfor %}
-                {% else %}
-                {% set menuCollection = g.collection(entry.collection) %}
-                {% for item in menuCollection.docs(recursive=false, locale=doc.locale) %}
-                  {% if item.goto_internal %}
-                    <a href="{{g.doc(item.goto_internal, locale=doc.locale).url.path}}">{{_(item.title)}}</a>
-                  {% else %}
-                    <a href="{{item.goto or item.url.path}}">{{_(item.title)}}</a>
-                  {% endif %}
-                {% endfor %}
                 {% endif %}
               </ul>
             </div>

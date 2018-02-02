@@ -1,0 +1,44 @@
+$title@: KloudOne-Cloud migration
+$titles:
+  breadcrumb@: Cloud migration
+$order: 0
+class: about-overview
+$view: /views/about-overview.html
+
+
+
+hero:
+  title@: KloudOne, an Amazon Web Services (AWS) Premier Consulting Partner, implements complex, scalable architectures on the AWS Cloud.
+  phone_img_base: /static/img/about/overview/herolines2
+  cta@: Play video to learn more.
+  cta_url: '#video'
+
+core:
+  title: KloudOne Platform provides the following features
+  components:
+    - title: Ease cloud migration.
+      subtitle: |
+         KloudOne can help you get the full benefit of cloud, quickly and without disruption.Cloud migrations are often very complicated.
+
+      description: |
+         You may be dealing with massive data volumes, many data pipelines or very complex environments. Or, your business-critical applications and databases may require re-platforming, refactoring or re-architecting.
+    - title: Well experienced team members on cloud.
+      subtitle: |
+          Our team has experience in migrating many critical workloads into public or hybrid clouds.
+
+
+      description: |
+         When you work with KloudOne on your cloud projects, you work with a team that has a strong combination of DevOps, industry, security and compliance, IT architecture, and cloud computing expertise.
+
+    - title: is cloud migration right for you?
+      subtitle: |
+        KloudOne’s cloud migration services includes readiness assessments, proof of concepts and roadmaps to help you understand if migrating to the cloud is right for your business.
+      description: |
+         Once we help you define the real benefits of migrating to the cloud, our team will manage your migration projects to reduce costs and minimize disruption to your business.
+
+
+
+cta:
+  title: See what KloudOne can do for you
+  link_text: Learn who uses KloudOne
+  link_url: /content/learn/case-studies.html
