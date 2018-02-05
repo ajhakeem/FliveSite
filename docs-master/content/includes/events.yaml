@@ -6,31 +6,31 @@ upcoming:
   label@: Upcoming Events
   empty_icon: /static/img/latest/events/event_empty.svg
   empty_title@: Stay Tuned!
-  empty_text@: There are no upcomming events at this time. We host events throughout the year including our annual AMP Conference. Follow us on <a href="" target="_blank">Facebook</a> or <a href="https://twitter.com/amphtml" target="_blank">Twitter</a> for the latest news and event listings.
+  empty_text@: There are no upcomming events at this time.
 
 past:
   label@: Past Events
   cta@: More Past Events
 
 upcoming_events:
-  - type: Event
-    title: Webinar
-    href: https://events.google.com/io/
-    excerpt: "Understanding Monetization with Fan Stories"
-    date: October 2, 2017
-    event_time: 20171002
-    event_time_text: Oct 2
-    location: meet.google.com
-    participant: Bloggers, Creators
-  - type: Event
-    title: Webinar
-    href: https://events.google.com/io/
-    excerpt: "Setting up Premium Video Sites with Fan Stories"
-    date: October 16, 2017
-    event_time: 20171016
-    event_time_text: Oct 16
-    location: meet.google.com
-    participant: Bloggers, Creators
+  # - type: Event
+  #   title: Webinar
+  #   href: https://events.google.com/io/
+  #   excerpt: "Understanding Monetization with Fan Stories"
+  #   date: October 2, 2017
+  #   event_time: 20171002
+  #   event_time_text: Oct 2
+  #   location: meet.google.com
+  #   participant: Bloggers, Creators
+  # - type: Event
+  #   title: Webinar
+  #   href: https://events.google.com/io/
+  #   excerpt: "Setting up Premium Video Sites with Fan Stories"
+  #   date: October 16, 2017
+  #   event_time: 20171016
+  #   event_time_text: Oct 16
+  #   location: meet.google.com
+  #   participant: Bloggers, Creators
 
 # past_events:
 #  - type: Event

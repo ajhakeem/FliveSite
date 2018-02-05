@@ -69,13 +69,7 @@ components:
       </div>
       <section class="posts">
         <h2 class="posts-label">{{_(latest.feed.title)}}</h2>
-        {% for post in events_list.upcoming_events %}
-          {% if loop.index <= 2 %}
-            {% with past = false, meta = true %}
-              {% include "/views/partials/post-item.html" %}
-            {% endwith %}
-          {% endif %}
-        {% endfor %}
+        
         {% for post in blog_list.blogs %}
           {% if loop.index <= 3 %}
             {% with past = false, meta = true %}

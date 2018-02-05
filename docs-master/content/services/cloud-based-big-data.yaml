@@ -1,0 +1,21 @@
+$title@: Cloud Based Big Data
+$order: 1
+class: design-principles bg-triangle-primary
+$view: /views/design-principles.html
+
+subtitle@: KloudOne will help you safely migrate and backup your applications to the AWS cloud. Save costs by tapping into the economics of cloud.Efficiently Backup your data to durable cloud data stores. We recommend multiple partners for cloud storage solutions including solutions from Amazon.
+
+
+principles:
+  - title@: Archives
+    description@: Leverage Amazon Glacier for durable and cost-effective long-term data backup. Replace tape with low-cost storage for infrequently accessed data. Amazon Glacier is compliant and can be used in highly regulated industries like healthcare, life sciences, and financial services.
+  - title@: Backup replicas in the cloud.
+    description@: Create exact up-to-date replica for any source workload in the cloud using Amazon EC2.
+  - title@: AWS Snowball for Large Scale Data Migrations
+    description@: A leading provider of Internet of Things (IoT) Solutions wanted to minimize their data center footprint, improve efficiency, and reduce operating costs by moving these resources to the Amazon Web Services (AWS) Cloud. REAN Cloud helped the customer migrate large volumes of critical data seamlessly to the AWS Cloud with minimal disruption to their current business operations.
+
+
+cta:
+  title@: Get started building
+  link_text@: Tutorials
+  link_url: /content/docs/tutorials/create.md

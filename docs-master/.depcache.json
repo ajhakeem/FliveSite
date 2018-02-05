@@ -2667,6 +2667,7 @@
     "/content/pages/home.html",
     "/content/pricing/pricing.yaml",
     "/content/services/all-services.yaml",
+    "/content/services/cloud-based-big-data.yaml",
     "/content/services/cloud-migration.yaml",
     "/content/services/etl.yaml",
     "/content/services/storage.yaml",

@@ -25,18 +25,23 @@
 .hs-form input[type="color"],
 .hs-form input[type="file"],
 .hs-form textarea
+
  {
   font-size:18px;
   padding:10px 10px 10px 5px;
   display:inline-block;
-  width:300px;
-  -webkit-transition: border 0.2s linear, box-shadow 0.2s linear;
-   -moz-transition: border 0.2s linear, box-shadow 0.2s linear;
-   transition: border 0.2s linear, box-shadow 0.2s linear;
-   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0.2, 0.2, 0.2);
-   -moz-box-shadow: inset 0 1px 3px rgba(0, 0.2, 0.2, 0.2);
-    box-shadow: inset 0 1px 3px rgba(0.2, 0.2, 0.2, 0.2);
+  width:100%;
+  max-width:100%;
+  }
+.hs-form select {
+  width:517px !important;
+  max-width:517px !important;
+  background-color:white;
+}
+  .hs-form {
     width: 500px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 
@@ -46,14 +51,17 @@
 }
 
 .hs-form .hs-error-msgs label{
-  display:inline-block;
-  text-align: center;
+  display:block;
+   margin-left:auto;
+   margin-right:auto;
+
 }
 
 .hs-form .hs-form-field > label {
-  display:inline-block;
+  display:block;
   font-size: 17px;
   font-family: inherit;
+
 }
 
 .inputs-list>li label {
@@ -106,7 +114,7 @@ textarea.hs-input:focus {
 
 
 
-      <div style="background-color:white;padding:80px;text-align:center" class="form">
+      <div style="background-color:white;padding:80px;" class="form">
 
 
         <!--[if lte IE 8]>
