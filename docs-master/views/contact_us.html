@@ -14,148 +14,22 @@
     </div>
 
     <div class="principles">
-      <style>
 
-<style type="text/css">
-      @import url('http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
-                form-style-8{
-          font-family: 'Open Sans Condensed', arial, sans;
-          width: 500px;
-          padding: 30px;
-          background: #FFFFFF;
-          margin: 50px auto;
-          box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
-          -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
-          -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
 
-          }
-          .form-style-8 h2{
-          background: #4D4D4D;
-          text-transform: uppercase;
-          font-family: 'Open Sans Condensed', sans-serif;
-          color: #797979;
-          font-size: 18px;
-          font-weight: 100;
-          padding: 20px;
-          margin: -30px -30px 30px -30px;
-          }
-          .form-style-8 input[type="text"],
-          .form-style-8 input[type="date"],
-          .form-style-8 input[type="datetime"],
-          .form-style-8 input[type="email"],
-          .form-style-8 input[type="number"],
-          .form-style-8 input[type="search"],
-          .form-style-8 input[type="time"],
-          .form-style-8 input[type="url"],
-          .form-style-8 input[type="password"],
-          .form-style-8 textarea,
-          .form-style-8 select
-          {
-          box-sizing: border-box;
-          -webkit-box-sizing: border-box;
-          -moz-box-sizing: border-box;
-          outline: none;
-          display: block;
-          width: 100%;
-          padding: 7px;
-          border: none;
-          border-bottom: 1px solid #ddd;
-          background: transparent;
-          margin-bottom: 10px;
-          font: 16px Arial, Helvetica, sans-serif;
-          height: 45px;
-          }
-          .form-style-8 textarea{
-          resize:none;
-          overflow: hidden;
-          }
-          .form-style-8 input[type="button"],
-          .form-style-8 input[type="submit"]{
-          -moz-box-shadow: inset 0px 1px 0px 0px #45D6D6;
-          -webkit-box-shadow: inset 0px 1px 0px 0px #45D6D6;
-          box-shadow: inset 0px 1px 0px 0px #45D6D6;
-          background-color: #2CBBBB;
-          border: 1px solid #27A0A0;
-          display: inline-block;
-          cursor: pointer;
-          color: #FFFFFF;
-          font-family: 'Open Sans Condensed', sans-serif;
-          font-size: 14px;
-          padding: 8px 18px;
-          text-decoration: none;
-          text-transform: uppercase;
-          }
-          .form-style-8 input[type="button"]:hover,
-          .form-style-8 input[type="submit"]:hover {
-          background:linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
-          background-color:#34CACA;
-          }
-          .styled-select {
-             background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
-             height: 29px;
-             overflow: hidden;
-             width: 240px;
-          }
-          .styled-select select {
-             background: transparent;
-             border: none;
-             font-size: 14px;
-             height: 29px;
-             padding: 5px; /* If you add too much padding here, the options won't show in IE */
-             width: 268px;
-          }
-          .styled-select.slate {
-             background: url(http://i62.tinypic.com/2e3ybe1.jpg) no-repeat right center;
-             height: 34px;
-             width: 240px;
-          }
 
-          .styled-select.slate select {
-             border: 1px solid #ccc;
-             font-size: 16px;
-             height: 34px;
-             width: 268px;
-          }
-          #address {
-            -webkit-box-shadow: 0px 3px 6px 6px rgba(0,0,0,0.07);
-             box-shadow: 0px 3px 3px 3px rgba(0,0,0,0.07);
-             padding: 10px;
-             margin: 50px;
-             border-radius:2px;
-          }
-          #button: {
-            width: 100px;
-            color:black;
-          }
-      </style>
-      <div style="background-color:white;padding:80px;" class="form">
-        <div class="form-style-8">
-           <h2 style="color:white">submit us your query</h2>
-           <form
-             name="queryForm"
-            method="post"
-            class="p2"
-            action-xhr="/components/amp-form/submit-form-input-text-xhr"
-            target="_top">
-             <input type="text" name="name" placeholder="Name" required/>
-             <input type="number" name="phone" placeholder="Phone" required/>
-             <input type="email" name="email" placeholder="Email" required/>
-             <input type="text" name="companyName" placeholder="Company Name"  required/>
-             <input type="text" name="industryName" placeholder="Industry Name" required/>
-             <input type="number" name="numberOfPeople" placeholder="How many people do you need" required/>
-              <h6 style="text-aling:left;color:gray;"> How soon before you kick start your project </h6>
-             <input type="date" name="projectDate" placeholder="How soon before you kick start your project" required/>
-             <div>
-             <h6 style="text-aling:left;color:gray;"> I would like to work on </h6>
-              <select name="intrested" form="queryForm" placeholder="Interested" required>
-                <option value="project">Projects</option>
-                <option value="individual">Individual People Consulting</option>
+      <div style="background-color:white;padding:80px;text-align:center" class="form">
 
-              </select>
-            </div>
-             <input id="button" type="button" value="Send" />
-           </form>
-  </div>
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+hbspt.forms.create({
+portalId: '4284459',
+formId: 'c45e2dc2-5cd1-40c4-81ea-013a41b25f28'
+});
+</script>
+
       </div>
 
       <div  style="background-color:white;padding:80px;"  class="principles-col">
