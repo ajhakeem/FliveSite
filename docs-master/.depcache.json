@@ -273,7 +273,6 @@
     "/content/about/about-us.yaml",
     "/content/contact/contact-us.yaml",
     "/content/includes/events.yaml",
-    "/content/includes/latest.yaml",
     "/content/includes/menu.yaml",
     "/content/latest/latest.html",
     "/content/latest/list-blog.html",
@@ -289,7 +288,6 @@
     "/views/partials/head.html",
     "/views/partials/header.html",
     "/views/partials/lang_switcher.html",
-    "/views/partials/post-item.html",
     "/views/partials/sidebar.html"
   ],
   "/content/latest/list-past-event.html": [
@@ -2614,6 +2612,28 @@
     "/views/partials/lang_switcher.html",
     "/views/partials/sidebar.html"
   ],
+  "/content/services/cloud-based-big-data.yaml": [
+    "/assets/css/design-principles.min.css",
+    "/content/about/about-us.yaml",
+    "/content/contact/contact-us.yaml",
+    "/content/includes/menu.yaml",
+    "/content/latest/latest.html",
+    "/content/latest/list-blog.html",
+    "/content/latest/list-event.html",
+    "/content/pages/home.html",
+    "/content/pricing/pricing.yaml",
+    "/content/services/all-services.yaml",
+    "/content/services/cloud-based-big-data.yaml",
+    "/content/services/cloud-migration.yaml",
+    "/content/services/etl.yaml",
+    "/content/services/storage.yaml",
+    "/views/partials/breadcrumb-nav.html",
+    "/views/partials/footer.html",
+    "/views/partials/head.html",
+    "/views/partials/header.html",
+    "/views/partials/lang_switcher.html",
+    "/views/partials/sidebar.html"
+  ],
   "/content/services/cloud-migration.yaml": [
     "/assets/css/about-overview.min.css",
     "/content/about/about-us.yaml",
@@ -2667,7 +2687,6 @@
     "/content/pages/home.html",
     "/content/pricing/pricing.yaml",
     "/content/services/all-services.yaml",
-    "/content/services/cloud-based-big-data.yaml",
     "/content/services/cloud-migration.yaml",
     "/content/services/etl.yaml",
     "/content/services/storage.yaml",
