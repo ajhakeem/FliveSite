@@ -266,26 +266,91 @@ a.underlined,.card-container.grid .card-link p{hyphens:manual;overflow-wrap:norm
 
   <div class="wrap">
 <style>
+   .card-container {
+     display: inline-block;
+     width: 300px;
+    height: 300px;
+   }
 
+   .learn-more {
+     color: #001e8c;
+     color: black;
+     font-size: 12px;
+     padding: 5px;
+     display: inline-block
+   }
+   .learn-more:hover {
+      color: #001e8c;
+   }
 </style>
 <div style="text-align:center;" id="privacy">
-  <h1 style="color:white;font">All Services </h1>
+  <h1 style="color:white;font">Services </h1>
   <div class="row">
-    <div  style="background-color:white;padding:50px;" class="twelve columns">
+    <div  style="background-color:white;padding:50px;" class=" three columns">
 
-       <div class="services">
-        <a href="/services/cloud-migration/"> <p>Cloud Migration</p></a>
-       </div>
-       <div class="services">
-        <a href="/services/etl/"> <p>ETL</p></a>
-       </div>
-       <div class="services">
-        <a href="/services/storage/"> <p>Storage</p></a>
-       </div>
+
+      <div class="card-container">
+        <a href="/services/cloud-migration/" class="card">
+          <div class="card-inner">
+            <div class="card-type text-label news">
+              Cloud Migration
+            </div>
+            <div class="card-content small">
+            KloudOne’s cloud migration services includes readiness assessments, proof ...
+
+
+            </div>
+            <div class="card-date light">
+            <span class="learn-more" href="/services/cloud-migration/">LEARN MORE</span>
+            </div>
+
+          </div>
+        </a>
+      </div>
+
+
+
+      <div class="card-container">
+        <a href="/services/etl/" class="card">
+          <div class="card-inner">
+            <div class="card-type text-label news">
+             Etl
+            </div>
+            <div class="card-content small">
+          Cloud ETL includes extracting data from diverse source systems...
+            </div>
+            <div class="card-date light">
+               <span class="learn-more" href="/services/etl/">LEARN MORE</span>
+            </div>
+
+          </div>
+        </a>
+      </div>
+
+      <div class="card-container">
+        <a href="/services/storage/" class="card">
+          <div class="card-inner">
+            <div class="card-type text-label news">
+              Storage
+            </div>
+            <div class="card-content small">
+              KloudOne will help you safely migrate and backup your applications  ...
+            </div>
+            <div class="card-date light">
+                 <span class="learn-more" href="/services/storage/">LEARN MORE</span>
+            </div>
+          </div>
+        </a>
+      </div>
+
+
+
+
+        </div>
 
     </div>
 </div>
-</div>
+
 <footer>
  <div class="container">
      

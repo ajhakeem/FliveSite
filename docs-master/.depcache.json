@@ -2592,19 +2592,13 @@
     "/views/partials/sidebar.html"
   ],
   "/content/services/all-services.yaml": [
-    "/assets/css/about-overview.min.css",
     "/assets/css/main.min.css",
     "/content/about/about-us.yaml",
     "/content/contact/contact-us.yaml",
-    "/content/docs/tutorials/general/create.md",
-    "/content/includes/case-studies.yaml",
-    "/content/includes/home.yaml",
-    "/content/includes/list-blog.yaml",
     "/content/includes/menu.yaml",
     "/content/latest/latest.html",
     "/content/latest/list-blog.html",
     "/content/latest/list-event.html",
-    "/content/learn/overview.yaml",
     "/content/pages/home.html",
     "/content/pricing/pricing.yaml",
     "/content/services/all-services.yaml",
@@ -2616,7 +2610,6 @@
     "/views/partials/head.html",
     "/views/partials/header.html",
     "/views/partials/lang_switcher.html",
-    "/views/partials/large-cta.html",
     "/views/partials/sidebar.html"
   ],
   "/content/services/cloud-based-big-data.yaml": [
