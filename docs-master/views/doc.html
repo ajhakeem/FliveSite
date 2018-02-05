@@ -28,9 +28,11 @@
     <div class="left"></div>
     <div class="right">
       {% set doc_data = g.doc('/content/includes/doc.yaml', locale=doc.locale) %}
-      {% with cta = doc_data.cta %}
-        {% include "/views/partials/footer-cta.html" %}
-      {% endwith %}
+      {% if doc_data.cta %}
+        {% with cta = doc_data.cta %}
+          {% include "/views/partials/footer-cta.html" %}
+        {% endwith %}
+      {% endif %}
       {% include "/views/partials/footer.html" %}
     </div>
   </div>

@@ -9,21 +9,16 @@ This is a quick start guide to get you up and running with Fan Stories.
 
 ### Step 1: Create an account.
 
-The first step that you would need to do create an account on Fan Stories. 
+The first step that you would need to do create an account on Xedflix
  
-### Step 2: Authorize your Facebook account..
+### Step 2: Upload videos
 
-Fan Stories requires you to authorize your Facebook accounts so that we can post your articles when you decide to share them.
+Xedflix requires that you upload your videos onto our platform so that we are able to publish onto our channels. 
 
-Fan Stories does not share anything automatically nor does it share your account data with anyone else.
- 
+### Step 3: Setup your first Channel.
 
-### Step 3: Setup your first blog / publication.
+Setup your first channel by clicking on the create a channel link onto the left.
 
-As a part of the sign up process, you will be required to setup your blog.  This blog is typically connected to your Facebook page. 
+### Step 5: Setup your channel timeline.
 
-During setup - select a desired theme, custom or a Fan Stories domain and upload a logo that best represents your publication. 
-
-### Step 5: Compose and share your first post
-
-Use the freeform editor to compose your first post. Once done you can then you can share it or schedule it, on your blog as well as Facebook. 
+Setup your channel timeline and populate it with your videos and press publish to publish your live TV channel.

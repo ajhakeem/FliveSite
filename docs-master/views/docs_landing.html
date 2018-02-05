@@ -12,11 +12,11 @@
   <div class="container main">
     {{ navmarkup|safe }}
     <div class="content">
-      <h1 class="doc-landing-title">Welcome to AMP!</h1>
+      <h1 class="doc-landing-title">Welcome to Xedflix!</h1>
       <!-- Getting Started cards -->
       <section class="getting-started">
         <div class="container">
-          <h3>Get started with AMP</h3>
+          <h3>Get started with Xedflix</h3>
           <div class="row">
             <div class="twelve columns">
               <amp-carousel class="tablet-up" loop controls
@@ -202,9 +202,11 @@
     <div class="left"></div>
     <div class="right">
       {% set doc_data = g.doc('/content/includes/doc.yaml', locale=doc.locale) %}
-      {% with cta = doc_data.cta %}
-        {% include "/views/partials/footer-cta.html" %}
-      {% endwith %}
+      {% if doc_data.cta %}
+        {% with cta = doc_data.cta %}
+          {% include "/views/partials/footer-cta.html" %}
+        {% endwith %}
+      {% endif %}
       {% include "/views/partials/footer.html" %}
     </div>
   </div>

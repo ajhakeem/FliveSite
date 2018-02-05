@@ -1,12 +1,12 @@
 blogs:
 
 - type: Video
-  title: "Getting started with Xedflix"
+  title: "What is Xedflix?"
   id: uf5K6M4AN5U
   author: Asif Ali
   role: 
   origin: "https://www.youtube.com/watch?v=uf5K6M4AN5U"
-  excerpt: "Learn how to get started with Xedflix"
+  excerpt: "Xedflix is an internet TV service that provides live tv services without the need..."
   thumbnail: "http://i3.ytimg.com/vi/uf5K6M4AN5U/hqdefault.jpg"
   avatar: 
   datedata: 2017-09-13T02:42:56+05:30
